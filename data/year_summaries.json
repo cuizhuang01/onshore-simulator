@@ -1,0 +1,3456 @@
+[
+  {
+    "id": "s0001",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0002",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0003",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0004",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0005",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0006",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0007",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0008",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0009",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0010",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0011",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0012",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0013",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0014",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0015",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0016",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0017",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0018",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0019",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0020",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0021",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0022",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0023",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0024",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0025",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0026",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0027",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0028",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0029",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0030",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0031",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0032",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0033",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0034",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0035",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0036",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0037",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0038",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0039",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0040",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0041",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0042",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0043",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0044",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0045",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0046",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0047",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0048",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0049",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0050",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0051",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0052",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0053",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0054",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0055",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0056",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0057",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0058",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0059",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0060",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0061",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0062",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0063",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0064",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0065",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0066",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0067",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0068",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0069",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0070",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0071",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0072",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0073",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0074",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0075",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0076",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0077",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0078",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0079",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0080",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0081",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0082",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0083",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0084",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0085",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0086",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0087",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0088",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0089",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0090",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0091",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0092",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0093",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0094",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0095",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0096",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0097",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0098",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0099",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0100",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0101",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0102",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0103",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0104",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0105",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0106",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0107",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0108",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0109",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0110",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0111",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0112",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0113",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0114",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0115",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0116",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0117",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0118",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0119",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0120",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0121",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0122",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0123",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0124",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0125",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0126",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0127",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0128",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0129",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0130",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0131",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0132",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0133",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0134",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0135",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0136",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0137",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0138",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0139",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0140",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0141",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0142",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0143",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0144",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0145",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0146",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0147",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0148",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0149",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0150",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0151",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0152",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0153",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0154",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0155",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0156",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0157",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0158",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0159",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0160",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0161",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0162",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0163",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0164",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0165",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0166",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0167",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0168",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0169",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0170",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0171",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0172",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0173",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0174",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0175",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0176",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0177",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0178",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0179",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0180",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0181",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0182",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0183",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0184",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0185",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0186",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0187",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0188",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0189",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0190",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0191",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0192",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0193",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0194",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0195",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0196",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0197",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0198",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0199",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0200",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0201",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0202",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0203",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0204",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0205",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0206",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0207",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0208",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0209",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0210",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0211",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0212",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0213",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0214",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0215",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0216",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0217",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0218",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0219",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0220",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0221",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0222",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0223",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0224",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0225",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0226",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0227",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0228",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0229",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0230",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0231",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0232",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0233",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0234",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0235",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0236",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0237",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0238",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0239",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0240",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0241",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0242",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0243",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0244",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0245",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0246",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0247",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0248",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0249",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0250",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0251",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0252",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0253",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0254",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0255",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0256",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0257",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0258",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0259",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0260",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0261",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0262",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0263",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0264",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0265",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0266",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0267",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0268",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0269",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0270",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0271",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0272",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0273",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0274",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0275",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0276",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0277",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0278",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0279",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0280",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0281",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0282",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0283",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0284",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0285",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0286",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0287",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0288",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0289",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0290",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0291",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0292",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0293",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0294",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0295",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0296",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0297",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0298",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0299",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0300",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0301",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0302",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0303",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0304",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0305",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0306",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0307",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0308",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0309",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0310",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0311",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0312",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0313",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0314",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0315",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0316",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0317",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0318",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0319",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0320",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0321",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0322",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0323",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0324",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0325",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0326",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0327",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0328",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0329",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0330",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0331",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0332",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0333",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0334",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0335",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0336",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0337",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0338",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0339",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0340",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0341",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0342",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0343",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0344",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0345",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0346",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0347",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0348",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0349",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0350",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0351",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0352",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0353",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0354",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0355",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0356",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0357",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0358",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0359",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0360",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0361",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0362",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0363",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0364",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0365",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0366",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0367",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0368",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0369",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0370",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0371",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0372",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0373",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0374",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0375",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0376",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0377",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0378",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0379",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0380",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0381",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0382",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0383",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0384",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0385",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0386",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0387",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0388",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0389",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0390",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0391",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0392",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0393",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0394",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0395",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0396",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0397",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0398",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0399",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0400",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0401",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0402",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0403",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0404",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0405",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0406",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0407",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0408",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0409",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0410",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0411",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0412",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0413",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0414",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0415",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0416",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0417",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0418",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0419",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0420",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0421",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0422",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0423",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0424",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0425",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0426",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0427",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0428",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0429",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0430",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0431",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0432",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0433",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0434",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0435",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0436",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0437",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0438",
+    "conditions": {},
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0439",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0440",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0441",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0442",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0443",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0444",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0445",
+    "conditions": {},
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0446",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0447",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0448",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "任意"
+  },
+  {
+    "id": "s0449",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0450",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0451",
+    "conditions": {
+      "positionWeightMin": 55
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "岗位权重高"
+  },
+  {
+    "id": "s0452",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0453",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0454",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0455",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0456",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0457",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0458",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0459",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0460",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0461",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0462",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0463",
+    "conditions": {},
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0464",
+    "conditions": {},
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0465",
+    "conditions": {
+      "riskMin": 65
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "风险高"
+  },
+  {
+    "id": "s0466",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0467",
+    "conditions": {},
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0468",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0469",
+    "conditions": {},
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0470",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0471",
+    "conditions": {},
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0472",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0473",
+    "conditions": {},
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0474",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0475",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0476",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0477",
+    "conditions": {},
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0478",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0479",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0480",
+    "conditions": {},
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0481",
+    "conditions": {},
+    "template": "这一年，你学会了把‘收到’打得很快，把委屈咽得更快。",
+    "tone": "中年阶段"
+  },
+  {
+    "id": "s0482",
+    "conditions": {},
+    "template": "这一年，会议没有少，问题没有少，你的头发倒是很配合地少了。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0483",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你离晋升近了一点，也离睡到自然醒远了一点。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0484",
+    "conditions": {
+      "desireMin": 65
+    },
+    "template": "这一年，你没有成为故事主角，但成为了很多表格的经办人。",
+    "tone": "欲望高"
+  },
+  {
+    "id": "s0485",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，家里问你累不累，你说还行；单位问你忙不忙，你说可以。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0486",
+    "conditions": {},
+    "template": "这一年，你终于明白，稳定不是没有风浪，只是风浪有编制。",
+    "tone": "临近退休"
+  },
+  {
+    "id": "s0487",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你躲过了一个坑，又接住了另一个锅。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0488",
+    "conditions": {},
+    "template": "这一年，领导开始记得你，胃也开始记得办公室的灯。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0489",
+    "conditions": {
+      "mentalPressureMin": 65
+    },
+    "template": "这一年，你的工作能力上升了，快乐没有同步更新。",
+    "tone": "心理负担高"
+  },
+  {
+    "id": "s0490",
+    "conditions": {},
+    "template": "这一年，你把生活过成了待办事项，把待办事项过成了人生。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0491",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你没有犯大错，已经算一种不小的成功。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0492",
+    "conditions": {},
+    "template": "这一年，你看着别人调走、提拔、结婚、生娃，自己负责汇总名单。",
+    "tone": "婚育阶段"
+  },
+  {
+    "id": "s0493",
+    "conditions": {
+      "familyPressureMin": 60
+    },
+    "template": "这一年，你开始相信，很多机会不是突然来的，是长期不睡觉换来的。",
+    "tone": "家庭压力高"
+  },
+  {
+    "id": "s0494",
+    "conditions": {},
+    "template": "这一年，风险没有爆炸，只是在角落里安静充电。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0495",
+    "conditions": {},
+    "template": "这一年，孩子的作业和单位的材料同时催你，你忽然很想请两个假。",
+    "tone": "县级机关"
+  },
+  {
+    "id": "s0496",
+    "conditions": {},
+    "template": "这一年，你在县里跑了很多路，地图都比组织更了解你。",
+    "tone": "基层"
+  },
+  {
+    "id": "s0497",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你在省市机关学会了精致地疲惫。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0498",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，乡镇的风吹过你，也吹乱了所有周末计划。",
+    "tone": "工作能力高"
+  },
+  {
+    "id": "s0499",
+    "conditions": {},
+    "template": "这一年，你又错过一次机会，但获得了丰富的自我安慰经验。",
+    "tone": "省市机关"
+  },
+  {
+    "id": "s0500",
+    "conditions": {
+      "workAbilityMin": 60
+    },
+    "template": "这一年，你没有被边缘化，只是核心工作暂时没有经过你。",
+    "tone": "工作能力高"
+  }
+]

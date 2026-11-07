@@ -1,0 +1,1320 @@
+[
+  {
+    "id": "base_safe",
+    "category": "base",
+    "text": "你没有成为传奇，也没有成为案例。档案很薄，生活还算完整。"
+  },
+  {
+    "id": "base_promote",
+    "category": "base",
+    "text": "你一路往上走，脚步不算轻，但每一步都有人看见，也有人记住。"
+  },
+  {
+    "id": "base_edge",
+    "category": "base",
+    "text": "你后来被放在一个不太重要的位置上，终于拥有了准时下班的资格。"
+  },
+  {
+    "id": "base_burnout",
+    "category": "base",
+    "text": "你没有输给考试，而是被长年累月的小事一点点掏空。"
+  },
+  {
+    "id": "base_arrest",
+    "category": "base",
+    "text": "最开始只是一次通融，后来每一次都像给下一次铺路。"
+  },
+  {
+    "id": "base_never",
+    "category": "base",
+    "text": "你熟悉报名系统的每一种颜色，却始终没有等到属于自己的录用公示。"
+  },
+  {
+    "id": "comment_stable",
+    "category": "comment",
+    "text": "有人说你稳，有人说你太稳了。"
+  },
+  {
+    "id": "comment_route",
+    "category": "comment",
+    "text": "有人说你有路子，也有人说路子本身就是一种能力。"
+  },
+  {
+    "id": "comment_pity",
+    "category": "comment",
+    "text": "有人替你可惜，但可惜从不负责交房贷。"
+  },
+  {
+    "id": "closing_count",
+    "category": "closing",
+    "text": "退休以后，你终于不用再看报名人数颜色。"
+  },
+  {
+    "id": "closing_save",
+    "category": "closing",
+    "text": "你学会了先保存文档，也学会了别把人生写成唯一版本。"
+  },
+  {
+    "id": "closing_wave",
+    "category": "closing",
+    "text": "岸上也会涨潮，只是你后来能分清哪一阵浪该躲。"
+  },
+  {
+    "id": "age_young_001",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore<=22",
+    "weight": 10,
+    "text": "你22岁第一次报名就上了岸，亲戚说你争气，单位说年轻人多压担子。"
+  },
+  {
+    "id": "age_young_002",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore<=22",
+    "weight": 10,
+    "text": "你刚毕业就进了系统，那时你还以为稳定是一种奖励，后来才知道它也可能是一种长期绑定。"
+  },
+  {
+    "id": "age_young_003",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore<=22",
+    "weight": 10,
+    "text": "你上岸很早，早到还没学会拒绝，已经学会了回复“收到”。"
+  },
+  {
+    "id": "age_young_004",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore<=22",
+    "weight": 10,
+    "text": "你把青春直接交给了编制，编制回赠给你一部永远有电的工作手机。"
+  },
+  {
+    "id": "age_young_005",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore<=22",
+    "weight": 10,
+    "text": "你没有经历太久等待，所以很长时间都误以为努力一定有回声。"
+  },
+  {
+    "id": "age_normal_006",
+    "category": "上岸年龄评价",
+    "condition": "23<=age_onshore<=26",
+    "weight": 10,
+    "text": "你二十多岁上岸，既不算天选，也不算太晚，刚好够家里把“再试一年”改成“终于稳了”。"
+  },
+  {
+    "id": "age_normal_007",
+    "category": "上岸年龄评价",
+    "condition": "23<=age_onshore<=26",
+    "weight": 10,
+    "text": "你用了几年把自己送进体制，简历上叫备考经历，夜里想起来叫绕路。"
+  },
+  {
+    "id": "age_normal_008",
+    "category": "上岸年龄评价",
+    "condition": "23<=age_onshore<=26",
+    "weight": 10,
+    "text": "你不是一战成名，也没有惨到没人敢问，命运给了你一个中等难度的入口。"
+  },
+  {
+    "id": "age_normal_009",
+    "category": "上岸年龄评价",
+    "condition": "23<=age_onshore<=26",
+    "weight": 10,
+    "text": "你上岸那年，朋友圈有人结婚，有人买房，你发了一张录用公示截图，配文只有两个字：结束。"
+  },
+  {
+    "id": "age_normal_010",
+    "category": "上岸年龄评价",
+    "condition": "23<=age_onshore<=26",
+    "weight": 10,
+    "text": "你终于进门时，发现门后不是终点，是另一张表格。"
+  },
+  {
+    "id": "age_late_011",
+    "category": "上岸年龄评价",
+    "condition": "27<=age_onshore<=30",
+    "weight": 10,
+    "text": "你接近三十才上岸，亲戚的祝福里带着一点松了口气。"
+  },
+  {
+    "id": "age_late_012",
+    "category": "上岸年龄评价",
+    "condition": "27<=age_onshore<=30",
+    "weight": 10,
+    "text": "你把最能熬的几年交给考试，终于换来一个能继续熬的地方。"
+  },
+  {
+    "id": "age_late_013",
+    "category": "上岸年龄评价",
+    "condition": "27<=age_onshore<=30",
+    "weight": 10,
+    "text": "你上岸时已经不太敢热血了，但很会珍惜每一次“稳定”。"
+  },
+  {
+    "id": "age_late_014",
+    "category": "上岸年龄评价",
+    "condition": "27<=age_onshore<=30",
+    "weight": 10,
+    "text": "你的青春没有浪费，只是被装订成了备考资料。"
+  },
+  {
+    "id": "age_late_015",
+    "category": "上岸年龄评价",
+    "condition": "27<=age_onshore<=30",
+    "weight": 10,
+    "text": "你进单位那年，同龄人开始带新人，而你刚开始学怎么填新人表。"
+  },
+  {
+    "id": "age_older_016",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore>30",
+    "weight": 10,
+    "text": "你三十岁后才上岸，报名系统没有鼓掌，但至少没有把门关上。"
+  },
+  {
+    "id": "age_older_017",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore>30",
+    "weight": 10,
+    "text": "你用较大的年龄换来较厚的心态，虽然岗位表已经薄得像体检报告。"
+  },
+  {
+    "id": "age_older_018",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore>30",
+    "weight": 10,
+    "text": "你上岸时已不年轻，优势是稳，劣势是单位也觉得你应该很稳。"
+  },
+  {
+    "id": "age_older_019",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore>30",
+    "weight": 10,
+    "text": "你终于上岸，像赶上了最后一班车，只是车上已经没有靠窗的位置。"
+  },
+  {
+    "id": "age_older_020",
+    "category": "上岸年龄评价",
+    "condition": "age_onshore>30",
+    "weight": 10,
+    "text": "你不是输给年龄，只是每一年都在提醒你，出生年月也参加考试。"
+  },
+  {
+    "id": "not_start_001",
+    "category": "未上岸开头",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你最终没有考上公务员。这个结果没有戏剧性，只是报名系统一年一年变得礼貌而冷淡。"
+  },
+  {
+    "id": "not_start_002",
+    "category": "未上岸开头",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你没有上岸，但你很熟悉岸边的每一块石头。"
+  },
+  {
+    "id": "not_start_003",
+    "category": "未上岸开头",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你把很多年交给了备考，最后得到的不是录用通知，而是对岗位表的过度熟练。"
+  },
+  {
+    "id": "not_start_004",
+    "category": "未上岸开头",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你没有成为体制内的人，却比很多体制内的人更懂报名时间。"
+  },
+  {
+    "id": "not_start_005",
+    "category": "未上岸开头",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你最终离开了考公路线，像从一场排队很久的电影里提前退场。"
+  },
+  {
+    "id": "platform_county_001",
+    "category": "单位平台评价",
+    "condition": "level=='县级'",
+    "weight": 10,
+    "text": "县里的系统不大，但每个人都离得很近，近到好事传得快，坏事传得更快。"
+  },
+  {
+    "id": "platform_county_002",
+    "category": "单位平台评价",
+    "condition": "level=='县级'",
+    "weight": 10,
+    "text": "你在县里工作多年，明白了一个道理：平台不高，但事情一点不少。"
+  },
+  {
+    "id": "platform_county_003",
+    "category": "单位平台评价",
+    "condition": "level=='县级'",
+    "weight": 10,
+    "text": "县级单位像一张熟人网，你每动一下，网上都有人知道。"
+  },
+  {
+    "id": "platform_county_004",
+    "category": "单位平台评价",
+    "condition": "level=='县级'",
+    "weight": 10,
+    "text": "你离基层不远，离领导也不远，离下班通常最远。"
+  },
+  {
+    "id": "platform_county_005",
+    "category": "单位平台评价",
+    "condition": "level=='县级'",
+    "weight": 10,
+    "text": "县里的晋升像窄楼梯，大家都看得见，大家都不好让。"
+  },
+  {
+    "id": "platform_city_006",
+    "category": "单位平台评价",
+    "condition": "level=='市级'",
+    "weight": 10,
+    "text": "市里的平台比县里宽一点，机会也多一点，只是优秀的人也多了一圈。"
+  },
+  {
+    "id": "platform_city_007",
+    "category": "单位平台评价",
+    "condition": "level=='市级'",
+    "weight": 10,
+    "text": "你在市级机关学会了体面地忙，也学会了体面地错过机会。"
+  },
+  {
+    "id": "platform_city_008",
+    "category": "单位平台评价",
+    "condition": "level=='市级'",
+    "weight": 10,
+    "text": "市里的节奏不至于把人碾碎，但足够把周末压扁。"
+  },
+  {
+    "id": "platform_city_009",
+    "category": "单位平台评价",
+    "condition": "level=='市级'",
+    "weight": 10,
+    "text": "你离基层远了一点，离材料和会议近了很多。"
+  },
+  {
+    "id": "platform_city_010",
+    "category": "单位平台评价",
+    "condition": "level=='市级'",
+    "weight": 10,
+    "text": "市级平台给了你上升的可能，也给了你更多看别人上升的机会。"
+  },
+  {
+    "id": "platform_province_011",
+    "category": "单位平台评价",
+    "condition": "level=='省级'",
+    "weight": 10,
+    "text": "省里的平台很高，高到很多机会看起来像正常安排。"
+  },
+  {
+    "id": "platform_province_012",
+    "category": "单位平台评价",
+    "condition": "level=='省级'",
+    "weight": 10,
+    "text": "你在省级机关工作，见过太多优秀的人，于是学会把焦虑写进日程表。"
+  },
+  {
+    "id": "platform_province_013",
+    "category": "单位平台评价",
+    "condition": "level=='省级'",
+    "weight": 10,
+    "text": "省里的天花板更高，但每层楼都有人排队。"
+  },
+  {
+    "id": "platform_province_014",
+    "category": "单位平台评价",
+    "condition": "level=='省级'",
+    "weight": 10,
+    "text": "你离基层很远，却经常在材料里代表基层。"
+  },
+  {
+    "id": "platform_province_015",
+    "category": "单位平台评价",
+    "condition": "level=='省级'",
+    "weight": 10,
+    "text": "省级平台给了你体面的履历，也给了你体面的疲惫。"
+  },
+  {
+    "id": "platform_grass_016",
+    "category": "单位平台评价",
+    "condition": "level in ['乡镇','街道']",
+    "weight": 10,
+    "text": "你在基层待了很久，久到手机里的通讯录比家族谱还复杂。"
+  },
+  {
+    "id": "platform_grass_017",
+    "category": "单位平台评价",
+    "condition": "level in ['乡镇','街道']",
+    "weight": 10,
+    "text": "基层没有太多宏大叙事，只有今天检查、明天报表、后天群众来访。"
+  },
+  {
+    "id": "platform_grass_018",
+    "category": "单位平台评价",
+    "condition": "level in ['乡镇','街道']",
+    "weight": 10,
+    "text": "你离群众最近，也离无效周末最近。"
+  },
+  {
+    "id": "platform_grass_019",
+    "category": "单位平台评价",
+    "condition": "level in ['乡镇','街道']",
+    "weight": 10,
+    "text": "乡镇和街道教会你一件事：所有“马上”都不是副词，是命令。"
+  },
+  {
+    "id": "platform_grass_020",
+    "category": "单位平台评价",
+    "condition": "level in ['乡镇','街道']",
+    "weight": 10,
+    "text": "你熟悉每条路、每个村、每张表，也逐渐不太熟悉自己的休息日。"
+  },
+  {
+    "id": "promo_zero_001",
+    "category": "晋升评价",
+    "condition": "promotions==0",
+    "weight": 10,
+    "text": "你这一生没有真正意义上的提拔，组织对你的评价一直很稳定：继续保持。"
+  },
+  {
+    "id": "promo_zero_002",
+    "category": "晋升评价",
+    "condition": "promotions==0",
+    "weight": 10,
+    "text": "你错过了很多次调整，每次都有人说下次一定，后来下次也退休了。"
+  },
+  {
+    "id": "promo_zero_003",
+    "category": "晋升评价",
+    "condition": "promotions==0",
+    "weight": 10,
+    "text": "你的职务变化很少，但办公桌换过几次，椅子越来越符合人体工学，也越来越像安慰奖。"
+  },
+  {
+    "id": "promo_zero_004",
+    "category": "晋升评价",
+    "condition": "promotions==0",
+    "weight": 10,
+    "text": "你没有往上走太多，好处是摔下来的机会也少。"
+  },
+  {
+    "id": "promo_zero_005",
+    "category": "晋升评价",
+    "condition": "promotions==0",
+    "weight": 10,
+    "text": "你的人事档案很薄，像一本被命运节约纸张的书。"
+  },
+  {
+    "id": "promo_mid_006",
+    "category": "晋升评价",
+    "condition": "promotions between 1 and 2",
+    "weight": 10,
+    "text": "你也提过职，不算快，但足够让亲戚在饭桌上更新一次介绍方式。"
+  },
+  {
+    "id": "promo_mid_007",
+    "category": "晋升评价",
+    "condition": "promotions between 1 and 2",
+    "weight": 10,
+    "text": "你上升过几次，每一次都像排队终于往前挪了一格。"
+  },
+  {
+    "id": "promo_mid_008",
+    "category": "晋升评价",
+    "condition": "promotions between 1 and 2",
+    "weight": 10,
+    "text": "你不是火箭干部，也不是原地石像，人生介于“还行”和“就这样”之间。"
+  },
+  {
+    "id": "promo_mid_009",
+    "category": "晋升评价",
+    "condition": "promotions between 1 and 2",
+    "weight": 10,
+    "text": "你有过机会，也抓住过一点，没抓住的更多。"
+  },
+  {
+    "id": "promo_mid_010",
+    "category": "晋升评价",
+    "condition": "promotions between 1 and 2",
+    "weight": 10,
+    "text": "你最终的位置不算低，也不算高，刚好够别人评价一句：他还可以。"
+  },
+  {
+    "id": "promo_high_011",
+    "category": "晋升评价",
+    "condition": "promotions>=3",
+    "weight": 10,
+    "text": "你升得不慢，身边的人一边祝贺，一边重新计算与你的距离。"
+  },
+  {
+    "id": "promo_high_012",
+    "category": "晋升评价",
+    "condition": "promotions>=3",
+    "weight": 10,
+    "text": "你多次被推到更重要的位置，每次都伴随着更亮的灯和更晚的夜。"
+  },
+  {
+    "id": "promo_high_013",
+    "category": "晋升评价",
+    "condition": "promotions>=3",
+    "weight": 10,
+    "text": "你走得很快，快到有些人夸你能力强，有些人夸你命好，有些人干脆不夸。"
+  },
+  {
+    "id": "promo_high_014",
+    "category": "晋升评价",
+    "condition": "promotions>=3",
+    "weight": 10,
+    "text": "你的职务表很好看，只是体检表不太配合。"
+  },
+  {
+    "id": "promo_high_015",
+    "category": "晋升评价",
+    "condition": "promotions>=3",
+    "weight": 10,
+    "text": "你一路往上，终于明白楼层越高，窗外风越大。"
+  },
+  {
+    "id": "missed_001",
+    "category": "错过晋升评价",
+    "condition": "missed_promotions>=3",
+    "weight": 10,
+    "text": "你错过过几次晋升。最开始你会失眠，后来你会安慰别人：正常。"
+  },
+  {
+    "id": "missed_002",
+    "category": "错过晋升评价",
+    "condition": "missed_promotions>=3",
+    "weight": 10,
+    "text": "每次调整前你都被提起，每次文件出来你都被略过，久而久之你成了传闻里的常驻嘉宾。"
+  },
+  {
+    "id": "missed_003",
+    "category": "错过晋升评价",
+    "condition": "missed_promotions>=3",
+    "weight": 10,
+    "text": "你有几次离机会很近，近到后来想起来都像单位里的走廊：看得到尽头，但走不到。"
+  },
+  {
+    "id": "missed_004",
+    "category": "错过晋升评价",
+    "condition": "missed_promotions>=3",
+    "weight": 10,
+    "text": "错过晋升让你变得成熟，成熟的意思是，不再当场难过。"
+  },
+  {
+    "id": "missed_005",
+    "category": "错过晋升评价",
+    "condition": "missed_promotions>=3",
+    "weight": 10,
+    "text": "你慢慢学会了对别人的提拔表示祝贺，并把手机放下得很轻。"
+  },
+  {
+    "id": "family_high_001",
+    "category": "家庭评价",
+    "condition": "family_pressure_high",
+    "weight": 10,
+    "text": "家里一直希望你稳一点、再稳一点，后来你发现稳定本身也会制造压力。"
+  },
+  {
+    "id": "family_high_002",
+    "category": "家庭评价",
+    "condition": "family_pressure_high",
+    "weight": 10,
+    "text": "你买房以后，很多选择突然变得不再像选择。"
+  },
+  {
+    "id": "family_high_003",
+    "category": "家庭评价",
+    "condition": "family_pressure_high",
+    "weight": 10,
+    "text": "孩子升学那几年，你白天处理单位的表，晚上处理家里的表。"
+  },
+  {
+    "id": "family_high_004",
+    "category": "家庭评价",
+    "condition": "family_pressure_high",
+    "weight": 10,
+    "text": "你把工作带回家，也把家里的沉默带回办公室。"
+  },
+  {
+    "id": "family_high_005",
+    "category": "家庭评价",
+    "condition": "family_pressure_high",
+    "weight": 10,
+    "text": "家人理解你，但理解不能替你陪孩子，也不能替你睡觉。"
+  },
+  {
+    "id": "family_good_006",
+    "category": "家庭评价",
+    "condition": "family_good",
+    "weight": 10,
+    "text": "你的家庭没有总拖住你，这已经是成年人能抽到的高级天赋。"
+  },
+  {
+    "id": "family_good_007",
+    "category": "家庭评价",
+    "condition": "family_good",
+    "weight": 10,
+    "text": "家里给过你托底，让你在几次失败后还能说一句再试试。"
+  },
+  {
+    "id": "family_good_008",
+    "category": "家庭评价",
+    "condition": "family_good",
+    "weight": 10,
+    "text": "你不是没有压力，只是回家后还有人愿意听你把话说完。"
+  },
+  {
+    "id": "family_good_009",
+    "category": "家庭评价",
+    "condition": "family_good",
+    "weight": 10,
+    "text": "你的生活没有完全输给工作，虽然也没赢得太漂亮。"
+  },
+  {
+    "id": "family_good_010",
+    "category": "家庭评价",
+    "condition": "family_good",
+    "weight": 10,
+    "text": "你后来明白，真正稳定的不是单位，是有人知道你几点回家。"
+  },
+  {
+    "id": "desire_high_001",
+    "category": "欲望评价",
+    "condition": "desire_high",
+    "weight": 10,
+    "text": "你一直不甘心。不甘心让你努力，也让你几次差点把脚伸进不该踩的地方。"
+  },
+  {
+    "id": "desire_high_002",
+    "category": "欲望评价",
+    "condition": "desire_high",
+    "weight": 10,
+    "text": "你想往上走，这没错。只是路越往上，旁边递来的捷径越多。"
+  },
+  {
+    "id": "desire_high_003",
+    "category": "欲望评价",
+    "condition": "desire_high",
+    "weight": 10,
+    "text": "你的欲望像一盏灯，照亮机会，也照亮了坑。"
+  },
+  {
+    "id": "desire_high_004",
+    "category": "欲望评价",
+    "condition": "desire_high",
+    "weight": 10,
+    "text": "你不是贪心，你只是太想证明自己。可很多越界，最开始都叫证明自己。"
+  },
+  {
+    "id": "desire_high_005",
+    "category": "欲望评价",
+    "condition": "desire_high",
+    "weight": 10,
+    "text": "你后来很少说累，因为说累听起来像认输。"
+  },
+  {
+    "id": "desire_low_006",
+    "category": "欲望评价",
+    "condition": "desire_low",
+    "weight": 10,
+    "text": "你欲望不高，这让你错过一些机会，也避开不少事故。"
+  },
+  {
+    "id": "desire_low_007",
+    "category": "欲望评价",
+    "condition": "desire_low",
+    "weight": 10,
+    "text": "你没有太想赢，所以也没有输得太难看。"
+  },
+  {
+    "id": "desire_low_008",
+    "category": "欲望评价",
+    "condition": "desire_low",
+    "weight": 10,
+    "text": "别人往上挤时，你在旁边把杯子洗了。多年以后，你发现这也是一种生存策略。"
+  },
+  {
+    "id": "desire_low_009",
+    "category": "欲望评价",
+    "condition": "desire_low",
+    "weight": 10,
+    "text": "你不是没有理想，只是理想后来学会了按时下班。"
+  },
+  {
+    "id": "desire_low_010",
+    "category": "欲望评价",
+    "condition": "desire_low",
+    "weight": 10,
+    "text": "你把很多锋芒收了起来，换来一段相对完整的生活。"
+  },
+  {
+    "id": "risk_high_001",
+    "category": "风险廉洁评价",
+    "condition": "risk_high",
+    "weight": 10,
+    "text": "你身上的雷不是一天埋下的。它们来自一次签字、一次饭局、一次“大家都这么办”。"
+  },
+  {
+    "id": "risk_high_002",
+    "category": "风险廉洁评价",
+    "condition": "risk_high",
+    "weight": 10,
+    "text": "你熟悉流程，也一度相信流程会替你沉默。"
+  },
+  {
+    "id": "risk_high_003",
+    "category": "风险廉洁评价",
+    "condition": "risk_high",
+    "weight": 10,
+    "text": "风险最开始没有声音，后来每次手机响，你都觉得像敲门。"
+  },
+  {
+    "id": "risk_high_004",
+    "category": "风险廉洁评价",
+    "condition": "risk_high",
+    "weight": 10,
+    "text": "你不是突然翻车的，你只是走了太久没有路灯的近路。"
+  },
+  {
+    "id": "risk_high_005",
+    "category": "风险廉洁评价",
+    "condition": "risk_high",
+    "weight": 10,
+    "text": "你后来才知道，有些人情不是帮忙，是借条。"
+  },
+  {
+    "id": "integrity_high_006",
+    "category": "风险廉洁评价",
+    "condition": "integrity_high",
+    "weight": 10,
+    "text": "你守住了很多底线，代价是某些圈子始终没把你当自己人。"
+  },
+  {
+    "id": "integrity_high_007",
+    "category": "风险廉洁评价",
+    "condition": "integrity_high",
+    "weight": 10,
+    "text": "你不算特别灵活，但很多风浪经过你时，确实绕开了。"
+  },
+  {
+    "id": "integrity_high_008",
+    "category": "风险廉洁评价",
+    "condition": "integrity_high",
+    "weight": 10,
+    "text": "你慢了一点，却睡得比很多人踏实一点。"
+  },
+  {
+    "id": "integrity_high_009",
+    "category": "风险廉洁评价",
+    "condition": "integrity_high",
+    "weight": 10,
+    "text": "你的原则没有让你大富大贵，但至少没有让你半夜惊醒。"
+  },
+  {
+    "id": "integrity_high_010",
+    "category": "风险廉洁评价",
+    "condition": "integrity_high",
+    "weight": 10,
+    "text": "有人说你轴，你后来觉得这也算一种组织鉴定。"
+  },
+  {
+    "id": "mental_high_001",
+    "category": "心理身体评价",
+    "condition": "mental_high",
+    "weight": 10,
+    "text": "你的身体最先知道这份工作不轻松，胃和睡眠轮流给你写情况说明。"
+  },
+  {
+    "id": "mental_high_002",
+    "category": "心理身体评价",
+    "condition": "mental_high",
+    "weight": 10,
+    "text": "你没有当场崩溃，只是把崩溃拆成很多个工作日。"
+  },
+  {
+    "id": "mental_high_003",
+    "category": "心理身体评价",
+    "condition": "mental_high",
+    "weight": 10,
+    "text": "你看起来一直正常，这正是问题最隐蔽的地方。"
+  },
+  {
+    "id": "mental_high_004",
+    "category": "心理身体评价",
+    "condition": "mental_high",
+    "weight": 10,
+    "text": "你学会了在会场点头，也学会了在夜里盯着天花板复盘。"
+  },
+  {
+    "id": "mental_high_005",
+    "category": "心理身体评价",
+    "condition": "mental_high",
+    "weight": 10,
+    "text": "你的疲惫没有成为新闻，只成为体检报告里几个向上的箭头。"
+  },
+  {
+    "id": "mental_low_006",
+    "category": "心理身体评价",
+    "condition": "mental_low",
+    "weight": 10,
+    "text": "你没有把自己完全交给工作，这在系统里不算先进，却很像一种智慧。"
+  },
+  {
+    "id": "mental_low_007",
+    "category": "心理身体评价",
+    "condition": "mental_low",
+    "weight": 10,
+    "text": "你偶尔还能睡到自然醒，虽然次数不多，但足够让你觉得人生尚可。"
+  },
+  {
+    "id": "mental_low_008",
+    "category": "心理身体评价",
+    "condition": "mental_low",
+    "weight": 10,
+    "text": "你慢慢掌握了一个技巧：不是什么通知都值得心跳加速。"
+  },
+  {
+    "id": "mental_low_009",
+    "category": "心理身体评价",
+    "condition": "mental_low",
+    "weight": 10,
+    "text": "你的身体没有完全背叛你，主要因为你没有完全背叛身体。"
+  },
+  {
+    "id": "mental_low_010",
+    "category": "心理身体评价",
+    "condition": "mental_low",
+    "weight": 10,
+    "text": "你把工作放在工作里，虽然做不到每次，但做到了几次关键的。"
+  },
+  {
+    "id": "others_bg_high_001",
+    "category": "他人评价",
+    "condition": "background_high",
+    "weight": 10,
+    "text": "别人提起你时，常把能力和背景放在同一句话里，顺序看关系远近。"
+  },
+  {
+    "id": "others_bg_high_002",
+    "category": "他人评价",
+    "condition": "background_high",
+    "weight": 10,
+    "text": "有人说你有资源，有人说你会做人，也有人说这两者差不多。"
+  },
+  {
+    "id": "others_bg_high_003",
+    "category": "他人评价",
+    "condition": "background_high",
+    "weight": 10,
+    "text": "你的路比别人顺一点，于是你要花很多力气证明自己不是只靠顺。"
+  },
+  {
+    "id": "others_bg_high_004",
+    "category": "他人评价",
+    "condition": "background_high",
+    "weight": 10,
+    "text": "你身后有人，这帮你避开了风，也让你更容易被看见。"
+  },
+  {
+    "id": "others_bg_high_005",
+    "category": "他人评价",
+    "condition": "background_high",
+    "weight": 10,
+    "text": "你得到了提醒，也得到了标签。"
+  },
+  {
+    "id": "others_bg_low_006",
+    "category": "他人评价",
+    "condition": "background_low",
+    "weight": 10,
+    "text": "你基本靠自己。好处是没人能说你靠谁，坏处是很多门也确实没人替你敲。"
+  },
+  {
+    "id": "others_bg_low_007",
+    "category": "他人评价",
+    "condition": "background_low",
+    "weight": 10,
+    "text": "你的每一步都比较实在，实在到有时显得慢。"
+  },
+  {
+    "id": "others_bg_low_008",
+    "category": "他人评价",
+    "condition": "background_low",
+    "weight": 10,
+    "text": "你没有太多背景，组织认识你的方式主要靠材料、加班和偶尔的点名。"
+  },
+  {
+    "id": "others_bg_low_009",
+    "category": "他人评价",
+    "condition": "background_low",
+    "weight": 10,
+    "text": "你走得不算轻松，但每一步都能说清楚来处。"
+  },
+  {
+    "id": "others_bg_low_010",
+    "category": "他人评价",
+    "condition": "background_low",
+    "weight": 10,
+    "text": "没人替你铺路，所以你很早就学会看路。"
+  },
+  {
+    "id": "ending_retire_001",
+    "category": "结尾收束",
+    "condition": "retire_normal",
+    "weight": 10,
+    "text": "退休那天，办公室来了新人。他问你系统怎么填。你看着他，像看见当年的自己，只说：先保存，别相信自动保存。"
+  },
+  {
+    "id": "ending_retire_002",
+    "category": "结尾收束",
+    "condition": "retire_normal",
+    "weight": 10,
+    "text": "你离开单位时，电脑还在更新，群里还在@全体。你终于可以不回复，但手指还是习惯性地点开了。"
+  },
+  {
+    "id": "ending_retire_003",
+    "category": "结尾收束",
+    "condition": "retire_normal",
+    "weight": 10,
+    "text": "你这一生没有答案，只有很多次选择后的结果。上岸不是结束，岸上也会涨潮。"
+  },
+  {
+    "id": "ending_retire_004",
+    "category": "结尾收束",
+    "condition": "retire_normal",
+    "weight": 10,
+    "text": "你把三十多年交给了一个叫稳定的词。最后发现稳定不是没有风浪，而是风浪来时你还坐在原位。"
+  },
+  {
+    "id": "ending_retire_005",
+    "category": "结尾收束",
+    "condition": "retire_normal",
+    "weight": 10,
+    "text": "档案归档，办公桌清空。你带走的东西不多，除了几种胃药和一种看透又没完全看透的表情。"
+  },
+  {
+    "id": "ending_arrest_006",
+    "category": "结尾收束",
+    "condition": "arrested",
+    "weight": 10,
+    "text": "后来的通报很短，短到装不下你漫长的侥幸。"
+  },
+  {
+    "id": "ending_arrest_007",
+    "category": "结尾收束",
+    "condition": "arrested",
+    "weight": 10,
+    "text": "你曾经很熟悉流程，最后也成为流程的一部分。"
+  },
+  {
+    "id": "ending_arrest_008",
+    "category": "结尾收束",
+    "condition": "arrested",
+    "weight": 10,
+    "text": "你离开单位那天没有欢送，只有几个人把群名悄悄改了。"
+  },
+  {
+    "id": "ending_arrest_009",
+    "category": "结尾收束",
+    "condition": "arrested",
+    "weight": 10,
+    "text": "大家谈起你时都很小声，仿佛声音大一点，风险也会扩散。"
+  },
+  {
+    "id": "ending_arrest_010",
+    "category": "结尾收束",
+    "condition": "arrested",
+    "weight": 10,
+    "text": "你不是输给某一次选择，而是输给每一次都觉得问题不大。"
+  },
+  {
+    "id": "ending_not_011",
+    "category": "结尾收束",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你没有上岸，但你也不是毫无收获。至少你知道哪些岗位看起来稳定，哪些竞争比看起来像灾难。"
+  },
+  {
+    "id": "ending_not_012",
+    "category": "结尾收束",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "后来你不再打开报名系统，系统也不再提醒你。成年人之间的告别，有时就是互不打扰。"
+  },
+  {
+    "id": "ending_not_013",
+    "category": "结尾收束",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你没有进入体制，却把体制门口研究得很透。朋友问你报什么岗，你依然能给出专业建议。"
+  },
+  {
+    "id": "ending_not_014",
+    "category": "结尾收束",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "岸没有接住你，但生活还是把你往前推。它从不发录用通知，只发账单。"
+  },
+  {
+    "id": "ending_not_015",
+    "category": "结尾收束",
+    "condition": "not_onshore",
+    "weight": 10,
+    "text": "你最终接受了另一种生活。它没有编制，也没有那么多“收到”，这听起来竟然不完全是坏事。"
+  },
+  {
+    "id": "extra_reflection_001",
+    "category": "base",
+    "condition": "employed",
+    "text": "你后来学会把话说短一点，因为长句子常常会被别人截成任务。"
+  },
+  {
+    "id": "extra_reflection_002",
+    "category": "comment",
+    "condition": "not_onshore",
+    "text": "有些年份没有大新闻，却把人磨得很具体：肩颈、睡眠、语气，都有痕迹。"
+  },
+  {
+    "id": "extra_reflection_003",
+    "category": "closing",
+    "condition": "risk_high",
+    "text": "你不是没有理想，只是理想后来学会了坐在角落，不打扰会议。"
+  },
+  {
+    "id": "extra_reflection_004",
+    "category": "reflection",
+    "condition": "pressure_high",
+    "text": "单位没有承诺给你完整人生，它只承诺让你不断证明自己还在线。"
+  },
+  {
+    "id": "extra_reflection_005",
+    "category": "base",
+    "condition": "ordinary",
+    "text": "很多东西当时叫锻炼，过几年回头看，更像一种慢性折旧。"
+  },
+  {
+    "id": "extra_reflection_006",
+    "category": "comment",
+    "condition": "employed",
+    "text": "你曾经以为稳定是一张床，后来发现它更像一把椅子，能坐，不能躺。"
+  },
+  {
+    "id": "extra_reflection_007",
+    "category": "closing",
+    "condition": "not_onshore",
+    "text": "你没有变成谁的传奇，但也没有完全被现实吞掉。中间那段，就是人生。"
+  },
+  {
+    "id": "extra_reflection_008",
+    "category": "reflection",
+    "condition": "risk_high",
+    "text": "名单、座次、通知、口径，这些词后来像老邻居一样熟，熟得不太礼貌。"
+  },
+  {
+    "id": "extra_reflection_009",
+    "category": "base",
+    "condition": "pressure_high",
+    "text": "你被看见过，也被忽略过。最尴尬的是，有时这两件事发生在同一天。"
+  },
+  {
+    "id": "extra_reflection_010",
+    "category": "comment",
+    "condition": "ordinary",
+    "text": "所谓成长，大概就是越来越会说没事，也越来越知道没事不代表没伤。"
+  },
+  {
+    "id": "extra_reflection_011",
+    "category": "closing",
+    "condition": "employed",
+    "text": "你在岸上学会游泳，在岸边学会憋气，反正没有哪一边真正干燥。"
+  },
+  {
+    "id": "extra_reflection_012",
+    "category": "reflection",
+    "condition": "not_onshore",
+    "text": "人生没有给你标准答案，只给了几道多选题，且每个选项都有后果。"
+  },
+  {
+    "id": "extra_reflection_013",
+    "category": "base",
+    "condition": "risk_high",
+    "text": "你最后没有总结出大道理，只总结出一个小经验：别把身体当办公用品。"
+  },
+  {
+    "id": "extra_reflection_014",
+    "category": "comment",
+    "condition": "pressure_high",
+    "text": "后来你再听见稳定两个字，会先笑一下，再问一句：稳定的是谁。"
+  },
+  {
+    "id": "extra_reflection_015",
+    "category": "closing",
+    "condition": "ordinary",
+    "text": "这局人生没有爽文节奏，但有很多现实脚注，每一条都不太轻。"
+  },
+  {
+    "id": "extra_reflection_016",
+    "category": "reflection",
+    "condition": "employed",
+    "text": "你后来学会把话说短一点，因为长句子常常会被别人截成任务。话没有说满，心里却把退路画得很清楚。"
+  },
+  {
+    "id": "extra_reflection_017",
+    "category": "base",
+    "condition": "not_onshore",
+    "text": "有些年份没有大新闻，却把人磨得很具体：肩颈、睡眠、语气，都有痕迹。你没赢，但至少没有把自己交出去。"
+  },
+  {
+    "id": "extra_reflection_018",
+    "category": "comment",
+    "condition": "risk_high",
+    "text": "你不是没有理想，只是理想后来学会了坐在角落，不打扰会议。表面很稳，实际上只是把慌张折小了。"
+  },
+  {
+    "id": "extra_reflection_019",
+    "category": "closing",
+    "condition": "pressure_high",
+    "text": "单位没有承诺给你完整人生，它只承诺让你不断证明自己还在线。这一步不漂亮，但比原地挨打强一点。"
+  },
+  {
+    "id": "extra_reflection_020",
+    "category": "reflection",
+    "condition": "ordinary",
+    "text": "很多东西当时叫锻炼，过几年回头看，更像一种慢性折旧。你把情绪放进抽屉，抽屉没有上锁。"
+  },
+  {
+    "id": "extra_reflection_021",
+    "category": "base",
+    "condition": "employed",
+    "text": "你曾经以为稳定是一张床，后来发现它更像一把椅子，能坐，不能躺。别人看你没动，其实你在心里换了好几次座位。"
+  },
+  {
+    "id": "extra_reflection_022",
+    "category": "comment",
+    "condition": "not_onshore",
+    "text": "你没有变成谁的传奇，但也没有完全被现实吞掉。中间那段，就是人生。这件事没给答案，只给了一个更难看的问号。"
+  },
+  {
+    "id": "extra_reflection_023",
+    "category": "closing",
+    "condition": "risk_high",
+    "text": "名单、座次、通知、口径，这些词后来像老邻居一样熟，熟得不太礼貌。你把尴尬咽下去，顺手给它贴了个标签。"
+  },
+  {
+    "id": "extra_reflection_024",
+    "category": "reflection",
+    "condition": "pressure_high",
+    "text": "你被看见过，也被忽略过。最尴尬的是，有时这两件事发生在同一天。后来回想，这一秒比很多大事都更像分岔口。"
+  },
+  {
+    "id": "extra_reflection_025",
+    "category": "base",
+    "condition": "ordinary",
+    "text": "所谓成长，大概就是越来越会说没事，也越来越知道没事不代表没伤。你没有立刻破防，只是把破防预约到了晚上。"
+  },
+  {
+    "id": "extra_reflection_026",
+    "category": "comment",
+    "condition": "employed",
+    "text": "你在岸上学会游泳，在岸边学会憋气，反正没有哪一边真正干燥。风向没明说，但你已经闻到一点打印纸的味道。"
+  },
+  {
+    "id": "extra_reflection_027",
+    "category": "closing",
+    "condition": "not_onshore",
+    "text": "人生没有给你标准答案，只给了几道多选题，且每个选项都有后果。你开始懂得，有些沉默不是认输，是先省电。"
+  },
+  {
+    "id": "extra_reflection_028",
+    "category": "reflection",
+    "condition": "risk_high",
+    "text": "你最后没有总结出大道理，只总结出一个小经验：别把身体当办公用品。这次你没装聪明，命运反而少扣了一点分。"
+  },
+  {
+    "id": "extra_reflection_029",
+    "category": "base",
+    "condition": "pressure_high",
+    "text": "后来你再听见稳定两个字，会先笑一下，再问一句：稳定的是谁。你把答案留短，免得未来拿它反复审你。"
+  },
+  {
+    "id": "extra_reflection_030",
+    "category": "comment",
+    "condition": "ordinary",
+    "text": "这局人生没有爽文节奏，但有很多现实脚注，每一条都不太轻。事情没变简单，只是你终于不再假装它简单。"
+  },
+  {
+    "id": "extra_reflection_031",
+    "category": "closing",
+    "condition": "employed",
+    "text": "你后来学会把话说短一点，因为长句子常常会被别人截成任务。你给自己留了半步，半步有时比豪言壮语有用。"
+  },
+  {
+    "id": "extra_reflection_032",
+    "category": "reflection",
+    "condition": "not_onshore",
+    "text": "有些年份没有大新闻，却把人磨得很具体：肩颈、睡眠、语气，都有痕迹。这条路还是窄，但你至少知道哪里容易磕脚。"
+  },
+  {
+    "id": "extra_reflection_033",
+    "category": "base",
+    "condition": "risk_high",
+    "text": "你不是没有理想，只是理想后来学会了坐在角落，不打扰会议。你没有热血上头，只让理智先占了个座。"
+  },
+  {
+    "id": "extra_reflection_034",
+    "category": "comment",
+    "condition": "pressure_high",
+    "text": "单位没有承诺给你完整人生，它只承诺让你不断证明自己还在线。人情像雾，散不掉，只能慢慢走。"
+  },
+  {
+    "id": "extra_reflection_035",
+    "category": "closing",
+    "condition": "ordinary",
+    "text": "很多东西当时叫锻炼，过几年回头看，更像一种慢性折旧。这回你学会先看门缝，再决定要不要伸手。"
+  },
+  {
+    "id": "extra_reflection_036",
+    "category": "reflection",
+    "condition": "employed",
+    "text": "你曾经以为稳定是一张床，后来发现它更像一把椅子，能坐，不能躺。话没有说满，心里却把退路画得很清楚。"
+  },
+  {
+    "id": "extra_reflection_037",
+    "category": "base",
+    "condition": "not_onshore",
+    "text": "你没有变成谁的传奇，但也没有完全被现实吞掉。中间那段，就是人生。你没赢，但至少没有把自己交出去。"
+  },
+  {
+    "id": "extra_reflection_038",
+    "category": "comment",
+    "condition": "risk_high",
+    "text": "名单、座次、通知、口径，这些词后来像老邻居一样熟，熟得不太礼貌。表面很稳，实际上只是把慌张折小了。"
+  },
+  {
+    "id": "extra_reflection_039",
+    "category": "closing",
+    "condition": "pressure_high",
+    "text": "你被看见过，也被忽略过。最尴尬的是，有时这两件事发生在同一天。这一步不漂亮，但比原地挨打强一点。"
+  },
+  {
+    "id": "extra_reflection_040",
+    "category": "reflection",
+    "condition": "ordinary",
+    "text": "所谓成长，大概就是越来越会说没事，也越来越知道没事不代表没伤。你把情绪放进抽屉，抽屉没有上锁。"
+  },
+  {
+    "id": "extra_reflection_041",
+    "category": "base",
+    "condition": "employed",
+    "text": "你在岸上学会游泳，在岸边学会憋气，反正没有哪一边真正干燥。别人看你没动，其实你在心里换了好几次座位。"
+  },
+  {
+    "id": "extra_reflection_042",
+    "category": "comment",
+    "condition": "not_onshore",
+    "text": "人生没有给你标准答案，只给了几道多选题，且每个选项都有后果。这件事没给答案，只给了一个更难看的问号。"
+  },
+  {
+    "id": "extra_reflection_043",
+    "category": "closing",
+    "condition": "risk_high",
+    "text": "你最后没有总结出大道理，只总结出一个小经验：别把身体当办公用品。你把尴尬咽下去，顺手给它贴了个标签。"
+  },
+  {
+    "id": "extra_reflection_044",
+    "category": "reflection",
+    "condition": "pressure_high",
+    "text": "后来你再听见稳定两个字，会先笑一下，再问一句：稳定的是谁。后来回想，这一秒比很多大事都更像分岔口。"
+  },
+  {
+    "id": "extra_reflection_045",
+    "category": "base",
+    "condition": "ordinary",
+    "text": "这局人生没有爽文节奏，但有很多现实脚注，每一条都不太轻。你没有立刻破防，只是把破防预约到了晚上。"
+  },
+  {
+    "id": "extra_reflection_046",
+    "category": "comment",
+    "condition": "employed",
+    "text": "你后来学会把话说短一点，因为长句子常常会被别人截成任务。风向没明说，但你已经闻到一点打印纸的味道。"
+  },
+  {
+    "id": "extra_reflection_047",
+    "category": "closing",
+    "condition": "not_onshore",
+    "text": "有些年份没有大新闻，却把人磨得很具体：肩颈、睡眠、语气，都有痕迹。你开始懂得，有些沉默不是认输，是先省电。"
+  },
+  {
+    "id": "extra_reflection_048",
+    "category": "reflection",
+    "condition": "risk_high",
+    "text": "你不是没有理想，只是理想后来学会了坐在角落，不打扰会议。这次你没装聪明，命运反而少扣了一点分。"
+  },
+  {
+    "id": "extra_reflection_049",
+    "category": "base",
+    "condition": "pressure_high",
+    "text": "单位没有承诺给你完整人生，它只承诺让你不断证明自己还在线。你把答案留短，免得未来拿它反复审你。"
+  },
+  {
+    "id": "extra_reflection_050",
+    "category": "comment",
+    "condition": "ordinary",
+    "text": "很多东西当时叫锻炼，过几年回头看，更像一种慢性折旧。事情没变简单，只是你终于不再假装它简单。"
+  },
+  {
+    "id": "extra_reflection_051",
+    "category": "closing",
+    "condition": "employed",
+    "text": "你曾经以为稳定是一张床，后来发现它更像一把椅子，能坐，不能躺。你给自己留了半步，半步有时比豪言壮语有用。"
+  },
+  {
+    "id": "extra_reflection_052",
+    "category": "reflection",
+    "condition": "not_onshore",
+    "text": "你没有变成谁的传奇，但也没有完全被现实吞掉。中间那段，就是人生。这条路还是窄，但你至少知道哪里容易磕脚。"
+  },
+  {
+    "id": "extra_reflection_053",
+    "category": "base",
+    "condition": "risk_high",
+    "text": "名单、座次、通知、口径，这些词后来像老邻居一样熟，熟得不太礼貌。你没有热血上头，只让理智先占了个座。"
+  },
+  {
+    "id": "extra_reflection_054",
+    "category": "comment",
+    "condition": "pressure_high",
+    "text": "你被看见过，也被忽略过。最尴尬的是，有时这两件事发生在同一天。人情像雾，散不掉，只能慢慢走。"
+  },
+  {
+    "id": "extra_reflection_055",
+    "category": "closing",
+    "condition": "ordinary",
+    "text": "所谓成长，大概就是越来越会说没事，也越来越知道没事不代表没伤。这回你学会先看门缝，再决定要不要伸手。"
+  },
+  {
+    "id": "extra_reflection_056",
+    "category": "reflection",
+    "condition": "employed",
+    "text": "你在岸上学会游泳，在岸边学会憋气，反正没有哪一边真正干燥。话没有说满，心里却把退路画得很清楚。"
+  },
+  {
+    "id": "extra_reflection_057",
+    "category": "base",
+    "condition": "not_onshore",
+    "text": "人生没有给你标准答案，只给了几道多选题，且每个选项都有后果。你没赢，但至少没有把自己交出去。"
+  },
+  {
+    "id": "extra_reflection_058",
+    "category": "comment",
+    "condition": "risk_high",
+    "text": "你最后没有总结出大道理，只总结出一个小经验：别把身体当办公用品。表面很稳，实际上只是把慌张折小了。"
+  }
+]

@@ -1,0 +1,640 @@
+[
+  {
+    "id": "settle_fulltime",
+    "title": "全职备考",
+    "text": "你把一天切成晨读、刷题、怀疑人生和继续刷题四段。话没有说满，心里却把退路画得很清楚。",
+    "effects": {
+      "workAbility": 3,
+      "familyPressure": 4,
+      "mentalPressure": 3
+    },
+    "weight": 16
+  },
+  {
+    "id": "settle_parttime",
+    "title": "边工作边考",
+    "text": "你白天看同事脸色，晚上看错题脸色，时间像被切得很薄的馒头。你没赢，但至少没有把自己交出去，这件事后来被你夹进二号草稿里。",
+    "effects": {
+      "workAbility": 4,
+      "familyPressure": -1,
+      "mentalPressure": 5
+    },
+    "weight": 14
+  },
+  {
+    "id": "settle_family",
+    "title": "饭桌复盘",
+    "text": "亲戚把你的考试讲成连续剧，所有人都觉得自己看懂了剧情。表面很稳，实际上只是把慌张折小了，这件事后来被你夹进三号草稿里。",
+    "effects": {
+      "familyPressure": 7,
+      "mentalPressure": 4,
+      "desire": 2
+    },
+    "weight": 12
+  },
+  {
+    "id": "settle_mock",
+    "title": "模考回暖",
+    "text": "一次模考分数突然顺眼，你短暂相信努力和玄学终于达成和解。这一步不漂亮，但比原地挨打强一点，这件事后来被你夹进四号草稿里。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": -3,
+      "desire": 3
+    },
+    "weight": 10
+  },
+  {
+    "id": "settle_relax",
+    "title": "短暂松弛",
+    "text": "你决定休息几天，结果休息也带着负罪感打卡。你把情绪放进抽屉，抽屉没有上锁，这件事后来被你夹进五号草稿里。",
+    "effects": {
+      "mentalPressure": -6,
+      "desire": -2,
+      "familyPressure": 2
+    },
+    "weight": 9
+  },
+  {
+    "id": "settle_contract",
+    "title": "临时岗位",
+    "text": "你找了个临时岗位坐下，发现椅子也会提醒人没有编制。别人看你没动，其实你在心里换了好几次座位，这件事后来被你夹进六号草稿里。",
+    "effects": {
+      "workAbility": 5,
+      "desire": -2,
+      "mentalPressure": -1
+    },
+    "weight": 9
+  },
+  {
+    "id": "settle_health",
+    "title": "身体提醒",
+    "text": "体检单没有骂你，但每个指标都像在阴阳怪气。这件事没给答案，只给了一个更难看的问号，这件事后来被你夹进七号草稿里。",
+    "effects": {
+      "mentalPressure": 5,
+      "desire": -1,
+      "risk": -2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_rumor",
+    "title": "岗位传闻",
+    "text": "你听说某系统今年可能扩招，于是收藏夹又多了几个入口。你把尴尬咽下去，顺手给它贴了个标签，这件事后来被你夹进八号草稿里。",
+    "effects": {
+      "desire": 5,
+      "mentalPressure": 2,
+      "workAbility": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_mock_class",
+    "title": "报班再战",
+    "text": "你报了一个冲刺班，老师讲得很燃，账单也很燃。后来回想，这一秒比很多大事都更像分岔口，这件事后来被你夹进九号草稿里。",
+    "effects": {
+      "workAbility": 4,
+      "familyPressure": 3,
+      "mentalPressure": 2
+    },
+    "weight": 9
+  },
+  {
+    "id": "settle_public_notice_refresh",
+    "title": "公告成瘾",
+    "text": "你开始无意识刷新公告，像在等一个不会主动找你的朋友。你没有立刻破防，只是把破防预约到了晚上，这件事后来被你夹进十号草稿里。",
+    "effects": {
+      "mentalPressure": 3,
+      "desire": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_family_table",
+    "title": "饭桌复盘",
+    "text": "家里又复盘了一次考试，比阅卷老师还关心你的失误。风向没明说，但你已经闻到一点打印纸的味道，这件事后来被你夹进十一号草稿里。",
+    "effects": {
+      "familyPressure": 6,
+      "mentalPressure": 4,
+      "desire": -1
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_side_job",
+    "title": "临时上班",
+    "text": "你找了份临时工作，白天学会看老板脸色，晚上学会看错题脸色。你开始懂得，有些沉默不是认输，是先省电，这件事后来被你夹进十二号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "desire": 1
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_old_classmate_passed",
+    "title": "同学上岸",
+    "text": "朋友圈里有人晒录用公示，你点了赞，手指比心态稳定。这次你没装聪明，命运反而少扣了一点分，这件事后来被你夹进十三号草稿里。",
+    "effects": {
+      "desire": 4,
+      "mentalPressure": 4,
+      "familyPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_regular_sleep",
+    "title": "规律作息",
+    "text": "你终于睡了几个整觉，发现人生不是只有题库一种声音。你把答案留短，免得未来拿它反复审你，这件事后来被你夹进十四号草稿里。",
+    "effects": {
+      "mentalPressure": -5,
+      "desire": -1,
+      "workAbility": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_parent_soften",
+    "title": "家里松口",
+    "text": "家里从“必须考上”变成“身体要紧”，你一时不知道该感动还是害怕。事情没变简单，只是你终于不再假装它简单，这件事后来被你夹进十五号草稿里。",
+    "effects": {
+      "familyPressure": -5,
+      "mentalPressure": -2
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_application_strategy",
+    "title": "岗位复盘",
+    "text": "你认真研究岗位表，第一次承认选择比热血更像技术活。你给自己留了半步，半步有时比豪言壮语有用，这件事后来被你夹进十六号草稿里。",
+    "effects": {
+      "workAbility": 5,
+      "desire": 1,
+      "risk": -1
+    },
+    "weight": 9
+  },
+  {
+    "id": "settle_short_escape",
+    "title": "短暂出走",
+    "text": "你去外地散了几天心，回来发现题还在那里，但你没那么想骂它了。这条路还是窄，但你至少知道哪里容易磕脚，这件事后来被你夹进十七号草稿里。",
+    "effects": {
+      "mentalPressure": -6,
+      "familyPressure": 1
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_quiet_year",
+    "title": "安静一年",
+    "text": "这一年没有大事发生。对备考的人来说，这已经算命运温柔。你没有热血上头，只让理智先占了个座，这件事后来被你夹进十八号草稿里。",
+    "effects": {
+      "mentalPressure": -2,
+      "workAbility": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_job_fair",
+    "title": "招聘会绕场",
+    "text": "你在招聘会转了三圈，发现每个摊位都像在委婉问你有没有经验。人情像雾，散不掉，只能慢慢走，这件事后来被你夹进十九号草稿里。",
+    "effects": {
+      "mentalPressure": 4,
+      "desire": 2,
+      "workAbility": 1
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_resume_silence",
+    "title": "简历已读",
+    "text": "简历投出去后没有回音，你开始怀念考试至少会公布分数。这回你学会先看门缝，再决定要不要伸手，这件事后来被你夹进二十号草稿里。",
+    "effects": {
+      "mentalPressure": 5,
+      "desire": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_library_seat",
+    "title": "图书馆抢座",
+    "text": "你抢到一个靠窗座位，仿佛先赢下了人生的一个小入口。话没有说满，心里却把退路画得很清楚，这件事后来被你夹进二十一号草稿里。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": -1
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_phone_call_home",
+    "title": "家里来电",
+    "text": "家里问你最近怎么样，你说还行，双方都知道这是外交辞令。你没赢，但至少没有把自己交出去，这件事后来被你夹进二十二号草稿里。",
+    "effects": {
+      "familyPressure": 5,
+      "mentalPressure": 3
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_public_account",
+    "title": "公众号收藏",
+    "text": "你收藏了十几个公考公众号，感觉自己像加入了一个不会毕业的班级。表面很稳，实际上只是把慌张折小了，这件事后来被你夹进二十三号草稿里。",
+    "effects": {
+      "desire": 3,
+      "workAbility": 2,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_mock_crash",
+    "title": "模考翻车",
+    "text": "一次模考把你打回现实，现实还贴心地附带了解析。这一步不漂亮，但比原地挨打强一点，这件事后来被你夹进二十四号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "desire": -1
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_mock_top",
+    "title": "模考上岸幻觉",
+    "text": "模考分数突然很好，你短暂拥有了录用公示前的错觉。你把情绪放进抽屉，抽屉没有上锁，这件事后来被你夹进二十五号草稿里。",
+    "effects": {
+      "workAbility": 4,
+      "desire": 4,
+      "mentalPressure": -2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_roommate_offer",
+    "title": "室友入职",
+    "text": "室友开始上班，你开始熟悉白天安静的出租屋。别人看你没动，其实你在心里换了好几次座位，这件事后来被你夹进二十六号草稿里。",
+    "effects": {
+      "mentalPressure": 4,
+      "familyPressure": 2,
+      "desire": 3
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_parent_compare",
+    "title": "饭桌比较",
+    "text": "亲戚提到别人家孩子，你发现比较是一种没有冷却时间的技能。这件事没给答案，只给了一个更难看的问号，这件事后来被你夹进二十七号草稿里。",
+    "effects": {
+      "familyPressure": 7,
+      "mentalPressure": 5
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_parttime_tutor",
+    "title": "兼职家教",
+    "text": "你去做家教，讲题时很清醒，回家后对自己也很想讲道理。你把尴尬咽下去，顺手给它贴了个标签，这件事后来被你夹进二十八号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 2,
+      "familyPressure": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_delivery_rain",
+    "title": "雨夜兼职",
+    "text": "你在雨里跑了一晚，突然觉得稳定收入这四个字很有文学性。后来回想，这一秒比很多大事都更像分岔口，这件事后来被你夹进二十九号草稿里。",
+    "effects": {
+      "desire": 5,
+      "body": -1,
+      "mentalPressure": 3
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_office_temp",
+    "title": "办公室临聘",
+    "text": "你坐进一间办公室，提前体验了没有编制的机关空气。你没有立刻破防，只是把破防预约到了晚上，这件事后来被你夹进三十号草稿里。",
+    "effects": {
+      "workAbility": 5,
+      "positionWeight": 1,
+      "desire": 3,
+      "mentalPressure": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_exam_group",
+    "title": "备考群沉默",
+    "text": "群里每天打卡，真正说话的人越来越少，沉默的人越来越懂。风向没明说，但你已经闻到一点打印纸的味道，这件事后来被你夹进三十一号草稿里。",
+    "effects": {
+      "mentalPressure": 3,
+      "workAbility": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_old_teacher",
+    "title": "老师鼓励",
+    "text": "老师说你底子不错，你知道这句话通常还差一个“但是”。你开始懂得，有些沉默不是认输，是先省电，这件事后来被你夹进三十二号草稿里。",
+    "effects": {
+      "desire": 2,
+      "mentalPressure": -2,
+      "workAbility": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_health_run",
+    "title": "夜跑自救",
+    "text": "你开始夜跑，跑不过焦虑，但至少能让焦虑喘一会儿。这次你没装聪明，命运反而少扣了一点分，这件事后来被你夹进三十三号草稿里。",
+    "effects": {
+      "mentalPressure": -4,
+      "body": 1,
+      "desire": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_sleep_revenge",
+    "title": "报复性熬夜",
+    "text": "白天很自律，晚上把手机刷成了精神补偿。你把答案留短，免得未来拿它反复审你，这件事后来被你夹进三十四号草稿里。",
+    "effects": {
+      "mentalPressure": 3,
+      "body": -1,
+      "workAbility": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_new_policy",
+    "title": "政策变动",
+    "text": "招考政策有点变化，你把公告读了三遍，确认焦虑不是自己想象。事情没变简单，只是你终于不再假装它简单，这件事后来被你夹进三十五号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "risk": -1
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_major_limit",
+    "title": "专业受限",
+    "text": "你又看到一个好岗位限专业，第一次觉得大学志愿表有售后问题。你给自己留了半步，半步有时比豪言壮语有用，这件事后来被你夹进三十六号草稿里。",
+    "effects": {
+      "mentalPressure": 4,
+      "desire": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_three_unlimited",
+    "title": "三不限人海",
+    "text": "你决定冲三不限，像在广场上找一扇很窄的门。这条路还是窄，但你至少知道哪里容易磕脚，这件事后来被你夹进三十七号草稿里。",
+    "effects": {
+      "desire": 3,
+      "mentalPressure": 4,
+      "workAbility": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_local_news",
+    "title": "本地新闻",
+    "text": "你开始关注本地新闻，发现每条动态都可能藏着一个未来岗位。你没有热血上头，只让理智先占了个座，这件事后来被你夹进三十八号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "desire": 2
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_relative_intro",
+    "title": "亲戚介绍工作",
+    "text": "亲戚给你介绍工作，工作听起来稳定，工资听起来含蓄。人情像雾，散不掉，只能慢慢走，这件事后来被你夹进三十九号草稿里。",
+    "effects": {
+      "familyPressure": -2,
+      "desire": -1,
+      "mentalPressure": 2
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_bank_exam",
+    "title": "转考银行",
+    "text": "你试了银行考试，发现稳定有很多门，只是每扇门都有自己的卷法。这回你学会先看门缝，再决定要不要伸手，这件事后来被你夹进四十号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "desire": -1,
+      "mentalPressure": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_state_company",
+    "title": "国企笔试",
+    "text": "你参加国企笔试，题不一样，焦虑很熟。话没有说满，心里却把退路画得很清楚，这件事后来被你夹进四十一号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "desire": -1,
+      "mentalPressure": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_relationship_drift",
+    "title": "朋友渐远",
+    "text": "朋友的生活开始有新节奏，你还在等下一次公告。你没赢，但至少没有把自己交出去，这件事后来被你夹进四十二号草稿里。",
+    "effects": {
+      "mentalPressure": 4,
+      "desire": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_partner_support",
+    "title": "伴侣支持",
+    "text": "有人认真听你复盘，比正确答案还少见。表面很稳，实际上只是把慌张折小了，这件事后来被你夹进四十三号草稿里。",
+    "effects": {
+      "mentalPressure": -4,
+      "familyPressure": -2,
+      "desire": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_partner_pressure",
+    "title": "感情拉扯",
+    "text": "对方问你还要考多久，你想回答，但报名系统也不知道。这一步不漂亮，但比原地挨打强一点，这件事后来被你夹进四十四号草稿里。",
+    "effects": {
+      "mentalPressure": 5,
+      "familyPressure": 3
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_city_walk",
+    "title": "城市散步",
+    "text": "你沿着河边走了很久，发现不上岸的人也需要呼吸。你把情绪放进抽屉，抽屉没有上锁，这件事后来被你夹进四十五号草稿里。",
+    "effects": {
+      "mentalPressure": -5,
+      "desire": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_exam_fee",
+    "title": "报名缴费",
+    "text": "缴费成功那一刻，你感觉自己又给命运续了一个季度。别人看你没动，其实你在心里换了好几次座位，这件事后来被你夹进四十六号草稿里。",
+    "effects": {
+      "desire": 2,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_parent_silent",
+    "title": "家里沉默",
+    "text": "家里这次没催你，沉默反而更像一间考场。这件事没给答案，只给了一个更难看的问号，这件事后来被你夹进四十七号草稿里。",
+    "effects": {
+      "familyPressure": 4,
+      "mentalPressure": 3
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_subject_switch",
+    "title": "专项突破",
+    "text": "你终于承认短板不是性格，是资料分析。你把尴尬咽下去，顺手给它贴了个标签，这件事后来被你夹进四十八号草稿里。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "settle_interview_class",
+    "title": "面试旁听",
+    "text": "你旁听别人答题，发现成熟答案通常不像人话，但很像分数。后来回想，这一秒比很多大事都更像分岔口，这件事后来被你夹进四十九号草稿里。",
+    "effects": {
+      "workAbility": 4,
+      "eq": 1,
+      "mentalPressure": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_certificate",
+    "title": "顺手考证",
+    "text": "你顺手考了个证，证书很薄，心理安慰很厚。你没有立刻破防，只是把破防预约到了晚上，这件事后来被你夹进五十号草稿里。",
+    "effects": {
+      "workAbility": 2,
+      "desire": 1,
+      "mentalPressure": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_fail_accept",
+    "title": "短暂和解",
+    "text": "某天你突然没那么恨失败了，它像一个不礼貌但诚实的老师。风向没明说，但你已经闻到一点打印纸的味道，这件事后来被你夹进五十一号草稿里。",
+    "effects": {
+      "mentalPressure": -5,
+      "workAbility": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_neighbor_ask",
+    "title": "邻居关心",
+    "text": "邻居问你工作定了吗，你微笑得像客服。你开始懂得，有些沉默不是认输，是先省电，这件事后来被你夹进五十二号草稿里。",
+    "effects": {
+      "familyPressure": 4,
+      "mentalPressure": 4
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_salary_reality",
+    "title": "工资现实",
+    "text": "你算了一下临时收入和房租，稳定二字突然开始发光。这次你没装聪明，命运反而少扣了一点分，这件事后来被你夹进五十三号草稿里。",
+    "effects": {
+      "desire": 5,
+      "mentalPressure": 3
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_exam_dream",
+    "title": "梦里考试",
+    "text": "你梦见自己迟到，醒来后发现真正迟到的是人生规划。你把答案留短，免得未来拿它反复审你，这件事后来被你夹进五十四号草稿里。",
+    "effects": {
+      "mentalPressure": 4,
+      "workAbility": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_old_notes",
+    "title": "旧笔记回炉",
+    "text": "你翻出去年笔记，发现当时的自己也挺努力，就是字有点绝望。事情没变简单，只是你终于不再假装它简单，这件事后来被你夹进五十五号草稿里。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_public_notice_miss",
+    "title": "错过公告",
+    "text": "你差点错过一个公告，从此对截止日期产生了不健康的尊重。你给自己留了半步，半步有时比豪言壮语有用，这件事后来被你夹进五十六号草稿里。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "risk": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_family_budget",
+    "title": "家里算账",
+    "text": "家里开始算备考成本，每个数字都像在敲桌子。这条路还是窄，但你至少知道哪里容易磕脚，这件事后来被你夹进五十七号草稿里。",
+    "effects": {
+      "familyPressure": 6,
+      "mentalPressure": 5,
+      "desire": 2
+    },
+    "weight": 6
+  },
+  {
+    "id": "settle_tiny_win",
+    "title": "小胜一场",
+    "text": "你这周坚持复习了六天，虽然没上岸，但至少没被自己放弃。你没有热血上头，只让理智先占了个座，这件事后来被你夹进五十八号草稿里。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": -2,
+      "desire": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "settle_new_city",
+    "title": "换城备考",
+    "text": "你换了个城市备考，陌生的公交站也开始认识你的焦虑。人情像雾，散不掉，只能慢慢走，这件事后来被你夹进五十九号草稿里。",
+    "effects": {
+      "desire": 2,
+      "mentalPressure": 3,
+      "familyPressure": -2
+    },
+    "weight": 5
+  },
+  {
+    "id": "settle_calm_plan",
+    "title": "重新排计划",
+    "text": "你把计划重排了一遍，像在给人生重新贴便利贴。这回你学会先看门缝，再决定要不要伸手，这件事后来被你夹进六十号草稿里。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": -1
+    },
+    "weight": 8
+  }
+]

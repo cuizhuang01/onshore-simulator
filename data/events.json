@@ -1,0 +1,1651 @@
+[
+  {
+    "id": "e0001",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "材料反复",
+    "text": "你写的材料被退回三次。第三次意见是‘再提炼一下’，你感觉自己也快被提炼了。",
+    "recordText": "材料反复：你写的材料被退回三次。第三次意见是‘再提炼一下’，你感觉自己也快被提炼了。",
+    "weight": 15,
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 3
+    }
+  },
+  {
+    "id": "e0002",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "会议延期",
+    "text": "会议临时延期，材料不延期。你学会了区分时间和命运。",
+    "recordText": "会议延期：会议临时延期，材料不延期。你学会了区分时间和命运。",
+    "weight": 15,
+    "effects": {
+      "mentalPressure": 2
+    }
+  },
+  {
+    "id": "e0003",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "检查将至",
+    "text": "上级检查突然提前，办公室的空气像被拉紧的橡皮筋。",
+    "recordText": "检查将至：上级检查突然提前，办公室的空气像被拉紧的橡皮筋。",
+    "weight": 15,
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4,
+      "risk": 1
+    }
+  },
+  {
+    "id": "e0004",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "领导换人",
+    "text": "分管领导调整，新领导第一句话是‘先把情况摸清楚’。",
+    "recordText": "领导换人：分管领导调整，新领导第一句话是‘先把情况摸清楚’。",
+    "weight": 15,
+    "effects": {
+      "background": -2,
+      "mentalPressure": 3
+    }
+  },
+  {
+    "id": "e0005",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "同事提拔",
+    "text": "同批有人提拔了。你在点赞前犹豫了一秒，手机没有记录，心里记录了。",
+    "recordText": "同事提拔：同批有人提拔了。你在点赞前犹豫了一秒，手机没有记录，心里记录了。",
+    "weight": 15,
+    "effects": {
+      "desire": 3,
+      "mentalPressure": 2
+    }
+  },
+  {
+    "id": "e0006",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "买房压力",
+    "text": "房价没有等你成长，首付也没有。",
+    "recordText": "买房压力：房价没有等你成长，首付也没有。",
+    "weight": 15,
+    "effects": {
+      "familyPressure": 5,
+      "desire": 2
+    }
+  },
+  {
+    "id": "e0007",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "父母体检",
+    "text": "父母体检结果需要复查，电话那头说‘没事’，你知道这通常不是没事。",
+    "recordText": "父母体检：父母体检结果需要复查，电话那头说‘没事’，你知道这通常不是没事。",
+    "weight": 15,
+    "effects": {
+      "familyPressure": 6,
+      "mentalPressure": 4
+    }
+  },
+  {
+    "id": "e0008",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "孩子升学",
+    "text": "孩子升学报名开始，你第一次觉得表格可以从单位追到家里。",
+    "recordText": "孩子升学：孩子升学报名开始，你第一次觉得表格可以从单位追到家里。",
+    "weight": 15,
+    "effects": {
+      "familyPressure": 6,
+      "mentalPressure": 3
+    }
+  },
+  {
+    "id": "e0009",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "边缘化",
+    "text": "这次重要会议没有通知你。你不是休息了，只是被安排成了空气。",
+    "recordText": "边缘化：这次重要会议没有通知你。你不是休息了，只是被安排成了空气。",
+    "weight": 15,
+    "effects": {
+      "positionWeight": -3,
+      "mentalPressure": 4,
+      "desire": 2
+    }
+  },
+  {
+    "id": "e0010",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "被借调",
+    "text": "你被临时借调。临时两个字，在单位里常常很长寿。",
+    "recordText": "被借调：你被临时借调。临时两个字，在单位里常常很长寿。",
+    "weight": 14,
+    "effects": {
+      "positionWeight": 5,
+      "workAbility": 4,
+      "mentalPressure": 5
+    }
+  },
+  {
+    "id": "e0011",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "下乡任职",
+    "text": "组织上考虑让你下乡锻炼。锻炼这两个字，通常由别人说出来。",
+    "recordText": "下乡任职：组织上考虑让你下乡锻炼。锻炼这两个字，通常由别人说出来。",
+    "weight": 15,
+    "effects": {
+      "positionWeight": 4,
+      "mentalPressure": 8,
+      "familyPressure": 4
+    }
+  },
+  {
+    "id": "e0012",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "审计靠近",
+    "text": "审计组开始关注你经手过的一个项目。你忽然想起很多年前的一个签字。",
+    "recordText": "审计靠近：审计组开始关注你经手过的一个项目。你忽然想起很多年前的一个签字。",
+    "weight": 15,
+    "effects": {
+      "risk": 8,
+      "mentalPressure": 6
+    }
+  },
+  {
+    "id": "e0013",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "数据返工",
+    "text": "一张表因为口径变化全部重来。你终于明白，口径不是嘴，是命。",
+    "recordText": "数据返工：一张表因为口径变化全部重来。你终于明白，口径不是嘴，是命。",
+    "weight": 15,
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4
+    }
+  },
+  {
+    "id": "e0014",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "群众投诉",
+    "text": "一个投诉件转到你手里，前面已经转了五轮，像一枚行政回旋镖。",
+    "recordText": "群众投诉：一个投诉件转到你手里，前面已经转了五轮，像一枚行政回旋镖。",
+    "weight": 15,
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 3,
+      "risk": 1
+    }
+  },
+  {
+    "id": "e0015",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "表扬通报",
+    "text": "你负责的工作被点名表扬。掌声很短，活很长。",
+    "recordText": "表扬通报：你负责的工作被点名表扬。掌声很短，活很长。",
+    "weight": 15,
+    "effects": {
+      "positionWeight": 3,
+      "desire": 2,
+      "mentalPressure": 2
+    }
+  },
+  {
+    "id": "e0016",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "错过晋升",
+    "text": "干部调整名单里没有你。你把文件看了两遍，确认不是自己眼花。",
+    "recordText": "错过晋升：干部调整名单里没有你。你把文件看了两遍，确认不是自己眼花。",
+    "weight": 15,
+    "effects": {
+      "desire": 4,
+      "mentalPressure": 4
+    }
+  },
+  {
+    "id": "e0017",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "婚姻冷场",
+    "text": "饭桌上聊起你的加班，对方笑了一下，但没有接话。",
+    "recordText": "婚姻冷场：饭桌上聊起你的加班，对方笑了一下，但没有接话。",
+    "weight": 15,
+    "effects": {
+      "familyPressure": 5,
+      "mentalPressure": 3
+    }
+  },
+  {
+    "id": "e0018",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "身体报警",
+    "text": "体检报告出现箭头。医生说问题不大，你知道成年人常靠这句话续命。",
+    "recordText": "身体报警：体检报告出现箭头。医生说问题不大，你知道成年人常靠这句话续命。",
+    "weight": 15,
+    "effects": {
+      "body": -1,
+      "mentalPressure": 5
+    }
+  },
+  {
+    "id": "e0019",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "风险饭局",
+    "text": "一场饭局上有人把话说得很轻，把事说得很重。",
+    "recordText": "风险饭局：一场饭局上有人把话说得很轻，把事说得很重。",
+    "weight": 15,
+    "effects": {
+      "risk": 4,
+      "integrity": -2,
+      "mentalPressure": 2
+    }
+  },
+  {
+    "id": "e0020",
+    "stage": "life",
+    "eventType": "auto",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "政策变化",
+    "text": "一项政策调整，让你过去半年的准备像旧版系统。",
+    "recordText": "政策变化：一项政策调整，让你过去半年的准备像旧版系统。",
+    "weight": 15,
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 3
+    }
+  },
+  {
+    "id": "e0021",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "流程捷径",
+    "text": "材料不全但事情很急，有人建议你‘先走流程，后面补’。",
+    "recordText": "你选择按程序推进，事情慢了，心里稳了。 / 你选择先办再补，事情快了，心里不太稳。 / 你拉人一起签，锅变轻了，也变大了。 / 你留痕处理，给未来的自己留了条路。",
+    "weight": 10,
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "risk": 8,
+      "integrity": 4
+    },
+    "choices": [
+      {
+        "text": "按程序来",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3,
+          "risk": 2,
+          "integrity": 3
+        }
+      },
+      {
+        "text": "先办再补",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 6,
+          "risk": 9,
+          "integrity": 3,
+          "desire": 2
+        }
+      },
+      {
+        "text": "找人一起签",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 4,
+          "risk": 6,
+          "integrity": 2,
+          "background": 2
+        }
+      },
+      {
+        "text": "留痕后折中",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3,
+          "risk": 2,
+          "integrity": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0022",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "晋升机会",
+    "text": "有人暗示这次调整可以动一动，但需要你主动一点。",
+    "recordText": "你主动争取了一次，声音不大，但命运听见了。 / 你选择观望，机会也选择观望你。 / 你托人打听，消息来了，牵扯也来了。 / 你放弃折腾，晚上睡得稍微像个人。",
+    "weight": 10,
+    "effects": {
+      "workAbility": -1,
+      "mentalPressure": 0,
+      "desire": 5,
+      "positionWeight": 2
+    },
+    "choices": [
+      {
+        "text": "主动争取",
+        "hidden": {
+          "desire": 2,
+          "positionWeight": 1,
+          "workAbility": 2,
+          "integrity": 2,
+          "risk": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "保持观望",
+        "hidden": {
+          "workAbility": -1,
+          "desire": 6,
+          "positionWeight": 2,
+          "risk": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "托人打听",
+        "hidden": {
+          "workAbility": -1,
+          "desire": 3,
+          "positionWeight": 1,
+          "background": 2,
+          "risk": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "放弃折腾",
+        "hidden": {
+          "desire": 1,
+          "positionWeight": 1,
+          "workAbility": 1,
+          "risk": -1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0023",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "接待边界",
+    "text": "接待活动里，有些关注超过了工作范围。",
+    "recordText": "你保持距离，场面冷了一点，心里热了一点。 / 你找同事同行，把风险摊薄成了礼貌。 / 你默默忍耐，事情过去了，不舒服留下了。 / 你借势靠近资源，门开了，灯也暗了。",
+    "weight": 10,
+    "effects": {
+      "workAbility": 0,
+      "mentalPressure": 0
+    },
+    "choices": [
+      {
+        "text": "保持距离",
+        "hidden": {
+          "workAbility": 2,
+          "integrity": 2,
+          "risk": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "找同事同行",
+        "hidden": {
+          "desire": 2,
+          "risk": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "默默忍耐",
+        "hidden": {
+          "background": 2,
+          "risk": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "借势靠近",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1,
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0024",
+    "stage": "life",
+    "eventType": "choice",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "买房选择",
+    "text": "家里催你买房，说稳定工作不买房就像材料没有落款。",
+    "recordText": "你咬牙买房，从此工资有了固定收件人。 / 你选择再等等，房价和焦虑都没等。 / 你向家里求助，压力少了一点，亏欠多了一点。 / 你开始重新规划城市和岗位，稳定第一次变成变量。",
+    "weight": 10,
+    "effects": {
+      "workAbility": 0,
+      "mentalPressure": 4,
+      "familyPressure": 7
+    },
+    "choices": [
+      {
+        "text": "咬牙上车",
+        "hidden": {
+          "mentalPressure": 2,
+          "familyPressure": 2,
+          "workAbility": 2,
+          "integrity": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "再等等",
+        "hidden": {
+          "mentalPressure": 5,
+          "familyPressure": 6,
+          "desire": 2,
+          "risk": 3
+        }
+      },
+      {
+        "text": "向家里求助",
+        "hidden": {
+          "mentalPressure": 3,
+          "familyPressure": 4,
+          "background": 2,
+          "risk": 2
+        }
+      },
+      {
+        "text": "换城市/岗位规划",
+        "hidden": {
+          "mentalPressure": 1,
+          "familyPressure": 3,
+          "workAbility": 1,
+          "risk": -1,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0025",
+    "stage": "life",
+    "eventType": "choice",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "孩子升学",
+    "text": "孩子升学需要协调时间、材料和片区，你发现家里的事也有流程图。",
+    "recordText": "你亲自跑材料，单位少了你一天，家里多了你一次。 / 你让伴侣多承担，家庭的账暂时记下了。 / 你托人咨询，信息更准，人情也更清晰。 / 你顺其自然，心态稳了，结果不一定稳。",
+    "weight": 10,
+    "effects": {
+      "workAbility": -1,
+      "mentalPressure": 2,
+      "familyPressure": 6
+    },
+    "choices": [
+      {
+        "text": "亲自跑材料",
+        "hidden": {
+          "mentalPressure": 2,
+          "familyPressure": 2,
+          "workAbility": 2,
+          "integrity": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "让伴侣多承担",
+        "hidden": {
+          "workAbility": -1,
+          "mentalPressure": 4,
+          "familyPressure": 5,
+          "desire": 2,
+          "risk": 3
+        }
+      },
+      {
+        "text": "托人咨询",
+        "hidden": {
+          "workAbility": -1,
+          "mentalPressure": 2,
+          "familyPressure": 3,
+          "background": 2,
+          "risk": 2
+        }
+      },
+      {
+        "text": "顺其自然",
+        "hidden": {
+          "familyPressure": 3,
+          "workAbility": 1,
+          "risk": -1,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0026",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "边缘化处理",
+    "text": "你发现自己逐渐远离核心任务。",
+    "recordText": "你主动汇报，重新把自己放回视野里。 / 你选择练内功，慢，但不亏。 / 你接受边缘，日子安静，机会也安静。 / 你准备离开，岸上也有人继续找岸。",
+    "weight": 10,
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": 5,
+      "desire": 1,
+      "positionWeight": -2
+    },
+    "choices": [
+      {
+        "text": "主动找领导汇报",
+        "hidden": {
+          "mentalPressure": 3,
+          "positionWeight": -1,
+          "workAbility": 2,
+          "integrity": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "提升专业能力",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 6,
+          "desire": 3,
+          "positionWeight": -2,
+          "risk": 3
+        }
+      },
+      {
+        "text": "接受边缘",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 4,
+          "desire": 1,
+          "positionWeight": -1,
+          "background": 2,
+          "risk": 2
+        }
+      },
+      {
+        "text": "准备考试/遴选",
+        "hidden": {
+          "mentalPressure": 1,
+          "positionWeight": -1,
+          "workAbility": 1,
+          "risk": -1,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0027",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "风险提醒",
+    "text": "有人私下提醒你：这个项目别签太快。",
+    "recordText": "你暂停核实，得罪了一点人，救了一点自己。 / 你继续推进，事情顺了，雷也埋了。 / 你说明风险，话说得小心，夜里睡得稍稳。 / 你让别人签，锅换了位置，没有消失。",
+    "weight": 10,
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "risk": 1,
+      "integrity": 4
+    },
+    "choices": [
+      {
+        "text": "暂停核实",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2,
+          "integrity": 3,
+          "risk": -1
+        }
+      },
+      {
+        "text": "继续推进",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 4,
+          "risk": 4,
+          "integrity": 3,
+          "desire": 2
+        }
+      },
+      {
+        "text": "向领导说明风险",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3,
+          "risk": 3,
+          "integrity": 2,
+          "background": 2
+        }
+      },
+      {
+        "text": "让别人签",
+        "hidden": {
+          "workAbility": 2,
+          "integrity": 2,
+          "risk": -1,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0028",
+    "stage": "life",
+    "eventType": "choice",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "家庭摊牌",
+    "text": "伴侣说：你到底是和我过日子，还是和单位过日子？",
+    "recordText": "你认真沟通了一晚，第二天照样上班，但心没那么空。 / 你沉默回避，家里的灯比办公室更冷。 / 你考虑调岗，前途慢了一点，生活回来了点。 / 你继续拼一把，把家庭也押进了下一轮。",
+    "weight": 10,
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 6,
+      "familyPressure": 6
+    },
+    "choices": [
+      {
+        "text": "认真沟通",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3,
+          "familyPressure": 2,
+          "integrity": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "沉默回避",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 7,
+          "familyPressure": 5,
+          "desire": 2,
+          "risk": 3
+        }
+      },
+      {
+        "text": "申请调岗",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 4,
+          "familyPressure": 3,
+          "background": 2,
+          "risk": 2
+        }
+      },
+      {
+        "text": "继续拼一把",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": 3,
+          "risk": -1,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0029",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "突发调查",
+    "text": "你经手过的事项被上级关注，过去的签字忽然有了回音。",
+    "recordText": "突发调查：你经手过的事项被上级关注，过去的签字忽然有了回音。",
+    "weight": 4,
+    "effects": {
+      "risk": 15,
+      "mentalPressure": 12
+    }
+  },
+  {
+    "id": "e0030",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "主要领导调走",
+    "text": "熟悉你的人离开了，熟悉你的路也跟着变窄。",
+    "recordText": "主要领导调走：熟悉你的人离开了，熟悉你的路也跟着变窄。",
+    "weight": 4,
+    "effects": {
+      "background": -8,
+      "positionWeight": -4,
+      "mentalPressure": 6
+    }
+  },
+  {
+    "id": "e0031",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "机构改革",
+    "text": "单位牌子换了，办公室没换，活也没少。",
+    "recordText": "机构改革：单位牌子换了，办公室没换，活也没少。",
+    "weight": 4,
+    "effects": {
+      "positionWeight": 3,
+      "mentalPressure": 5
+    }
+  },
+  {
+    "id": "e0032",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "突然死亡",
+    "text": "长期高压后，你在一次深夜加班后倒下。游戏很少这样结束，人生也是。",
+    "recordText": "突然死亡：长期高压后，你在一次深夜加班后倒下。游戏很少这样结束，人生也是。",
+    "weight": 4,
+    "effects": {}
+  },
+  {
+    "id": "e0033",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "被抓",
+    "text": "多年积累的风险终于合上了账本。那天之后，很多人开始说‘其实早有苗头’。",
+    "recordText": "被抓：多年积累的风险终于合上了账本。那天之后，很多人开始说‘其实早有苗头’。",
+    "weight": 4,
+    "effects": {}
+  },
+  {
+    "id": "e0034",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "遴选机会",
+    "text": "省市遴选公告出现，你看了很久，像看一条离岸边更远的船。",
+    "recordText": "遴选机会：省市遴选公告出现，你看了很久，像看一条离岸边更远的船。",
+    "weight": 4,
+    "effects": {
+      "desire": 8,
+      "mentalPressure": 5
+    }
+  },
+  {
+    "id": "e0035",
+    "stage": "life",
+    "eventType": "sudden",
+    "pools": [
+      "life"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "家庭重大变故",
+    "text": "家里出了大事，你第一次觉得稳定工作也稳不住所有东西。",
+    "recordText": "家庭重大变故：家里出了大事，你第一次觉得稳定工作也稳不住所有东西。",
+    "weight": 4,
+    "effects": {
+      "familyPressure": 18,
+      "mentalPressure": 15
+    }
+  },
+  {
+    "id": "e0036",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "title": "贵人倒台",
+    "text": "曾经提醒过你的人自己出了事，你突然发现背景也会变成背景音。",
+    "recordText": "贵人倒台：曾经提醒过你的人自己出了事，你突然发现背景也会变成背景音。",
+    "weight": 4,
+    "effects": {
+      "background": -20,
+      "risk": 10,
+      "mentalPressure": 10
+    }
+  },
+  {
+    "id": "e0037",
+    "stage": "life",
+    "eventType": "auto",
+    "text": "家里开始讨论买房，语气像是在讨论天气，其实每个字都很贵。",
+    "effects": {
+      "familyPressure": 8,
+      "desire": 3,
+      "mentalPressure": 3
+    },
+    "recordText": "家里把买房提上日程，你发现稳定收入也有不稳定的用法。",
+    "weight": 8
+  },
+  {
+    "id": "e0038",
+    "stage": "life",
+    "eventType": "auto",
+    "conditions": {
+      "familyPressureMin": 45
+    },
+    "text": "孩子教育和老人身体在同一年进入待办清单。",
+    "effects": {
+      "familyPressure": 7,
+      "mentalPressure": 5,
+      "desire": 2
+    },
+    "recordText": "家庭待办事项开始排队，你终于理解什么叫生活的会签流程。",
+    "weight": 6
+  },
+  {
+    "id": "e0039",
+    "stage": "work",
+    "eventType": "auto",
+    "conditions": {
+      "mentalPressureMin": 60
+    },
+    "text": "一次调整后，核心材料不再找你，杂活倒是还很信任你。",
+    "effects": {
+      "workAbility": -2,
+      "desire": -4,
+      "mentalPressure": -2
+    },
+    "recordText": "你被放到不显眼的位置，终于拥有了“忙但不重要”的稳定感。",
+    "weight": 5
+  },
+  {
+    "id": "e0040",
+    "stage": "work",
+    "eventType": "sudden",
+    "conditions": {
+      "riskMin": 58
+    },
+    "text": "一个旧项目被重新翻出来，会议室的空调突然很冷。",
+    "effects": {
+      "risk": 10,
+      "mentalPressure": 8,
+      "integrity": -2
+    },
+    "recordText": "旧项目被翻出来，你发现时间不会冲淡所有东西，有些只是在等编号。",
+    "weight": 3
+  },
+  {
+    "id": "e0041",
+    "stage": "life",
+    "eventType": "sudden",
+    "conditions": {
+      "mentalPressureMin": 92
+    },
+    "text": "体检报告没有再给你缓冲措辞。",
+    "effects": {
+      "mentalPressure": 8
+    },
+    "terminal": "death",
+    "recordText": "长期透支终于写成了结论，你的人生档案在这一页突然停住。",
+    "weight": 1
+  },
+  {
+    "id": "e0042",
+    "stage": "work",
+    "eventType": "choice",
+    "level": "任意",
+    "system": "任意",
+    "conditions": {
+      "positionWeightMin": 45
+    },
+    "title": "熟人项目",
+    "text": "领导饭后随口提到一个熟人的项目，说“程序上你把把关”。这句话听起来像请求，也像考题。",
+    "choices": [
+      {
+        "text": "只按程序审",
+        "hidden": {
+          "integrity": 4,
+          "risk": -3,
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "帮忙把材料补顺",
+        "hidden": {
+          "background": 4,
+          "risk": 8,
+          "integrity": -5,
+          "desire": 3
+        }
+      },
+      {
+        "text": "拉同事一起会签",
+        "hidden": {
+          "risk": 3,
+          "mentalPressure": 2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "装没听懂",
+        "hidden": {
+          "positionWeight": -3,
+          "risk": -1,
+          "mentalPressure": -1
+        }
+      }
+    ],
+    "recordText": "熟人项目摆到桌上，你发现程序最怕的不是复杂，是有人把复杂说得很轻。",
+    "weight": 10
+  },
+  {
+    "id": "e0043",
+    "stage": "work",
+    "eventType": "choice",
+    "level": "任意",
+    "system": "任意",
+    "conditions": {
+      "desireMin": 55
+    },
+    "title": "信封试探",
+    "text": "办事人走前把一个信封推到资料下面，说“辛苦费不多”。资料很薄，信封很厚。",
+    "choices": [
+      {
+        "text": "当场退回并留痕",
+        "hidden": {
+          "integrity": 6,
+          "risk": -5,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先收下再说",
+        "hidden": {
+          "desire": 5,
+          "risk": 14,
+          "integrity": -10,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "叫同事一起见证",
+        "hidden": {
+          "integrity": 3,
+          "risk": -3,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "私下提醒别这样",
+        "hidden": {
+          "eq": 1,
+          "risk": 2,
+          "mentalPressure": 1
+        }
+      }
+    ],
+    "recordText": "一个信封让办公室突然安静，你第一次听见风险落在桌面的声音。",
+    "weight": 7
+  },
+  {
+    "id": "e0044",
+    "stage": "work",
+    "eventType": "choice",
+    "level": "任意",
+    "system": "任意",
+    "conditions": {
+      "mentalPressureMin": 55
+    },
+    "title": "甩锅会议",
+    "text": "一次问题通报会上，几个科室默契地把责任边界画到你脚下。",
+    "choices": [
+      {
+        "text": "拿出留痕材料",
+        "hidden": {
+          "workAbility": 3,
+          "risk": -4,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先认下来再补救",
+        "hidden": {
+          "mentalPressure": 7,
+          "risk": 5,
+          "positionWeight": -2
+        }
+      },
+      {
+        "text": "会后逐个沟通",
+        "hidden": {
+          "eq": 2,
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "当场硬顶回去",
+        "hidden": {
+          "risk": 2,
+          "positionWeight": -4,
+          "integrity": 2
+        }
+      }
+    ],
+    "recordText": "责任边界在会议室里移动，你终于明白有些线不是画出来的，是推出来的。",
+    "weight": 11
+  },
+  {
+    "id": "e0045",
+    "stage": "work",
+    "eventType": "sudden",
+    "level": "任意",
+    "system": "任意",
+    "conditions": {
+      "riskMin": 62
+    },
+    "title": "舆情爆点",
+    "text": "一个旧截图在网上传开，评论区比会议纪要更快形成共识。",
+    "effects": {
+      "risk": 12,
+      "mentalPressure": 9,
+      "positionWeight": -3
+    },
+    "recordText": "舆情像雨夜涨水，你还没找到伞，水已经漫到门口。",
+    "weight": 4
+  },
+  {
+    "id": "e0046",
+    "stage": "work",
+    "eventType": "sudden",
+    "level": "任意",
+    "system": "任意",
+    "conditions": {
+      "riskMin": 70,
+      "integrityMax": 45
+    },
+    "title": "审计留痕",
+    "text": "审计组问起三年前的一笔经费，系统日志比人的记忆更诚实。",
+    "effects": {
+      "risk": 18,
+      "mentalPressure": 10,
+      "integrity": -4
+    },
+    "recordText": "审计翻到旧账，你发现时间不会替任何人销毁附件。",
+    "weight": 3
+  },
+  {
+    "id": "e0047",
+    "stage": "work",
+    "eventType": "auto",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "include": "writing>=55 & yearsWorked>=2",
+    "exclude": "risk>=85",
+    "title": "材料被看见",
+    "text": "领导发现你材料写得顺，开始把你当成人形打印机。",
+    "recordText": "领导发现你材料写得顺，开始把你当成人形打印机。话没有说满，心里却把退路画得很清楚。",
+    "weight": 9,
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 3,
+      "positionWeight": 2
+    }
+  },
+  {
+    "id": "e0048",
+    "stage": "work",
+    "eventType": "auto",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "NoRandom": true,
+    "title": "深夜通知",
+    "text": "晚上十点，群里发来一句“辛苦大家再看一下”。你知道“大家”大概率是你。",
+    "recordText": "深夜通知：群里发来一句“辛苦大家再看一下”，你知道“大家”大概率是你。",
+    "weight": 1,
+    "effects": {
+      "mentalPressure": 4,
+      "workAbility": 1
+    },
+    "branches": [
+      {
+        "include": "body>=6",
+        "text": "你撑住了，甚至还把错别字挑出来。",
+        "effects": {
+          "positionWeight": 1
+        }
+      },
+      {
+        "include": "body<4",
+        "text": "你撑住了，但第二天开会时灵魂晚到了二十分钟。",
+        "effects": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0049",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "include": "eq>=5 & yearsWorked>=3",
+    "title": "饭局暗示",
+    "text": "饭局上有人把一句普通话说出了三层意思。你听懂了两层，第三层假装没听见。",
+    "recordText": "饭局暗示：你听懂了两层，第三层假装没听见。",
+    "weight": 7,
+    "choices": [
+      {
+        "text": "只喝汤，少接话",
+        "hidden": {
+          "risk": -2,
+          "mentalPressure": 1,
+          "positionWeight": -1
+        }
+      },
+      {
+        "text": "顺着话头接半句",
+        "hidden": {
+          "positionWeight": 2,
+          "risk": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "当场表态很坚决",
+        "hidden": {
+          "integrity": 2,
+          "positionWeight": -2,
+          "risk": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0050",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "县级",
+    "system": "任意",
+    "include": "unitLevel>=2 & workAbility>=45",
+    "title": "窗口任务",
+    "text": "一个临时窗口任务落到你手里。临时两个字听起来短，做起来像长期关系。",
+    "recordText": "窗口任务：临时两个字听起来短，做起来像长期关系。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把流程先画清楚",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2,
+          "positionWeight": 1
+        }
+      },
+      {
+        "text": "先找熟人问旧办法",
+        "hidden": {
+          "background": 2,
+          "risk": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "硬扛到最后一刻",
+        "hidden": {
+          "body": -1,
+          "mentalPressure": 5,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0051",
+    "stage": "work",
+    "eventType": "auto",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "include": "risk>=50 & integrity<55",
+    "title": "检查风声",
+    "text": "检查组还没到，风声先到了。你发现办公室最灵敏的设备不是打印机，是沉默。",
+    "recordText": "检查风声：办公室最灵敏的设备不是打印机，是沉默。",
+    "weight": 6,
+    "effects": {
+      "risk": 4,
+      "mentalPressure": 4,
+      "positionWeight": -1
+    },
+    "branches": [
+      {
+        "include": "background>=55",
+        "text": "有人提前提醒你补了材料，风声暂时绕开了桌面。",
+        "effects": {
+          "risk": -2,
+          "background": -1
+        }
+      },
+      {
+        "include": "background<30",
+        "text": "没人提醒你，直到你发现所有人都在补同一份材料。",
+        "effects": {
+          "risk": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0052",
+    "stage": "work",
+    "eventType": "auto",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "include": "positionWeight>=55 & yearsWorked>=5",
+    "title": "领导调整",
+    "text": "分管领导调整，新领导第一句话是“先把情况摸清楚”。你知道旧地图要重画了。",
+    "recordText": "领导调整：旧地图要重画了。",
+    "weight": 7,
+    "effects": {
+      "positionWeight": -3,
+      "mentalPressure": 3
+    }
+  },
+  {
+    "id": "e0053",
+    "stage": "work",
+    "eventType": "auto",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "NoRandom": true,
+    "title": "重新被认识",
+    "text": "你把近三年的工作梳成一页纸。纸很薄，命运很会看页边距。",
+    "recordText": "重新被认识：你把近三年的工作梳成一页纸。",
+    "weight": 1,
+    "effects": {
+      "workAbility": 1
+    },
+    "branches": [
+      {
+        "include": "writing>=60",
+        "text": "新领导看完后点了点头，你暂时没有从视野里消失。",
+        "effects": {
+          "positionWeight": 3
+        }
+      },
+      {
+        "include": "writing<45",
+        "text": "材料没有坏，但也没亮。你被放回了普通抽屉。",
+        "effects": {
+          "positionWeight": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "e0054",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "街道",
+    "system": "任意",
+    "include": "eq>=4 | unitLevel>=2",
+    "title": "舆情小火苗",
+    "text": "一条群众吐槽在本地群里冒头。它现在还小，但办公室已经闻到了烟味。",
+    "recordText": "舆情小火苗：办公室已经闻到了烟味。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "先核实，再回应",
+        "hidden": {
+          "workAbility": 2,
+          "positionWeight": 1,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先压热度，后补流程",
+        "hidden": {
+          "risk": 4,
+          "positionWeight": 1,
+          "integrity": -2
+        }
+      },
+      {
+        "text": "把问题推给隔壁科室",
+        "hidden": {
+          "risk": 2,
+          "positionWeight": -2,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dark_choice_001",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "include": "yearsWorked>=2",
+    "title": "饭局上的轻轻一句",
+    "text": "饭局快散时，有人把一个小请求说得像天气预报：不重，但你知道明天可能会下到你头上。",
+    "recordText": "饭局上的轻轻一句：小请求轻得像客气话，落到档案里可能很重。",
+    "weight": 9,
+    "choices": [
+      {
+        "text": "装作没听懂，回去按流程办",
+        "hidden": {
+          "integrity": 4,
+          "risk": -3,
+          "positionWeight": -1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "先把话接住，再找程序护身",
+        "hidden": {
+          "workAbility": 2,
+          "positionWeight": 2,
+          "risk": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "顺手帮一把，觉得人情以后会还",
+        "hidden": {
+          "background": 3,
+          "positionWeight": 3,
+          "risk": 8,
+          "integrity": -6
+        }
+      }
+    ]
+  },
+  {
+    "id": "dark_choice_002",
+    "stage": "work",
+    "eventType": "choice",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "include": "pressure>=55 | workAbility>=55",
+    "title": "临时任务认领",
+    "text": "一个临时任务在群里安静躺了三分钟。所有人都看见了，所有人都在练习没看见。",
+    "recordText": "临时任务认领：群消息没有点名，但沉默已经开始点人。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "接下来，顺便把边界写清楚",
+        "hidden": {
+          "workAbility": 3,
+          "positionWeight": 2,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "等领导明确分工再动",
+        "hidden": {
+          "risk": -1,
+          "mentalPressure": 1,
+          "positionWeight": -1
+        }
+      },
+      {
+        "text": "把相关人拉进来一起背光",
+        "hidden": {
+          "eq": 1,
+          "risk": 2,
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dark_auto_001",
+    "stage": "work",
+    "eventType": "auto",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "include": "yearsWorked>=4",
+    "title": "风向换季",
+    "text": "同一件事，去年叫创新，今年叫不规范。你开始理解季节不只属于天气。",
+    "recordText": "风向换季：同一件事换了口径，你也换了一种沉默方式。",
+    "weight": 8,
+    "effects": {
+      "risk": 3,
+      "mentalPressure": 4,
+      "workAbility": 1
+    }
+  },
+  {
+    "id": "dark_sudden_001",
+    "stage": "work",
+    "eventType": "sudden",
+    "pools": [
+      "work"
+    ],
+    "level": "任意",
+    "system": "任意",
+    "conditions": {
+      "riskMin": 84,
+      "integrityMax": 36
+    },
+    "title": "旧账开箱",
+    "text": "一个旧项目被重新开箱，里面没有灰，只有签过字的人名。",
+    "recordText": "旧账开箱：有些事情不是过去了，只是还没轮到被打开。",
+    "weight": 2,
+    "terminal": "arrest",
+    "effects": {
+      "risk": 20,
+      "integrity": -18,
+      "mentalPressure": 12
+    }
+  }
+]

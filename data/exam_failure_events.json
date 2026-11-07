@@ -1,0 +1,290 @@
+{
+  "written": [
+    {
+      "id": "written_refresh",
+      "text": "你开始反复刷新报名系统，像在等一个不会主动发消息的人。",
+      "effects": {
+        "mentalPressure": 4,
+        "desire": 2,
+        "familyPressure": 3
+      },
+      "weight": 12
+    },
+    {
+      "id": "written_wrongbook",
+      "text": "错题本突然变厚，你怀疑它才是今年真正上岸的东西。",
+      "effects": {
+        "workAbility": 3,
+        "mentalPressure": 2
+      },
+      "weight": 10
+    },
+    {
+      "id": "written_cold",
+      "text": "没进面这件事很安静，安静到比朋友圈报喜更刺耳。",
+      "effects": {
+        "mentalPressure": 6,
+        "desire": -2,
+        "familyPressure": 2
+      },
+      "weight": 9
+    },
+    {
+      "id": "written_near",
+      "text": "你发现自己不是不会做题，只是还没学会和时间抢饭吃。",
+      "effects": {
+        "workAbility": 4,
+        "mentalPressure": 3,
+        "desire": 2
+      },
+      "weight": 8
+    },
+    {
+      "id": "written_crowd",
+      "text": "看到报名人数时，你短暂理解了什么叫人山人海也能坐在同一张卷子里。",
+      "effects": {
+        "mentalPressure": 5,
+        "risk": -1,
+        "desire": 1
+      },
+      "weight": 8
+    },
+    {
+      "id": "written_rank_4",
+      "text": "你离进面只差一点，差到足够让你把整张试卷都重新恨一遍。",
+      "effects": {
+        "mentalPressure": 5,
+        "workAbility": 3,
+        "desire": 3
+      },
+      "weight": 9
+    },
+    {
+      "id": "written_time_lost",
+      "text": "行测时间像水，最后十题像没赶上的末班车。",
+      "effects": {
+        "workAbility": 2,
+        "mentalPressure": 4
+      },
+      "weight": 8
+    },
+    {
+      "id": "written_guess_wrong",
+      "text": "你蒙题时很有气势，答案公布时气势自动离职。",
+      "effects": {
+        "mentalPressure": 4,
+        "luck": -1
+      },
+      "weight": 7
+    },
+    {
+      "id": "written_room_silent",
+      "text": "考场铃声一响，你突然理解什么叫命运统一收卷。",
+      "effects": {
+        "mentalPressure": 5,
+        "desire": 1
+      },
+      "weight": 8
+    },
+    {
+      "id": "written_app_crash",
+      "text": "查分页面没崩，你先崩了一小会儿。",
+      "effects": {
+        "mentalPressure": 6,
+        "familyPressure": 2
+      },
+      "weight": 8
+    },
+    {
+      "id": "written_family_sigh",
+      "text": "家里没说重话，只是叹气叹得很有层次。",
+      "effects": {
+        "familyPressure": 6,
+        "mentalPressure": 4
+      },
+      "weight": 7
+    },
+    {
+      "id": "written_strategy_fail",
+      "text": "你发现岗位选得很有理想，分数回得很现实。",
+      "effects": {
+        "workAbility": 4,
+        "desire": 2,
+        "mentalPressure": 3
+      },
+      "weight": 8
+    },
+    {
+      "id": "written_friend_pass",
+      "text": "朋友发来进面截图，你回了恭喜，心里回了省略号。",
+      "effects": {
+        "desire": 4,
+        "mentalPressure": 5,
+        "familyPressure": 2
+      },
+      "weight": 7
+    },
+    {
+      "id": "written_wrong_focus",
+      "text": "你复习得很努力，只是努力方向和命题组短暂分居。",
+      "effects": {
+        "workAbility": 4,
+        "mentalPressure": 3
+      },
+      "weight": 8
+    },
+    {
+      "id": "written_small_city_crowd",
+      "text": "小地方岗位也不小众，大家只是把拥挤藏进了同一间考场。",
+      "effects": {
+        "mentalPressure": 5,
+        "desire": 2
+      },
+      "weight": 7
+    }
+  ],
+  "interview": [
+    {
+      "id": "interview_replay",
+      "text": "你把面试回答在脑子里重播了十几遍，每一遍都比现场更会说话。",
+      "effects": {
+        "mentalPressure": 6,
+        "workAbility": 2,
+        "desire": 1
+      },
+      "weight": 12
+    },
+    {
+      "id": "interview_gap",
+      "text": "差一点的感觉很具体，具体到每个停顿都像能重新修改。",
+      "effects": {
+        "mentalPressure": 5,
+        "desire": 3,
+        "familyPressure": 3
+      },
+      "weight": 10
+    },
+    {
+      "id": "interview_awkward",
+      "text": "你终于知道，很多话在心里很完整，到了嘴边会自动申请病假。",
+      "effects": {
+        "workAbility": 3,
+        "mentalPressure": 4
+      },
+      "weight": 9
+    },
+    {
+      "id": "interview_silence",
+      "text": "候考室的椅子记住了你的紧张，你本人假装没有。",
+      "effects": {
+        "mentalPressure": 3,
+        "desire": -1,
+        "familyPressure": 2
+      },
+      "weight": 8
+    },
+    {
+      "id": "interview_mature",
+      "text": "这次面试没把你送上岸，但把你送进了更现实的复盘。",
+      "effects": {
+        "workAbility": 5,
+        "mentalPressure": 2,
+        "desire": 2
+      },
+      "weight": 8
+    },
+    {
+      "id": "interview_expression_freeze",
+      "text": "面试时你表情很稳，内容也很稳地忘了一半。",
+      "effects": {
+        "mentalPressure": 5,
+        "workAbility": 2
+      },
+      "weight": 9
+    },
+    {
+      "id": "interview_teacher_face",
+      "text": "考官的表情像空白答题卡，你越看越想补充说明。",
+      "effects": {
+        "mentalPressure": 5,
+        "eq": 1
+      },
+      "weight": 8
+    },
+    {
+      "id": "interview_over_polite",
+      "text": "你回答得太客气，客气到观点也跟着退到门口。",
+      "effects": {
+        "eq": 1,
+        "mentalPressure": 4,
+        "workAbility": 2
+      },
+      "weight": 7
+    },
+    {
+      "id": "interview_counterattack",
+      "text": "你本想逆袭，结果对手把逆袭剧本先拿走了。",
+      "effects": {
+        "desire": 4,
+        "mentalPressure": 5
+      },
+      "weight": 8
+    },
+    {
+      "id": "interview_last_question",
+      "text": "最后一题你终于说顺了，可惜命运不接受补考式发挥。",
+      "effects": {
+        "workAbility": 3,
+        "mentalPressure": 4
+      },
+      "weight": 8
+    },
+    {
+      "id": "interview_waiting_room",
+      "text": "候考室里没人说话，但每个人都像一份会呼吸的排名表。",
+      "effects": {
+        "mentalPressure": 4,
+        "desire": 2
+      },
+      "weight": 7
+    },
+    {
+      "id": "interview_too_real",
+      "text": "你说了实话，场面安静了一秒，后来你明白那一秒很贵。",
+      "effects": {
+        "integrity": 3,
+        "mentalPressure": 5,
+        "positionWeight": -1
+      },
+      "weight": 6
+    },
+    {
+      "id": "interview_template_smell",
+      "text": "你背的模板太熟，熟到考官可能也背过。",
+      "effects": {
+        "workAbility": 3,
+        "mentalPressure": 3
+      },
+      "weight": 7
+    },
+    {
+      "id": "interview_voice_shake",
+      "text": "你的声音轻轻抖了一下，排名也轻轻抖去了别人那里。",
+      "effects": {
+        "mentalPressure": 5,
+        "eq": 1
+      },
+      "weight": 7
+    },
+    {
+      "id": "interview_late_mature",
+      "text": "没考上，但你终于知道面试不是说正确答案，是说让人相信的答案。",
+      "effects": {
+        "workAbility": 5,
+        "mentalPressure": 2,
+        "desire": 2
+      },
+      "weight": 8
+    }
+  ]
+}

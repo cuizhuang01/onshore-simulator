@@ -1,0 +1,711 @@
+[
+  {
+    "id": "law",
+    "name": "法学",
+    "category": "法学类",
+    "jobBias": [
+      "法院",
+      "检察院",
+      "司法局",
+      "纪检",
+      "执法"
+    ],
+    "match": [
+      "law",
+      "enforcement",
+      "discipline"
+    ],
+    "scarcity": 0.85,
+    "drawWeight": 11,
+    "genderBias": "中性"
+  },
+  {
+    "id": "chinese",
+    "name": "汉语言文学",
+    "category": "中国语言文学类",
+    "jobBias": [
+      "党委办",
+      "政府办",
+      "宣传",
+      "组织"
+    ],
+    "match": [
+      "writing",
+      "office",
+      "publicity"
+    ],
+    "scarcity": 1.35,
+    "drawWeight": 11,
+    "genderBias": "女"
+  },
+  {
+    "id": "journalism",
+    "name": "新闻学",
+    "category": "新闻传播学类",
+    "jobBias": [
+      "宣传",
+      "网信",
+      "融媒体",
+      "政府办"
+    ],
+    "match": [
+      "publicity",
+      "writing"
+    ],
+    "scarcity": 1.45,
+    "drawWeight": 10,
+    "genderBias": "女"
+  },
+  {
+    "id": "computer",
+    "name": "计算机科学与技术",
+    "category": "计算机类",
+    "jobBias": [
+      "数据局",
+      "网信",
+      "网信",
+      "信息中心"
+    ],
+    "match": [
+      "tech",
+      "data"
+    ],
+    "scarcity": 1.05,
+    "drawWeight": 11,
+    "genderBias": "男"
+  },
+  {
+    "id": "software",
+    "name": "软件工程",
+    "category": "计算机类",
+    "jobBias": [
+      "数据局",
+      "网信",
+      "信息中心"
+    ],
+    "match": [
+      "tech",
+      "data"
+    ],
+    "scarcity": 1.05,
+    "drawWeight": 11,
+    "genderBias": "男"
+  },
+  {
+    "id": "m006",
+    "name": "网络工程",
+    "category": "计算机类",
+    "jobBias": [
+      "网信",
+      "网信",
+      "数据局"
+    ],
+    "match": [
+      "tech",
+      "network"
+    ],
+    "scarcity": 1.1,
+    "drawWeight": 10,
+    "genderBias": "男"
+  },
+  {
+    "id": "accounting",
+    "name": "会计学",
+    "category": "工商管理类",
+    "jobBias": [
+      "财政",
+      "审计",
+      "税务",
+      "国资"
+    ],
+    "match": [
+      "finance",
+      "audit"
+    ],
+    "scarcity": 1,
+    "drawWeight": 11,
+    "genderBias": "女"
+  },
+  {
+    "id": "audit",
+    "name": "审计学",
+    "category": "工商管理类",
+    "jobBias": [
+      "审计",
+      "财政",
+      "纪检"
+    ],
+    "match": [
+      "audit",
+      "finance"
+    ],
+    "scarcity": 1,
+    "drawWeight": 10,
+    "genderBias": "女"
+  },
+  {
+    "id": "m009",
+    "name": "财政学",
+    "category": "财政学类",
+    "jobBias": [
+      "财政",
+      "税务",
+      "发改"
+    ],
+    "match": [
+      "finance",
+      "policy"
+    ],
+    "scarcity": 1.05,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m010",
+    "name": "金融学",
+    "category": "金融学类",
+    "jobBias": [
+      "财政",
+      "金融监管",
+      "发改"
+    ],
+    "match": [
+      "finance",
+      "policy"
+    ],
+    "scarcity": 1.15,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "civil_engineering",
+    "name": "土木工程",
+    "category": "土木类",
+    "jobBias": [
+      "住建",
+      "交通",
+      "自然资源",
+      "乡镇",
+      "住房和城乡建设",
+      "规划",
+      "街道"
+    ],
+    "match": [
+      "construction",
+      "project"
+    ],
+    "scarcity": 1.35,
+    "drawWeight": 10,
+    "genderBias": "男"
+  },
+  {
+    "id": "urban_planning",
+    "name": "城乡规划",
+    "category": "建筑类",
+    "jobBias": [
+      "自然资源",
+      "住建",
+      "城管",
+      "规划",
+      "住房和城乡建设",
+      "街道"
+    ],
+    "match": [
+      "planning",
+      "construction"
+    ],
+    "scarcity": 1.35,
+    "drawWeight": 10,
+    "genderBias": "男"
+  },
+  {
+    "id": "materials",
+    "name": "材料科学与工程",
+    "category": "材料类",
+    "jobBias": [
+      "工信",
+      "市场监管",
+      "发改",
+      "市场监督管理",
+      "工业和信息化"
+    ],
+    "match": [
+      "industry",
+      "project"
+    ],
+    "scarcity": 1.75,
+    "drawWeight": 9,
+    "genderBias": "男"
+  },
+  {
+    "id": "food",
+    "name": "食品科学与工程",
+    "category": "食品类",
+    "jobBias": [
+      "市场监管",
+      "农业农村",
+      "市场监督管理"
+    ],
+    "match": [
+      "food",
+      "market"
+    ],
+    "scarcity": 1.6,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "agriculture",
+    "name": "农学",
+    "category": "植物生产类",
+    "jobBias": [
+      "农业农村",
+      "乡镇",
+      "乡村振兴",
+      "街道"
+    ],
+    "match": [
+      "agriculture",
+      "township"
+    ],
+    "scarcity": 1.65,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "water",
+    "name": "水利水电工程",
+    "category": "水利类",
+    "jobBias": [
+      "水利",
+      "应急",
+      "乡镇",
+      "农业农村",
+      "生态环境"
+    ],
+    "match": [
+      "water",
+      "project"
+    ],
+    "scarcity": 2.05,
+    "drawWeight": 9,
+    "genderBias": "男"
+  },
+  {
+    "id": "medicine",
+    "name": "临床医学",
+    "category": "医学类",
+    "jobBias": [
+      "卫健",
+      "医保",
+      "市场监管",
+      "卫生健康委员会",
+      "疾控",
+      "疾病预防控制",
+      "医疗保障"
+    ],
+    "match": [
+      "health"
+    ],
+    "scarcity": 2.35,
+    "drawWeight": 9,
+    "genderBias": "女"
+  },
+  {
+    "id": "pharmacy",
+    "name": "药学",
+    "category": "药学类",
+    "jobBias": [
+      "市场监管",
+      "卫健",
+      "医保",
+      "卫生健康委员会",
+      "市场监督管理",
+      "药监"
+    ],
+    "match": [
+      "health",
+      "market"
+    ],
+    "scarcity": 1.75,
+    "drawWeight": 10,
+    "genderBias": "女"
+  },
+  {
+    "id": "public_admin",
+    "name": "行政管理",
+    "category": "公共管理类",
+    "jobBias": [
+      "政府办",
+      "人社",
+      "民政",
+      "街道"
+    ],
+    "match": [
+      "general",
+      "office"
+    ],
+    "scarcity": 1.35,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m020",
+    "name": "社会工作",
+    "category": "社会学类",
+    "jobBias": [
+      "民政",
+      "街道",
+      "乡镇"
+    ],
+    "match": [
+      "civil",
+      "community"
+    ],
+    "scarcity": 1.45,
+    "drawWeight": 10,
+    "genderBias": "女"
+  },
+  {
+    "id": "m021",
+    "name": "统计学",
+    "category": "统计学类",
+    "jobBias": [
+      "统计局",
+      "发改",
+      "财政"
+    ],
+    "match": [
+      "data",
+      "finance"
+    ],
+    "scarcity": 1.35,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m022",
+    "name": "环境工程",
+    "category": "环境科学与工程类",
+    "jobBias": [
+      "生态环境",
+      "住建",
+      "乡镇",
+      "自然资源",
+      "水利"
+    ],
+    "match": [
+      "environment",
+      "enforcement"
+    ],
+    "scarcity": 1.45,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m023",
+    "name": "电气工程及其自动化",
+    "category": "电气类",
+    "jobBias": [
+      "工信",
+      "应急",
+      "市场监管"
+    ],
+    "match": [
+      "industry",
+      "safety"
+    ],
+    "scarcity": 1.45,
+    "drawWeight": 10,
+    "genderBias": "男"
+  },
+  {
+    "id": "m024",
+    "name": "交通工程",
+    "category": "交通运输类",
+    "jobBias": [
+      "交通局",
+      "住建",
+      "乡镇",
+      "交通运输",
+      "交通运输"
+    ],
+    "match": [
+      "transport",
+      "project"
+    ],
+    "scarcity": 1.55,
+    "drawWeight": 10,
+    "genderBias": "男"
+  },
+  {
+    "id": "m025",
+    "name": "思想政治教育",
+    "category": "马克思主义理论类",
+    "jobBias": [
+      "宣传",
+      "党校",
+      "组织"
+    ],
+    "match": [
+      "political",
+      "publicity"
+    ],
+    "scarcity": 1.55,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m026",
+    "name": "历史学",
+    "category": "历史学类",
+    "jobBias": [
+      "档案",
+      "文旅",
+      "宣传"
+    ],
+    "match": [
+      "culture",
+      "writing"
+    ],
+    "scarcity": 1.8,
+    "drawWeight": 9,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m027",
+    "name": "档案学",
+    "category": "图书情报与档案管理类",
+    "jobBias": [
+      "档案馆",
+      "办公室",
+      "组织",
+      "档案",
+      "党委办",
+      "政府办"
+    ],
+    "match": [
+      "archive",
+      "office"
+    ],
+    "scarcity": 1.65,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m028",
+    "name": "安全工程",
+    "category": "安全科学与工程类",
+    "jobBias": [
+      "应急",
+      "市场监管",
+      "住建",
+      "应急管理",
+      "交通"
+    ],
+    "match": [
+      "safety",
+      "enforcement"
+    ],
+    "scarcity": 1.55,
+    "drawWeight": 10,
+    "genderBias": "男"
+  },
+  {
+    "id": "m029",
+    "name": "动物医学",
+    "category": "动物医学类",
+    "jobBias": [
+      "农业农村",
+      "市场监管",
+      "农业综合执法",
+      "市场监督管理"
+    ],
+    "match": [
+      "agriculture",
+      "market"
+    ],
+    "scarcity": 1.75,
+    "drawWeight": 9,
+    "genderBias": "中性"
+  },
+  {
+    "id": "m030",
+    "name": "电子信息工程",
+    "category": "电子信息类",
+    "jobBias": [
+      "数据局",
+      "工信",
+      "网信"
+    ],
+    "match": [
+      "tech",
+      "industry"
+    ],
+    "scarcity": 1.2,
+    "drawWeight": 10,
+    "genderBias": "男"
+  },
+  {
+    "id": "economics",
+    "name": "经济学",
+    "category": "经济类",
+    "jobBias": [
+      "发改委",
+      "财政",
+      "商务",
+      "统计",
+      "税务"
+    ],
+    "match": [
+      "economy",
+      "finance",
+      "statistics"
+    ],
+    "scarcity": 1.1,
+    "drawWeight": 11,
+    "genderBias": "中性"
+  },
+  {
+    "id": "business_admin",
+    "name": "工商管理",
+    "category": "工商管理类",
+    "jobBias": [
+      "市场监督管理",
+      "国资",
+      "商务",
+      "行政审批"
+    ],
+    "match": [
+      "business",
+      "market",
+      "general"
+    ],
+    "scarcity": 1.25,
+    "drawWeight": 11,
+    "genderBias": "中性"
+  },
+  {
+    "id": "hr_management",
+    "name": "人力资源管理",
+    "category": "工商管理类",
+    "jobBias": [
+      "人社",
+      "组织部",
+      "国资"
+    ],
+    "match": [
+      "hr",
+      "office",
+      "general"
+    ],
+    "scarcity": 1.35,
+    "drawWeight": 10,
+    "genderBias": "女"
+  },
+  {
+    "id": "public_health",
+    "name": "预防医学",
+    "category": "公共卫生类",
+    "jobBias": [
+      "卫生健康委员会",
+      "疾控",
+      "医保"
+    ],
+    "match": [
+      "medical",
+      "health"
+    ],
+    "scarcity": 2.1,
+    "drawWeight": 9,
+    "genderBias": "女"
+  },
+  {
+    "id": "environment_science",
+    "name": "环境科学",
+    "category": "环境科学与工程类",
+    "jobBias": [
+      "生态环境",
+      "自然资源",
+      "水利"
+    ],
+    "match": [
+      "environment",
+      "resource"
+    ],
+    "scarcity": 1.45,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "psychology",
+    "name": "心理学",
+    "category": "心理学类",
+    "jobBias": [
+      "教育",
+      "人社",
+      "民政"
+    ],
+    "match": [
+      "psychology",
+      "education"
+    ],
+    "scarcity": 1.75,
+    "drawWeight": 9,
+    "genderBias": "女"
+  },
+  {
+    "id": "secretary",
+    "name": "秘书学",
+    "category": "中国语言文学类",
+    "jobBias": [
+      "党委办",
+      "政府办",
+      "组织",
+      "宣传"
+    ],
+    "match": [
+      "writing",
+      "office"
+    ],
+    "scarcity": 1.25,
+    "drawWeight": 10,
+    "genderBias": "女"
+  },
+  {
+    "id": "ecommerce",
+    "name": "电子商务",
+    "category": "电子商务类",
+    "jobBias": [
+      "商务",
+      "市场监督管理",
+      "数据局"
+    ],
+    "match": [
+      "business",
+      "data",
+      "market"
+    ],
+    "scarcity": 1.45,
+    "drawWeight": 10,
+    "genderBias": "中性"
+  },
+  {
+    "id": "tourism",
+    "name": "旅游管理",
+    "category": "旅游管理类",
+    "jobBias": [
+      "文旅",
+      "市场监督管理",
+      "街道"
+    ],
+    "match": [
+      "culture",
+      "business",
+      "general"
+    ],
+    "scarcity": 1.65,
+    "drawWeight": 9,
+    "genderBias": "女"
+  }
+]

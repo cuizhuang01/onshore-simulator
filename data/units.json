@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "u001",
+    "name": "省党委办",
+    "level": "省级",
+    "system": "党委系统",
+    "matchTags": [
+      "writing",
+      "office"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 100,
+    "weight": 100,
+    "stress": 80,
+    "riskDensity": 60,
+    "promotionSpace": 91,
+    "eventPools": [
+      "党委办"
+    ]
+  },
+  {
+    "id": "u002",
+    "name": "市党委办",
+    "level": "市级",
+    "system": "党委系统",
+    "matchTags": [
+      "writing",
+      "office"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 85,
+    "weight": 90,
+    "stress": 80,
+    "riskDensity": 60,
+    "promotionSpace": 85,
+    "eventPools": [
+      "党委办"
+    ]
+  },
+  {
+    "id": "u003",
+    "name": "县党委办",
+    "level": "县级",
+    "system": "党委系统",
+    "matchTags": [
+      "writing",
+      "office"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 7,
+    "baseDifficulty": 70,
+    "weight": 85,
+    "stress": 90,
+    "riskDensity": 60,
+    "promotionSpace": 83,
+    "eventPools": [
+      "党委办"
+    ]
+  },
+  {
+    "id": "u004",
+    "name": "省政府办",
+    "level": "省级",
+    "system": "政府系统",
+    "matchTags": [
+      "writing",
+      "office",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 97,
+    "weight": 100,
+    "stress": 78,
+    "riskDensity": 58,
+    "promotionSpace": 86,
+    "eventPools": [
+      "政府办"
+    ]
+  },
+  {
+    "id": "u005",
+    "name": "市政府办",
+    "level": "市级",
+    "system": "政府系统",
+    "matchTags": [
+      "writing",
+      "office",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 82,
+    "weight": 85,
+    "stress": 78,
+    "riskDensity": 58,
+    "promotionSpace": 80,
+    "eventPools": [
+      "政府办"
+    ]
+  },
+  {
+    "id": "u006",
+    "name": "县政府办",
+    "level": "县级",
+    "system": "政府系统",
+    "matchTags": [
+      "writing",
+      "office",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 67,
+    "weight": 80,
+    "stress": 88,
+    "riskDensity": 58,
+    "promotionSpace": 78,
+    "eventPools": [
+      "政府办"
+    ]
+  },
+  {
+    "id": "u007",
+    "name": "省组织部",
+    "level": "省级",
+    "system": "党委系统",
+    "matchTags": [
+      "office",
+      "political",
+      "cpc"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 100,
+    "weight": 100,
+    "stress": 75,
+    "riskDensity": 55,
+    "promotionSpace": 94,
+    "eventPools": [
+      "组织部"
+    ]
+  },
+  {
+    "id": "u008",
+    "name": "市组织部",
+    "level": "市级",
+    "system": "党委系统",
+    "matchTags": [
+      "office",
+      "political",
+      "cpc"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 88,
+    "weight": 90,
+    "stress": 75,
+    "riskDensity": 55,
+    "promotionSpace": 88,
+    "eventPools": [
+      "组织部"
+    ]
+  },
+  {
+    "id": "u009",
+    "name": "县组织部",
+    "level": "县级",
+    "system": "党委系统",
+    "matchTags": [
+      "office",
+      "political",
+      "cpc"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 6,
+    "baseDifficulty": 73,
+    "weight": 85,
+    "stress": 85,
+    "riskDensity": 55,
+    "promotionSpace": 86,
+    "eventPools": [
+      "组织部"
+    ]
+  },
+  {
+    "id": "u010",
+    "name": "省宣传部",
+    "level": "省级",
+    "system": "党委系统",
+    "matchTags": [
+      "publicity",
+      "writing",
+      "political"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 93,
+    "weight": 90,
+    "stress": 68,
+    "riskDensity": 45,
+    "promotionSpace": 71,
+    "eventPools": [
+      "宣传部"
+    ]
+  },
+  {
+    "id": "u011",
+    "name": "市宣传部",
+    "level": "市级",
+    "system": "党委系统",
+    "matchTags": [
+      "publicity",
+      "writing",
+      "political"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 78,
+    "weight": 72,
+    "stress": 68,
+    "riskDensity": 45,
+    "promotionSpace": 65,
+    "eventPools": [
+      "宣传部"
+    ]
+  },
+  {
+    "id": "u012",
+    "name": "县宣传部",
+    "level": "县级",
+    "system": "党委系统",
+    "matchTags": [
+      "publicity",
+      "writing",
+      "political"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 7,
+    "baseDifficulty": 63,
+    "weight": 67,
+    "stress": 78,
+    "riskDensity": 45,
+    "promotionSpace": 63,
+    "eventPools": [
+      "宣传部"
+    ]
+  },
+  {
+    "id": "u013",
+    "name": "省发改委",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "project",
+      "finance",
+      "policy"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 15,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 99,
+    "weight": 100,
+    "stress": 75,
+    "riskDensity": 80,
+    "promotionSpace": 86,
+    "eventPools": [
+      "发改委"
+    ]
+  },
+  {
+    "id": "u014",
+    "name": "市发改委",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "project",
+      "finance",
+      "policy"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 15,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 84,
+    "weight": 85,
+    "stress": 75,
+    "riskDensity": 80,
+    "promotionSpace": 80,
+    "eventPools": [
+      "发改委"
+    ]
+  },
+  {
+    "id": "u015",
+    "name": "县发改委",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "project",
+      "finance",
+      "policy"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 15,
+    "threeUnlimitedRate": 6,
+    "baseDifficulty": 69,
+    "weight": 80,
+    "stress": 85,
+    "riskDensity": 80,
+    "promotionSpace": 78,
+    "eventPools": [
+      "发改委"
+    ]
+  },
+  {
+    "id": "u016",
+    "name": "省财政厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "finance",
+      "audit"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 95,
+    "weight": 93,
+    "stress": 68,
+    "riskDensity": 80,
+    "promotionSpace": 76,
+    "eventPools": [
+      "财政局"
+    ]
+  },
+  {
+    "id": "u017",
+    "name": "市财政局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "finance",
+      "audit"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 80,
+    "weight": 75,
+    "stress": 68,
+    "riskDensity": 80,
+    "promotionSpace": 70,
+    "eventPools": [
+      "财政局"
+    ]
+  },
+  {
+    "id": "u018",
+    "name": "县财政局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "finance",
+      "audit"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 7,
+    "baseDifficulty": 65,
+    "weight": 70,
+    "stress": 78,
+    "riskDensity": 80,
+    "promotionSpace": 68,
+    "eventPools": [
+      "财政局"
+    ]
+  },
+  {
+    "id": "u019",
+    "name": "省审计厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "audit",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 93,
+    "weight": 88,
+    "stress": 65,
+    "riskDensity": 70,
+    "promotionSpace": 71,
+    "eventPools": [
+      "审计局"
+    ]
+  },
+  {
+    "id": "u020",
+    "name": "市审计局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "audit",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 78,
+    "weight": 70,
+    "stress": 65,
+    "riskDensity": 70,
+    "promotionSpace": 65,
+    "eventPools": [
+      "审计局"
+    ]
+  },
+  {
+    "id": "u021",
+    "name": "县审计局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "audit",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 6,
+    "baseDifficulty": 63,
+    "weight": 65,
+    "stress": 75,
+    "riskDensity": 70,
+    "promotionSpace": 63,
+    "eventPools": [
+      "审计局"
+    ]
+  },
+  {
+    "id": "u022",
+    "name": "省自然资源厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "planning",
+      "construction",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 91,
+    "weight": 90,
+    "stress": 72,
+    "riskDensity": 82,
+    "promotionSpace": 74,
+    "eventPools": [
+      "自然资源局",
+      "自然资源"
+    ]
+  },
+  {
+    "id": "u023",
+    "name": "市自然资源局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "planning",
+      "construction",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 76,
+    "weight": 72,
+    "stress": 72,
+    "riskDensity": 82,
+    "promotionSpace": 68,
+    "eventPools": [
+      "自然资源局",
+      "自然资源"
+    ]
+  },
+  {
+    "id": "u024",
+    "name": "县自然资源局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "planning",
+      "construction",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 7,
+    "baseDifficulty": 61,
+    "weight": 67,
+    "stress": 82,
+    "riskDensity": 82,
+    "promotionSpace": 66,
+    "eventPools": [
+      "自然资源局",
+      "自然资源"
+    ]
+  },
+  {
+    "id": "u025",
+    "name": "省住房和城乡建设厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "construction",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 89,
+    "weight": 86,
+    "stress": 75,
+    "riskDensity": 78,
+    "promotionSpace": 68,
+    "eventPools": [
+      "住建局",
+      "住房城乡建设"
+    ]
+  },
+  {
+    "id": "u026",
+    "name": "市住建局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "construction",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 74,
+    "weight": 68,
+    "stress": 75,
+    "riskDensity": 78,
+    "promotionSpace": 62,
+    "eventPools": [
+      "住建局",
+      "住房城乡建设"
+    ]
+  },
+  {
+    "id": "u027",
+    "name": "县住建局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "construction",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 12,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 59,
+    "weight": 63,
+    "stress": 85,
+    "riskDensity": 78,
+    "promotionSpace": 60,
+    "eventPools": [
+      "住建局",
+      "住房城乡建设"
+    ]
+  },
+  {
+    "id": "u028",
+    "name": "省农业农村厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "agriculture",
+      "water",
+      "township"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 80,
+    "weight": 73,
+    "stress": 65,
+    "riskDensity": 50,
+    "promotionSpace": 51,
+    "eventPools": [
+      "农业农村局",
+      "农业农村"
+    ]
+  },
+  {
+    "id": "u029",
+    "name": "市农业农村局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "agriculture",
+      "water",
+      "township"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 65,
+    "weight": 55,
+    "stress": 65,
+    "riskDensity": 50,
+    "promotionSpace": 45,
+    "eventPools": [
+      "农业农村局",
+      "农业农村"
+    ]
+  },
+  {
+    "id": "u030",
+    "name": "县农业农村局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "agriculture",
+      "water",
+      "township"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 50,
+    "weight": 50,
+    "stress": 75,
+    "riskDensity": 50,
+    "promotionSpace": 43,
+    "eventPools": [
+      "农业农村局",
+      "农业农村"
+    ]
+  },
+  {
+    "id": "u031",
+    "name": "省水利厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "water",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 83,
+    "weight": 78,
+    "stress": 65,
+    "riskDensity": 55,
+    "promotionSpace": 54,
+    "eventPools": [
+      "水利局",
+      "水利"
+    ]
+  },
+  {
+    "id": "u032",
+    "name": "市水利局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "water",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 68,
+    "weight": 60,
+    "stress": 65,
+    "riskDensity": 55,
+    "promotionSpace": 48,
+    "eventPools": [
+      "水利局",
+      "水利"
+    ]
+  },
+  {
+    "id": "u033",
+    "name": "县水利局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "water",
+      "project"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 53,
+    "weight": 55,
+    "stress": 75,
+    "riskDensity": 55,
+    "promotionSpace": 46,
+    "eventPools": [
+      "水利局",
+      "水利"
+    ]
+  },
+  {
+    "id": "u034",
+    "name": "省市场监督管理局",
+    "level": "省级",
+    "system": "执法部门",
+    "matchTags": [
+      "market",
+      "food",
+      "health",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 85,
+    "weight": 73,
+    "stress": 75,
+    "riskDensity": 58,
+    "promotionSpace": 51,
+    "eventPools": [
+      "市场监督管理局"
+    ]
+  },
+  {
+    "id": "u035",
+    "name": "市市场监督管理局",
+    "level": "市级",
+    "system": "执法部门",
+    "matchTags": [
+      "market",
+      "food",
+      "health",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 70,
+    "weight": 55,
+    "stress": 75,
+    "riskDensity": 58,
+    "promotionSpace": 45,
+    "eventPools": [
+      "市场监督管理局"
+    ]
+  },
+  {
+    "id": "u036",
+    "name": "县市场监督管理局",
+    "level": "县级",
+    "system": "执法部门",
+    "matchTags": [
+      "market",
+      "food",
+      "health",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 13,
+    "baseDifficulty": 55,
+    "weight": 50,
+    "stress": 85,
+    "riskDensity": 58,
+    "promotionSpace": 43,
+    "eventPools": [
+      "市场监督管理局"
+    ]
+  },
+  {
+    "id": "u037",
+    "name": "省行政审批局",
+    "level": "省级",
+    "system": "窗口部门",
+    "matchTags": [
+      "general",
+      "office",
+      "market"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 81,
+    "weight": 66,
+    "stress": 70,
+    "riskDensity": 42,
+    "promotionSpace": 41,
+    "eventPools": [
+      "行政审批局"
+    ]
+  },
+  {
+    "id": "u038",
+    "name": "市行政审批局",
+    "level": "市级",
+    "system": "窗口部门",
+    "matchTags": [
+      "general",
+      "office",
+      "market"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 66,
+    "weight": 48,
+    "stress": 70,
+    "riskDensity": 42,
+    "promotionSpace": 35,
+    "eventPools": [
+      "行政审批局"
+    ]
+  },
+  {
+    "id": "u039",
+    "name": "县行政审批局",
+    "level": "县级",
+    "system": "窗口部门",
+    "matchTags": [
+      "general",
+      "office",
+      "market"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 25,
+    "threeUnlimitedRate": 13,
+    "baseDifficulty": 51,
+    "weight": 43,
+    "stress": 80,
+    "riskDensity": 42,
+    "promotionSpace": 33,
+    "eventPools": [
+      "行政审批局"
+    ]
+  },
+  {
+    "id": "u040",
+    "name": "省应急管理厅",
+    "level": "省级",
+    "system": "执法部门",
+    "matchTags": [
+      "safety",
+      "water",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 87,
+    "weight": 76,
+    "stress": 78,
+    "riskDensity": 55,
+    "promotionSpace": 51,
+    "eventPools": [
+      "应急管理局"
+    ]
+  },
+  {
+    "id": "u041",
+    "name": "市应急管理局",
+    "level": "市级",
+    "system": "执法部门",
+    "matchTags": [
+      "safety",
+      "water",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 72,
+    "weight": 58,
+    "stress": 78,
+    "riskDensity": 55,
+    "promotionSpace": 45,
+    "eventPools": [
+      "应急管理局"
+    ]
+  },
+  {
+    "id": "u042",
+    "name": "县应急管理局",
+    "level": "县级",
+    "system": "执法部门",
+    "matchTags": [
+      "safety",
+      "water",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 57,
+    "weight": 53,
+    "stress": 88,
+    "riskDensity": 55,
+    "promotionSpace": 43,
+    "eventPools": [
+      "应急管理局"
+    ]
+  },
+  {
+    "id": "u043",
+    "name": "省数据局",
+    "level": "省级",
+    "system": "技术部门",
+    "matchTags": [
+      "tech",
+      "data"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 22,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 90,
+    "weight": 76,
+    "stress": 58,
+    "riskDensity": 35,
+    "promotionSpace": 51,
+    "eventPools": [
+      "数据局"
+    ]
+  },
+  {
+    "id": "u044",
+    "name": "市数据局",
+    "level": "市级",
+    "system": "技术部门",
+    "matchTags": [
+      "tech",
+      "data"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 22,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 75,
+    "weight": 58,
+    "stress": 58,
+    "riskDensity": 35,
+    "promotionSpace": 45,
+    "eventPools": [
+      "数据局"
+    ]
+  },
+  {
+    "id": "u045",
+    "name": "县数据局",
+    "level": "县级",
+    "system": "技术部门",
+    "matchTags": [
+      "tech",
+      "data"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 22,
+    "threeUnlimitedRate": 7,
+    "baseDifficulty": 60,
+    "weight": 53,
+    "stress": 68,
+    "riskDensity": 35,
+    "promotionSpace": 43,
+    "eventPools": [
+      "数据局"
+    ]
+  },
+  {
+    "id": "u046",
+    "name": "省网信办",
+    "level": "省级",
+    "system": "党委系统",
+    "matchTags": [
+      "tech",
+      "publicity",
+      "data"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "master",
+    "freshRate": 18,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 95,
+    "weight": 90,
+    "stress": 70,
+    "riskDensity": 50,
+    "promotionSpace": 71,
+    "eventPools": [
+      "网信办"
+    ]
+  },
+  {
+    "id": "u047",
+    "name": "市网信办",
+    "level": "市级",
+    "system": "党委系统",
+    "matchTags": [
+      "tech",
+      "publicity",
+      "data"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "master",
+    "freshRate": 18,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 80,
+    "weight": 72,
+    "stress": 70,
+    "riskDensity": 50,
+    "promotionSpace": 65,
+    "eventPools": [
+      "网信办"
+    ]
+  },
+  {
+    "id": "u048",
+    "name": "县网信办",
+    "level": "县级",
+    "system": "党委系统",
+    "matchTags": [
+      "tech",
+      "publicity",
+      "data"
+    ],
+    "politicalReq": "cpc",
+    "educationBias": "master",
+    "freshRate": 18,
+    "threeUnlimitedRate": 6,
+    "baseDifficulty": 65,
+    "weight": 67,
+    "stress": 80,
+    "riskDensity": 50,
+    "promotionSpace": 63,
+    "eventPools": [
+      "网信办"
+    ]
+  },
+  {
+    "id": "u049",
+    "name": "省法院",
+    "level": "省级",
+    "system": "政法系统",
+    "matchTags": [
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 0,
+    "baseDifficulty": 97,
+    "weight": 88,
+    "stress": 68,
+    "riskDensity": 45,
+    "promotionSpace": 68,
+    "eventPools": [
+      "法院"
+    ]
+  },
+  {
+    "id": "u050",
+    "name": "市法院",
+    "level": "市级",
+    "system": "政法系统",
+    "matchTags": [
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 0,
+    "baseDifficulty": 82,
+    "weight": 70,
+    "stress": 68,
+    "riskDensity": 45,
+    "promotionSpace": 62,
+    "eventPools": [
+      "法院"
+    ]
+  },
+  {
+    "id": "u051",
+    "name": "县法院",
+    "level": "县级",
+    "system": "政法系统",
+    "matchTags": [
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 67,
+    "weight": 65,
+    "stress": 78,
+    "riskDensity": 45,
+    "promotionSpace": 60,
+    "eventPools": [
+      "法院"
+    ]
+  },
+  {
+    "id": "u052",
+    "name": "省检察院",
+    "level": "省级",
+    "system": "政法系统",
+    "matchTags": [
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 0,
+    "baseDifficulty": 98,
+    "weight": 90,
+    "stress": 68,
+    "riskDensity": 48,
+    "promotionSpace": 70,
+    "eventPools": [
+      "检察院"
+    ]
+  },
+  {
+    "id": "u053",
+    "name": "市检察院",
+    "level": "市级",
+    "system": "政法系统",
+    "matchTags": [
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 0,
+    "baseDifficulty": 83,
+    "weight": 72,
+    "stress": 68,
+    "riskDensity": 48,
+    "promotionSpace": 64,
+    "eventPools": [
+      "检察院"
+    ]
+  },
+  {
+    "id": "u054",
+    "name": "县检察院",
+    "level": "县级",
+    "system": "政法系统",
+    "matchTags": [
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 15,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 68,
+    "weight": 67,
+    "stress": 78,
+    "riskDensity": 48,
+    "promotionSpace": 62,
+    "eventPools": [
+      "检察院"
+    ]
+  },
+  {
+    "id": "u055",
+    "name": "省司法厅",
+    "level": "省级",
+    "system": "政法系统",
+    "matchTags": [
+      "law",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 85,
+    "weight": 73,
+    "stress": 60,
+    "riskDensity": 45,
+    "promotionSpace": 51,
+    "eventPools": [
+      "司法局"
+    ]
+  },
+  {
+    "id": "u056",
+    "name": "市司法局",
+    "level": "市级",
+    "system": "政法系统",
+    "matchTags": [
+      "law",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 70,
+    "weight": 55,
+    "stress": 60,
+    "riskDensity": 45,
+    "promotionSpace": 45,
+    "eventPools": [
+      "司法局"
+    ]
+  },
+  {
+    "id": "u057",
+    "name": "县司法局",
+    "level": "县级",
+    "system": "政法系统",
+    "matchTags": [
+      "law",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 55,
+    "weight": 50,
+    "stress": 70,
+    "riskDensity": 45,
+    "promotionSpace": 43,
+    "eventPools": [
+      "司法局"
+    ]
+  },
+  {
+    "id": "u058",
+    "name": "省民政厅",
+    "level": "省级",
+    "system": "民生部门",
+    "matchTags": [
+      "civil",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 80,
+    "weight": 63,
+    "stress": 65,
+    "riskDensity": 35,
+    "promotionSpace": 41,
+    "eventPools": [
+      "民政局"
+    ]
+  },
+  {
+    "id": "u059",
+    "name": "市民政局",
+    "level": "市级",
+    "system": "民生部门",
+    "matchTags": [
+      "civil",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 65,
+    "weight": 45,
+    "stress": 65,
+    "riskDensity": 35,
+    "promotionSpace": 35,
+    "eventPools": [
+      "民政局"
+    ]
+  },
+  {
+    "id": "u060",
+    "name": "县民政局",
+    "level": "县级",
+    "system": "民生部门",
+    "matchTags": [
+      "civil",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 50,
+    "weight": 40,
+    "stress": 75,
+    "riskDensity": 35,
+    "promotionSpace": 33,
+    "eventPools": [
+      "民政局"
+    ]
+  },
+  {
+    "id": "u061",
+    "name": "省人社厅",
+    "level": "省级",
+    "system": "民生部门",
+    "matchTags": [
+      "general",
+      "office"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 83,
+    "weight": 68,
+    "stress": 65,
+    "riskDensity": 38,
+    "promotionSpace": 46,
+    "eventPools": [
+      "人社局"
+    ]
+  },
+  {
+    "id": "u062",
+    "name": "市人社局",
+    "level": "市级",
+    "system": "民生部门",
+    "matchTags": [
+      "general",
+      "office"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 5,
+    "baseDifficulty": 68,
+    "weight": 50,
+    "stress": 65,
+    "riskDensity": 38,
+    "promotionSpace": 40,
+    "eventPools": [
+      "人社局"
+    ]
+  },
+  {
+    "id": "u063",
+    "name": "县人社局",
+    "level": "县级",
+    "system": "民生部门",
+    "matchTags": [
+      "general",
+      "office"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 22,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 53,
+    "weight": 45,
+    "stress": 75,
+    "riskDensity": 38,
+    "promotionSpace": 38,
+    "eventPools": [
+      "人社局"
+    ]
+  },
+  {
+    "id": "u064",
+    "name": "省卫生健康委员会",
+    "level": "省级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 87,
+    "weight": 76,
+    "stress": 68,
+    "riskDensity": 45,
+    "promotionSpace": 56,
+    "eventPools": [
+      "卫健委",
+      "卫生健康"
+    ]
+  },
+  {
+    "id": "u065",
+    "name": "市卫生健康委员会",
+    "level": "市级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 72,
+    "weight": 58,
+    "stress": 68,
+    "riskDensity": 45,
+    "promotionSpace": 50,
+    "eventPools": [
+      "卫健委",
+      "卫生健康"
+    ]
+  },
+  {
+    "id": "u066",
+    "name": "县卫生健康委员会",
+    "level": "县级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "general"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 57,
+    "weight": 53,
+    "stress": 78,
+    "riskDensity": 45,
+    "promotionSpace": 48,
+    "eventPools": [
+      "卫健委",
+      "卫生健康"
+    ]
+  },
+  {
+    "id": "u067",
+    "name": "省医保局",
+    "level": "省级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 85,
+    "weight": 73,
+    "stress": 65,
+    "riskDensity": 45,
+    "promotionSpace": 51,
+    "eventPools": [
+      "医保局"
+    ]
+  },
+  {
+    "id": "u068",
+    "name": "市医保局",
+    "level": "市级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 70,
+    "weight": 55,
+    "stress": 65,
+    "riskDensity": 45,
+    "promotionSpace": 45,
+    "eventPools": [
+      "医保局"
+    ]
+  },
+  {
+    "id": "u069",
+    "name": "县医保局",
+    "level": "县级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 55,
+    "weight": 50,
+    "stress": 75,
+    "riskDensity": 45,
+    "promotionSpace": 43,
+    "eventPools": [
+      "医保局"
+    ]
+  },
+  {
+    "id": "u070",
+    "name": "省统计局",
+    "level": "省级",
+    "system": "数据部门",
+    "matchTags": [
+      "data",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 84,
+    "weight": 68,
+    "stress": 58,
+    "riskDensity": 35,
+    "promotionSpace": 44,
+    "eventPools": [
+      "统计局"
+    ]
+  },
+  {
+    "id": "u071",
+    "name": "市统计局",
+    "level": "市级",
+    "system": "数据部门",
+    "matchTags": [
+      "data",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 3,
+    "baseDifficulty": 69,
+    "weight": 50,
+    "stress": 58,
+    "riskDensity": 35,
+    "promotionSpace": 38,
+    "eventPools": [
+      "统计局"
+    ]
+  },
+  {
+    "id": "u072",
+    "name": "县统计局",
+    "level": "县级",
+    "system": "数据部门",
+    "matchTags": [
+      "data",
+      "finance"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 8,
+    "baseDifficulty": 54,
+    "weight": 45,
+    "stress": 68,
+    "riskDensity": 35,
+    "promotionSpace": 36,
+    "eventPools": [
+      "统计局"
+    ]
+  },
+  {
+    "id": "u073",
+    "name": "省税务局",
+    "level": "省级",
+    "system": "垂管系统",
+    "matchTags": [
+      "finance",
+      "audit"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 97,
+    "weight": 86,
+    "stress": 65,
+    "riskDensity": 55,
+    "promotionSpace": 66,
+    "eventPools": [
+      "税务局"
+    ]
+  },
+  {
+    "id": "u074",
+    "name": "市税务局",
+    "level": "市级",
+    "system": "垂管系统",
+    "matchTags": [
+      "finance",
+      "audit"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 82,
+    "weight": 68,
+    "stress": 65,
+    "riskDensity": 55,
+    "promotionSpace": 60,
+    "eventPools": [
+      "税务局"
+    ]
+  },
+  {
+    "id": "u075",
+    "name": "县税务局",
+    "level": "县级",
+    "system": "垂管系统",
+    "matchTags": [
+      "finance",
+      "audit"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 20,
+    "threeUnlimitedRate": 6,
+    "baseDifficulty": 67,
+    "weight": 63,
+    "stress": 75,
+    "riskDensity": 55,
+    "promotionSpace": 58,
+    "eventPools": [
+      "税务局"
+    ]
+  },
+  {
+    "id": "u076",
+    "name": "省政协机关",
+    "level": "省级",
+    "system": "机关",
+    "matchTags": [
+      "writing",
+      "political"
+    ],
+    "politicalReq": "democratic",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 85,
+    "weight": 73,
+    "stress": 55,
+    "riskDensity": 30,
+    "promotionSpace": 51,
+    "eventPools": [
+      "政协机关"
+    ]
+  },
+  {
+    "id": "u077",
+    "name": "市政协机关",
+    "level": "市级",
+    "system": "机关",
+    "matchTags": [
+      "writing",
+      "political"
+    ],
+    "politicalReq": "democratic",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 2,
+    "baseDifficulty": 70,
+    "weight": 55,
+    "stress": 55,
+    "riskDensity": 30,
+    "promotionSpace": 45,
+    "eventPools": [
+      "政协机关"
+    ]
+  },
+  {
+    "id": "u078",
+    "name": "县政协机关",
+    "level": "县级",
+    "system": "机关",
+    "matchTags": [
+      "writing",
+      "political"
+    ],
+    "politicalReq": "democratic",
+    "educationBias": "bachelor",
+    "freshRate": 18,
+    "threeUnlimitedRate": 7,
+    "baseDifficulty": 55,
+    "weight": 50,
+    "stress": 65,
+    "riskDensity": 30,
+    "promotionSpace": 43,
+    "eventPools": [
+      "政协机关"
+    ]
+  },
+  {
+    "id": "u079",
+    "name": "省统战部",
+    "level": "省级",
+    "system": "党委系统",
+    "matchTags": [
+      "political",
+      "office"
+    ],
+    "politicalReq": "cpc,democratic",
+    "educationBias": "bachelor",
+    "freshRate": 16,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 91,
+    "weight": 83,
+    "stress": 60,
+    "riskDensity": 35,
+    "promotionSpace": 61,
+    "eventPools": [
+      "统战部"
+    ]
+  },
+  {
+    "id": "u080",
+    "name": "市统战部",
+    "level": "市级",
+    "system": "党委系统",
+    "matchTags": [
+      "political",
+      "office"
+    ],
+    "politicalReq": "cpc,democratic",
+    "educationBias": "bachelor",
+    "freshRate": 16,
+    "threeUnlimitedRate": 1,
+    "baseDifficulty": 76,
+    "weight": 65,
+    "stress": 60,
+    "riskDensity": 35,
+    "promotionSpace": 55,
+    "eventPools": [
+      "统战部"
+    ]
+  },
+  {
+    "id": "u081",
+    "name": "县统战部",
+    "level": "县级",
+    "system": "党委系统",
+    "matchTags": [
+      "political",
+      "office"
+    ],
+    "politicalReq": "cpc,democratic",
+    "educationBias": "bachelor",
+    "freshRate": 16,
+    "threeUnlimitedRate": 6,
+    "baseDifficulty": 61,
+    "weight": 60,
+    "stress": 70,
+    "riskDensity": 35,
+    "promotionSpace": 53,
+    "eventPools": [
+      "统战部"
+    ]
+  },
+  {
+    "id": "u082",
+    "name": "乡镇机关",
+    "level": "乡镇",
+    "system": "基层单位",
+    "matchTags": [
+      "general",
+      "township",
+      "civil",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 30,
+    "threeUnlimitedRate": 25,
+    "baseDifficulty": 58,
+    "weight": 38,
+    "stress": 90,
+    "riskDensity": 55,
+    "promotionSpace": 30,
+    "eventPools": [
+      "乡镇机关"
+    ]
+  },
+  {
+    "id": "u083",
+    "name": "街道办事处",
+    "level": "街道",
+    "system": "基层单位",
+    "matchTags": [
+      "general",
+      "township",
+      "civil",
+      "enforcement"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 30,
+    "threeUnlimitedRate": 18,
+    "baseDifficulty": 65,
+    "weight": 42,
+    "stress": 82,
+    "riskDensity": 48,
+    "promotionSpace": 35,
+    "eventPools": [
+      "街道办事处"
+    ]
+  },
+  {
+    "id": "real_env_省级",
+    "name": "省生态环境厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "environment",
+      "resource",
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 24,
+    "threeUnlimitedRate": 4,
+    "baseDifficulty": 72,
+    "weight": 72,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 66,
+    "eventPools": [
+      "生态环境",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_env_市级",
+    "name": "市生态环境局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "environment",
+      "resource",
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 24,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 61,
+    "weight": 63,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 59,
+    "eventPools": [
+      "生态环境",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_env_县级",
+    "name": "县生态环境局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "environment",
+      "resource",
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 38,
+    "threeUnlimitedRate": 18,
+    "baseDifficulty": 50,
+    "weight": 58,
+    "stress": 72,
+    "riskDensity": 52,
+    "promotionSpace": 54,
+    "eventPools": [
+      "生态环境",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_transport_省级",
+    "name": "省交通运输厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "traffic",
+      "engineering",
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 24,
+    "threeUnlimitedRate": 4,
+    "baseDifficulty": 74,
+    "weight": 74,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 68,
+    "eventPools": [
+      "交通运输",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_transport_市级",
+    "name": "市交通运输局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "traffic",
+      "engineering",
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 24,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 63,
+    "weight": 65,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 61,
+    "eventPools": [
+      "交通运输",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_transport_县级",
+    "name": "县交通运输局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "traffic",
+      "engineering",
+      "law"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 38,
+    "threeUnlimitedRate": 18,
+    "baseDifficulty": 52,
+    "weight": 60,
+    "stress": 72,
+    "riskDensity": 52,
+    "promotionSpace": 56,
+    "eventPools": [
+      "交通运输",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_culture_tourism_省级",
+    "name": "省文化和旅游厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "culture",
+      "business",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 24,
+    "threeUnlimitedRate": 4,
+    "baseDifficulty": 64,
+    "weight": 64,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 58,
+    "eventPools": [
+      "文化和旅游",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_culture_tourism_市级",
+    "name": "市文化和旅游局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "culture",
+      "business",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 24,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 53,
+    "weight": 55,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 51,
+    "eventPools": [
+      "文化和旅游",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_culture_tourism_县级",
+    "name": "县文化和旅游局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "culture",
+      "business",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 38,
+    "threeUnlimitedRate": 18,
+    "baseDifficulty": 42,
+    "weight": 50,
+    "stress": 72,
+    "riskDensity": 52,
+    "promotionSpace": 46,
+    "eventPools": [
+      "文化和旅游",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_commerce_省级",
+    "name": "省商务厅",
+    "level": "省级",
+    "system": "政府部门",
+    "matchTags": [
+      "business",
+      "economy",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 24,
+    "threeUnlimitedRate": 4,
+    "baseDifficulty": 74,
+    "weight": 74,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 66,
+    "eventPools": [
+      "商务",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_commerce_市级",
+    "name": "市商务局",
+    "level": "市级",
+    "system": "政府部门",
+    "matchTags": [
+      "business",
+      "economy",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 24,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 63,
+    "weight": 65,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 59,
+    "eventPools": [
+      "商务",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_commerce_县级",
+    "name": "县商务局",
+    "level": "县级",
+    "system": "政府部门",
+    "matchTags": [
+      "business",
+      "economy",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 38,
+    "threeUnlimitedRate": 18,
+    "baseDifficulty": 52,
+    "weight": 60,
+    "stress": 72,
+    "riskDensity": 52,
+    "promotionSpace": 54,
+    "eventPools": [
+      "商务",
+      "政府部门"
+    ]
+  },
+  {
+    "id": "real_education_省级",
+    "name": "省教育厅",
+    "level": "省级",
+    "system": "民生部门",
+    "matchTags": [
+      "education",
+      "psychology",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 24,
+    "threeUnlimitedRate": 4,
+    "baseDifficulty": 66,
+    "weight": 66,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 60,
+    "eventPools": [
+      "教育",
+      "民生部门"
+    ]
+  },
+  {
+    "id": "real_education_市级",
+    "name": "市教育局",
+    "level": "市级",
+    "system": "民生部门",
+    "matchTags": [
+      "education",
+      "psychology",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 24,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 55,
+    "weight": 57,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 53,
+    "eventPools": [
+      "教育",
+      "民生部门"
+    ]
+  },
+  {
+    "id": "real_education_县级",
+    "name": "县教育局",
+    "level": "县级",
+    "system": "民生部门",
+    "matchTags": [
+      "education",
+      "psychology",
+      "writing"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 38,
+    "threeUnlimitedRate": 18,
+    "baseDifficulty": 44,
+    "weight": 52,
+    "stress": 72,
+    "riskDensity": 52,
+    "promotionSpace": 48,
+    "eventPools": [
+      "教育",
+      "民生部门"
+    ]
+  },
+  {
+    "id": "real_cdc_省级",
+    "name": "省疾病预防控制局",
+    "level": "省级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "medical",
+      "data"
+    ],
+    "politicalReq": "none",
+    "educationBias": "master",
+    "freshRate": 24,
+    "threeUnlimitedRate": 4,
+    "baseDifficulty": 82,
+    "weight": 82,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 76,
+    "eventPools": [
+      "疾病预防控制",
+      "民生部门"
+    ]
+  },
+  {
+    "id": "real_cdc_市级",
+    "name": "市疾病预防控制中心",
+    "level": "市级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "medical",
+      "data"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 24,
+    "threeUnlimitedRate": 10,
+    "baseDifficulty": 71,
+    "weight": 73,
+    "stress": 66,
+    "riskDensity": 52,
+    "promotionSpace": 69,
+    "eventPools": [
+      "疾病预防控制",
+      "民生部门"
+    ]
+  },
+  {
+    "id": "real_cdc_县级",
+    "name": "县疾病预防控制中心",
+    "level": "县级",
+    "system": "民生部门",
+    "matchTags": [
+      "health",
+      "medical",
+      "data"
+    ],
+    "politicalReq": "none",
+    "educationBias": "bachelor",
+    "freshRate": 38,
+    "threeUnlimitedRate": 18,
+    "baseDifficulty": 60,
+    "weight": 68,
+    "stress": 72,
+    "riskDensity": 52,
+    "promotionSpace": 64,
+    "eventPools": [
+      "疾病预防控制",
+      "民生部门"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "arrest",
+    "priority": 100,
+    "condition": "risk>82&&integrity<34",
+    "fragmentGroups": [
+      "base_arrest",
+      "comment_route",
+      "closing_save"
+    ]
+  },
+  {
+    "id": "burnout",
+    "priority": 96,
+    "condition": "deathReason>0&&mentalPressure>80",
+    "fragmentGroups": [
+      "base_burnout",
+      "comment_pity",
+      "closing_count"
+    ]
+  },
+  {
+    "id": "never",
+    "priority": 90,
+    "condition": "isEmployed==false",
+    "fragmentGroups": [
+      "base_never",
+      "comment_pity",
+      "closing_count"
+    ]
+  },
+  {
+    "id": "skyline",
+    "priority": 80,
+    "condition": "leadershipRank>=6&&risk<72",
+    "fragmentGroups": [
+      "base_promote",
+      "comment_route",
+      "closing_wave"
+    ]
+  },
+  {
+    "id": "fast",
+    "priority": 70,
+    "condition": "leadershipRank>=3&&risk<70",
+    "fragmentGroups": [
+      "base_promote",
+      "comment_route",
+      "closing_wave"
+    ]
+  },
+  {
+    "id": "edge",
+    "priority": 50,
+    "condition": "missedPromotionCount>=4",
+    "fragmentGroups": [
+      "base_edge",
+      "comment_stable",
+      "closing_count"
+    ]
+  },
+  {
+    "id": "safe",
+    "priority": 10,
+    "condition": "risk<60",
+    "fragmentGroups": [
+      "base_safe",
+      "comment_stable",
+      "closing_wave"
+    ]
+  },
+  {
+    "id": "ordinary",
+    "priority": 1,
+    "condition": "",
+    "fragmentGroups": [
+      "base_safe",
+      "comment_pity",
+      "closing_wave"
+    ]
+  }
+]

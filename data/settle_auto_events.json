@@ -1,0 +1,1857 @@
+[
+  {
+    "id": "fulltime_01",
+    "title": "全职备考",
+    "text": "你决定在家全职备考。上午背常识，下午刷行测，晚上和“我是不是不适合”谈判。",
+    "recordText": "你决定在家全职备考。上午背常识，下午刷行测，晚上和“我是不是不适合”谈判。话没有说满，心里却把退路画得很清楚。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 4,
+      "familyPressure": 3
+    },
+    "weight": 14
+  },
+  {
+    "id": "fulltime_02",
+    "title": "全职备考",
+    "text": "你把房间改成小型自习室，门口差一块牌子写“闲人免进，亲戚除外”，这件事后来被你夹进二号草稿里。",
+    "recordText": "你把房间改成小型自习室，门口差一块牌子写“闲人免进，亲戚除外”。你没赢，但至少没有把自己交出去，这一年被你记成二号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "familyPressure": 4
+    },
+    "weight": 12
+  },
+  {
+    "id": "fulltime_03",
+    "title": "全职备考",
+    "text": "你给自己排了十小时计划，真正执行八小时，剩下两小时用来怀疑人生，这件事后来被你夹进三号草稿里。",
+    "recordText": "你给自己排了十小时计划，真正执行八小时，剩下两小时用来怀疑人生。表面很稳，实际上只是把慌张折小了，这一年被你记成三号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": 5
+    },
+    "weight": 11
+  },
+  {
+    "id": "fulltime_04",
+    "title": "全职备考",
+    "text": "你开始用番茄钟管理人生，番茄熟了好几轮，岗位表还是冷的，这件事后来被你夹进四号草稿里。",
+    "recordText": "你开始用番茄钟管理人生，番茄熟了好几轮，岗位表还是冷的。这一步不漂亮，但比原地挨打强一点，这一年被你记成四号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "desire": 2,
+      "mentalPressure": 3
+    },
+    "weight": 10
+  },
+  {
+    "id": "fulltime_05",
+    "title": "全职备考",
+    "text": "你在家学习，客厅路过的人都自动降低音量，只有焦虑没有，这件事后来被你夹进五号草稿里。",
+    "recordText": "你在家学习，客厅路过的人都自动降低音量，只有焦虑没有。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成五号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "familyPressure": 4,
+      "mentalPressure": 4
+    },
+    "weight": 10
+  },
+  {
+    "id": "library_01",
+    "title": "图书馆常驻",
+    "text": "你抢到图书馆靠窗座位，阳光很好，题目很坏，这件事后来被你夹进六号草稿里。",
+    "recordText": "你抢到图书馆靠窗座位，阳光很好，题目很坏。别人看你没动，其实你在心里换了好几次座位，这一年被你记成六号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 2
+    },
+    "weight": 9
+  },
+  {
+    "id": "library_02",
+    "title": "图书馆常驻",
+    "text": "你开始认识图书馆保安，他没问你考什么，只问你今天还来这么早，这件事后来被你夹进七号草稿里。",
+    "recordText": "你开始认识图书馆保安，他没问你考什么，只问你今天还来这么早。这件事没给答案，只给了一个更难看的问号，这一年被你记成七号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 1
+    },
+    "weight": 9
+  },
+  {
+    "id": "library_03",
+    "title": "图书馆常驻",
+    "text": "图书馆闭馆音乐一响，你像被系统温柔踢下线，这件事后来被你夹进八号草稿里。",
+    "recordText": "图书馆闭馆音乐一响，你像被系统温柔踢下线。你把尴尬咽下去，顺手给它贴了个标签，这一年被你记成八号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "studyroom_01",
+    "title": "自习室月卡",
+    "text": "你办了自习室月卡，座位很稳，心态不一定，这件事后来被你夹进九号草稿里。",
+    "recordText": "你办了自习室月卡，座位很稳，心态不一定。后来回想，这一秒比很多大事都更像分岔口，这一年被你记成九号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 3,
+      "familyPressure": -1
+    },
+    "weight": 9
+  },
+  {
+    "id": "studyroom_02",
+    "title": "自习室月卡",
+    "text": "隔壁桌也在考公，你们互不说话，但翻书声像暗中结盟，这件事后来被你夹进十号草稿里。",
+    "recordText": "隔壁桌也在考公，你们互不说话，但翻书声像暗中结盟。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成十号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "desire": 2,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "job_tutor_01",
+    "title": "家教兼职",
+    "text": "你接了小学数学家教，讲鸡兔同笼时想起自己也在笼里，这件事后来被你夹进十一号草稿里。",
+    "recordText": "你接了小学数学家教，讲鸡兔同笼时想起自己也在笼里。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成十一号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 2,
+      "familyPressure": -2
+    },
+    "weight": 8
+  },
+  {
+    "id": "job_tutor_02",
+    "title": "家教兼职",
+    "text": "学生家长夸你稳定，你知道这词通常还差一个“但是”，这件事后来被你夹进十二号草稿里。",
+    "recordText": "学生家长夸你稳定，你知道这词通常还差一个“但是”。你开始懂得，有些沉默不是认输，是先省电，这一年被你记成十二号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 3,
+      "desire": 1
+    },
+    "weight": 7
+  },
+  {
+    "id": "job_clerk_01",
+    "title": "便利店夜班",
+    "text": "你找了便利店夜班，凌晨补货时背常识，货架比你先上岸，这件事后来被你夹进十三号草稿里。",
+    "recordText": "你找了便利店夜班，凌晨补货时背常识，货架比你先上岸。这次你没装聪明，命运反而少扣了一点分，这一年被你记成十三号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "familyPressure": -2
+    },
+    "weight": 7
+  },
+  {
+    "id": "job_clerk_02",
+    "title": "便利店夜班",
+    "text": "收银台前你练微笑服务，回家后对错题也挤不出笑，这件事后来被你夹进十四号草稿里。",
+    "recordText": "收银台前你练微笑服务，回家后对错题也挤不出笑。你把答案留短，免得未来拿它反复审你，这一年被你记成十四号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4
+    },
+    "weight": 7
+  },
+  {
+    "id": "job_frontdesk_01",
+    "title": "培训前台",
+    "text": "你在培训机构当前台，天天听别人问通过率，像在问天气，这件事后来被你夹进十五号草稿里。",
+    "recordText": "你在培训机构当前台，天天听别人问通过率，像在问天气。事情没变简单，只是你终于不再假装它简单，这一年被你记成十五号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "desire": 2,
+      "mentalPressure": 3
+    },
+    "weight": 8
+  },
+  {
+    "id": "job_frontdesk_02",
+    "title": "培训前台",
+    "text": "老师讲课时你在门口偷听，知识免费进耳朵，工资按小时结，这件事后来被你夹进十六号草稿里。",
+    "recordText": "老师讲课时你在门口偷听，知识免费进耳朵，工资按小时结。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成十六号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "job_delivery_01",
+    "title": "外卖短跑",
+    "text": "你送了几周外卖，城市路线熟了，人生路线还是导航失败，这件事后来被你夹进十七号草稿里。",
+    "recordText": "你送了几周外卖，城市路线熟了，人生路线还是导航失败。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成十七号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4,
+      "familyPressure": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "job_delivery_02",
+    "title": "外卖短跑",
+    "text": "雨天送单时你突然理解申论里的“基层治理”不是形容词，这件事后来被你夹进十八号草稿里。",
+    "recordText": "雨天送单时你突然理解申论里的“基层治理”不是形容词。你没有热血上头，只让理智先占了个座，这一年被你记成十八号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 3
+    },
+    "weight": 6
+  },
+  {
+    "id": "job_office_01",
+    "title": "文员试用",
+    "text": "你找了份文员试用，第一次发现表格也会有临时工版本，这件事后来被你夹进十九号草稿里。",
+    "recordText": "你找了份文员试用，第一次发现表格也会有临时工版本。人情像雾，散不掉，只能慢慢走，这一年被你记成十九号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 3,
+      "desire": 1
+    },
+    "weight": 8
+  },
+  {
+    "id": "job_office_02",
+    "title": "文员试用",
+    "text": "办公室同事问你是不是过渡，你笑得像一个过渡文件夹，这件事后来被你夹进二十号草稿里。",
+    "recordText": "办公室同事问你是不是过渡，你笑得像一个过渡文件夹。这回你学会先看门缝，再决定要不要伸手，这一年被你记成二十号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 4
+    },
+    "weight": 7
+  },
+  {
+    "id": "job_customer_01",
+    "title": "客服耳机",
+    "text": "你做了客服，练出“您好”开头和“我理解”结尾，心里没有那么理解，这件事后来被你夹进二十一号草稿里。",
+    "recordText": "你做了客服，练出“您好”开头和“我理解”结尾，心里没有那么理解。话没有说满，心里却把退路画得很清楚，这一年被你记成二十一号抽屉。",
+    "effects": {
+      "eq": 1,
+      "workAbility": 3,
+      "mentalPressure": 5
+    },
+    "weight": 7
+  },
+  {
+    "id": "job_customer_02",
+    "title": "客服耳机",
+    "text": "客户骂你时你想，面试题要是真这么问就好了，至少有标准答案，这件事后来被你夹进二十二号草稿里。",
+    "recordText": "客户骂你时你想，面试题要是真这么问就好了，至少有标准答案。你没赢，但至少没有把自己交出去，这一年被你记成二十二号抽屉。",
+    "effects": {
+      "eq": 2,
+      "mentalPressure": 4
+    },
+    "weight": 7
+  },
+  {
+    "id": "job_temp_01",
+    "title": "档案录入",
+    "text": "你接了档案录入临时活，别人的人生一页页过，你自己的还在草稿箱，这件事后来被你夹进二十三号草稿里。",
+    "recordText": "你接了档案录入临时活，别人的人生一页页过，你自己的还在草稿箱。表面很稳，实际上只是把慌张折小了，这一年被你记成二十三号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "job_temp_02",
+    "title": "档案录入",
+    "text": "你把材料编号排得很齐，心想命运如果也能编号就好了，这件事后来被你夹进二十四号草稿里。",
+    "recordText": "你把材料编号排得很齐，心想命运如果也能编号就好了。这一步不漂亮，但比原地挨打强一点，这一年被你记成二十四号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "desire": 1
+    },
+    "weight": 8
+  },
+  {
+    "id": "intern_01",
+    "title": "单位实习",
+    "text": "你进了个单位实习，第一次知道“临时帮忙”可以临时很久，这件事后来被你夹进二十五号草稿里。",
+    "recordText": "你进了个单位实习，第一次知道“临时帮忙”可以临时很久。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成二十五号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "positionWeight": 2,
+      "mentalPressure": 3
+    },
+    "weight": 8
+  },
+  {
+    "id": "intern_02",
+    "title": "单位实习",
+    "text": "实习老师说你适合体制，你听见夸奖，也听见预告，这件事后来被你夹进二十六号草稿里。",
+    "recordText": "实习老师说你适合体制，你听见夸奖，也听见预告。别人看你没动，其实你在心里换了好几次座位，这一年被你记成二十六号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "desire": 3,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "course_01",
+    "title": "报班续命",
+    "text": "你报了冲刺班，老师讲得很燃，账单也很燃，这件事后来被你夹进二十七号草稿里。",
+    "recordText": "你报了冲刺班，老师讲得很燃，账单也很燃。这件事没给答案，只给了一个更难看的问号，这一年被你记成二十七号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "familyPressure": 3,
+      "mentalPressure": 2
+    },
+    "weight": 9
+  },
+  {
+    "id": "course_02",
+    "title": "报班续命",
+    "text": "课表排得像军训，你每天点名到场，心态偶尔旷课，这件事后来被你夹进二十八号草稿里。",
+    "recordText": "课表排得像军训，你每天点名到场，心态偶尔旷课。你把尴尬咽下去，顺手给它贴了个标签，这一年被你记成二十八号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": 4
+    },
+    "weight": 9
+  },
+  {
+    "id": "course_03",
+    "title": "线上刷课",
+    "text": "你买了线上课，倍速开到一点五，焦虑开到两倍，这件事后来被你夹进二十九号草稿里。",
+    "recordText": "你买了线上课，倍速开到一点五，焦虑开到两倍。后来回想，这一秒比很多大事都更像分岔口，这一年被你记成二十九号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "desire": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "course_04",
+    "title": "线上刷课",
+    "text": "老师说这题很简单，你暂停视频，和“简单”两个字对视，这件事后来被你夹进三十号草稿里。",
+    "recordText": "老师说这题很简单，你暂停视频，和“简单”两个字对视。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成三十号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4
+    },
+    "weight": 8
+  },
+  {
+    "id": "mock_01",
+    "title": "模考回暖",
+    "text": "一次模考突然顺眼，你短暂相信努力和玄学达成和解，这件事后来被你夹进三十一号草稿里。",
+    "recordText": "一次模考突然顺眼，你短暂相信努力和玄学达成和解。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成三十一号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": -3,
+      "desire": 3
+    },
+    "weight": 8
+  },
+  {
+    "id": "mock_02",
+    "title": "模考失手",
+    "text": "模考分数像被雨淋过，你开始怀疑答题卡是不是也有情绪，这件事后来被你夹进三十二号草稿里。",
+    "recordText": "模考分数像被雨淋过，你开始怀疑答题卡是不是也有情绪。你开始懂得，有些沉默不是认输，是先省电，这一年被你记成三十二号抽屉。",
+    "effects": {
+      "mentalPressure": 5,
+      "desire": 1
+    },
+    "weight": 8
+  },
+  {
+    "id": "mock_03",
+    "title": "申论返工",
+    "text": "你把申论改到第三遍，标题越来越稳，人越来越飘，这件事后来被你夹进三十三号草稿里。",
+    "recordText": "你把申论改到第三遍，标题越来越稳，人越来越飘。这次你没装聪明，命运反而少扣了一点分，这一年被你记成三十三号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 3
+    },
+    "weight": 8
+  },
+  {
+    "id": "mock_04",
+    "title": "行测卡壳",
+    "text": "数量关系把你按在地上摩擦，你决定先和言语理解恢复邦交，这件事后来被你夹进三十四号草稿里。",
+    "recordText": "数量关系把你按在地上摩擦，你决定先和言语理解恢复邦交。你把答案留短，免得未来拿它反复审你，这一年被你记成三十四号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4
+    },
+    "weight": 8
+  },
+  {
+    "id": "notice_01",
+    "title": "公告刷新",
+    "text": "你无意识刷新公告，像等一个不会主动找你的朋友，这件事后来被你夹进三十五号草稿里。",
+    "recordText": "你无意识刷新公告，像等一个不会主动找你的朋友。事情没变简单，只是你终于不再假装它简单，这一年被你记成三十五号抽屉。",
+    "effects": {
+      "desire": 3,
+      "mentalPressure": 3
+    },
+    "weight": 9
+  },
+  {
+    "id": "notice_02",
+    "title": "岗位传闻",
+    "text": "你听说今年可能扩招，收藏夹又多了几个入口，这件事后来被你夹进三十六号草稿里。",
+    "recordText": "你听说今年可能扩招，收藏夹又多了几个入口。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成三十六号抽屉。",
+    "effects": {
+      "desire": 5,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "notice_03",
+    "title": "职位表研究",
+    "text": "你把岗位表筛了三轮，终于承认选择比热血更像技术活，这件事后来被你夹进三十七号草稿里。",
+    "recordText": "你把岗位表筛了三轮，终于承认选择比热血更像技术活。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成三十七号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "risk": -1
+    },
+    "weight": 9
+  },
+  {
+    "id": "notice_04",
+    "title": "限制刺客",
+    "text": "你看到一个完美岗位，最后一栏写着你没有的条件，这件事后来被你夹进三十八号草稿里。",
+    "recordText": "你看到一个完美岗位，最后一栏写着你没有的条件。你没有热血上头，只让理智先占了个座，这一年被你记成三十八号抽屉。",
+    "effects": {
+      "mentalPressure": 5,
+      "desire": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "family_01",
+    "title": "饭桌复盘",
+    "text": "家里又复盘了一次考试，比阅卷老师还关心你的失误，这件事后来被你夹进三十九号草稿里。",
+    "recordText": "家里又复盘了一次考试，比阅卷老师还关心你的失误。人情像雾，散不掉，只能慢慢走，这一年被你记成三十九号抽屉。",
+    "effects": {
+      "familyPressure": 6,
+      "mentalPressure": 4
+    },
+    "weight": 8
+  },
+  {
+    "id": "family_02",
+    "title": "家里松口",
+    "text": "家里从“必须考上”变成“身体要紧”，你一时不知道该感动还是害怕，这件事后来被你夹进四十号草稿里。",
+    "recordText": "家里从“必须考上”变成“身体要紧”，你一时不知道该感动还是害怕。这回你学会先看门缝，再决定要不要伸手，这一年被你记成四十号抽屉。",
+    "effects": {
+      "familyPressure": -5,
+      "mentalPressure": -2
+    },
+    "weight": 6
+  },
+  {
+    "id": "family_03",
+    "title": "亲戚剧情",
+    "text": "亲戚把你的考试讲成连续剧，所有人都觉得自己看懂了剧情，这件事后来被你夹进四十一号草稿里。",
+    "recordText": "亲戚把你的考试讲成连续剧，所有人都觉得自己看懂了剧情。话没有说满，心里却把退路画得很清楚，这一年被你记成四十一号抽屉。",
+    "effects": {
+      "familyPressure": 7,
+      "mentalPressure": 4
+    },
+    "weight": 8
+  },
+  {
+    "id": "family_04",
+    "title": "父母沉默",
+    "text": "父母这次没催你，沉默比催促还像一张卷子，这件事后来被你夹进四十二号草稿里。",
+    "recordText": "父母这次没催你，沉默比催促还像一张卷子。你没赢，但至少没有把自己交出去，这一年被你记成四十二号抽屉。",
+    "effects": {
+      "familyPressure": 3,
+      "mentalPressure": 5
+    },
+    "weight": 7,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "social_01",
+    "title": "同学上岸",
+    "text": "朋友圈有人晒录用公示，你点了赞，手指比心态稳定，这件事后来被你夹进四十三号草稿里。",
+    "recordText": "朋友圈有人晒录用公示，你点了赞，手指比心态稳定。表面很稳，实际上只是把慌张折小了，这一年被你记成四十三号抽屉。",
+    "effects": {
+      "desire": 4,
+      "mentalPressure": 4,
+      "familyPressure": 2
+    },
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "social_02",
+    "title": "同学转行",
+    "text": "同学去了企业，工资听起来很响，你假装没听见心里的回声，这件事后来被你夹进四十四号草稿里。",
+    "recordText": "同学去了企业，工资听起来很响，你假装没听见心里的回声。这一步不漂亮，但比原地挨打强一点，这一年被你记成四十四号抽屉。",
+    "effects": {
+      "mentalPressure": 3,
+      "desire": -1
+    },
+    "weight": 7,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "date_01",
+    "title": "相亲插曲",
+    "text": "你去相亲，对方问职业规划，你差点把岗位表背出来，这件事后来被你夹进四十五号草稿里。",
+    "recordText": "你去相亲，对方问职业规划，你差点把岗位表背出来。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成四十五号抽屉。",
+    "effects": {
+      "eq": 1,
+      "familyPressure": 3,
+      "mentalPressure": 2
+    },
+    "weight": 6,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "date_02",
+    "title": "相亲冷场",
+    "text": "相亲对象说稳定很重要，你点头，像在给还没拿到的东西背书，这件事后来被你夹进四十六号草稿里。",
+    "recordText": "相亲对象说稳定很重要，你点头，像在给还没拿到的东西背书。别人看你没动，其实你在心里换了好几次座位，这一年被你记成四十六号抽屉。",
+    "effects": {
+      "familyPressure": 4,
+      "mentalPressure": 3
+    },
+    "weight": 6,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "health_01",
+    "title": "体检提醒",
+    "text": "体检单没有骂你，但每个指标都像在阴阳怪气，这件事后来被你夹进四十七号草稿里。",
+    "recordText": "体检单没有骂你，但每个指标都像在阴阳怪气。这件事没给答案，只给了一个更难看的问号，这一年被你记成四十七号抽屉。",
+    "effects": {
+      "mentalPressure": 5,
+      "risk": -2
+    },
+    "weight": 6,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "health_02",
+    "title": "规律作息",
+    "text": "你终于睡了几个整觉，发现人生不是只有题库一种声音，这件事后来被你夹进四十八号草稿里。",
+    "recordText": "你终于睡了几个整觉，发现人生不是只有题库一种声音。你把尴尬咽下去，顺手给它贴了个标签，这一年被你记成四十八号抽屉。",
+    "effects": {
+      "mentalPressure": -5,
+      "workAbility": 1
+    },
+    "weight": 6,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "escape_01",
+    "title": "短暂出走",
+    "text": "你去外地散了几天心，回来发现题还在那里，但你没那么想骂它了，这件事后来被你夹进四十九号草稿里。",
+    "recordText": "你去外地散了几天心，回来发现题还在那里，但你没那么想骂它了。后来回想，这一秒比很多大事都更像分岔口，这一年被你记成四十九号抽屉。",
+    "effects": {
+      "mentalPressure": -6,
+      "familyPressure": 1
+    },
+    "weight": 5,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "quiet_01",
+    "title": "安静一年",
+    "text": "这一年没有大事发生。对备考的人来说，这已经算命运温柔，这件事后来被你夹进五十号草稿里。",
+    "recordText": "这一年没有大事发生。对备考的人来说，这已经算命运温柔。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成五十号抽屉。",
+    "effects": {
+      "mentalPressure": -2,
+      "workAbility": 1
+    },
+    "weight": 5,
+    "conditions": {
+      "minAttempts": 2
+    }
+  },
+  {
+    "id": "legacy_auto_1",
+    "title": "全职备考",
+    "text": "你把一天切成晨读、刷题、怀疑人生和继续刷题四段，这件事后来被你夹进五十一号草稿里。",
+    "recordText": "你把一天切成晨读、刷题、怀疑人生和继续刷题四段。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成五十一号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "familyPressure": 4,
+      "mentalPressure": 3
+    },
+    "weight": 16
+  },
+  {
+    "id": "legacy_auto_2",
+    "title": "边工作边考",
+    "text": "你白天看同事脸色，晚上看错题脸色，时间像被切得很薄的馒头，这件事后来被你夹进五十二号草稿里。",
+    "recordText": "你白天看同事脸色，晚上看错题脸色，时间像被切得很薄的馒头。你开始懂得，有些沉默不是认输，是先省电，这一年被你记成五十二号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "familyPressure": -1,
+      "mentalPressure": 5
+    },
+    "weight": 14
+  },
+  {
+    "id": "legacy_auto_3",
+    "title": "饭桌复盘",
+    "text": "亲戚把你的考试讲成连续剧，所有人都觉得自己看懂了剧情。这次你没装聪明，命运反而少扣了一点分，这件事后来被你夹进五十三号草稿里。",
+    "recordText": "亲戚把你的考试讲成连续剧，所有人都觉得自己看懂了剧情。你把答案留短，免得未来拿它反复审你，这一年被你记成五十三号抽屉。",
+    "effects": {
+      "familyPressure": 7,
+      "mentalPressure": 4,
+      "desire": 2
+    },
+    "weight": 12
+  },
+  {
+    "id": "legacy_auto_4",
+    "title": "模考回暖",
+    "text": "一次模考分数突然顺眼，你短暂相信努力和玄学终于达成和解，这件事后来被你夹进五十四号草稿里。",
+    "recordText": "一次模考分数突然顺眼，你短暂相信努力和玄学终于达成和解。事情没变简单，只是你终于不再假装它简单，这一年被你记成五十四号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": -3,
+      "desire": 3
+    },
+    "weight": 10
+  },
+  {
+    "id": "legacy_auto_5",
+    "title": "短暂松弛",
+    "text": "你决定休息几天，结果休息也带着负罪感打卡，这件事后来被你夹进五十五号草稿里。",
+    "recordText": "你决定休息几天，结果休息也带着负罪感打卡。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成五十五号抽屉。",
+    "effects": {
+      "mentalPressure": -6,
+      "desire": -2,
+      "familyPressure": 2
+    },
+    "weight": 9
+  },
+  {
+    "id": "legacy_auto_6",
+    "title": "临时岗位",
+    "text": "你找了个临时岗位坐下，发现椅子也会提醒人没有编制，这件事后来被你夹进五十六号草稿里。",
+    "recordText": "你找了个临时岗位坐下，发现椅子也会提醒人没有编制。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成五十六号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "desire": -2,
+      "mentalPressure": -1
+    },
+    "weight": 9
+  },
+  {
+    "id": "legacy_auto_7",
+    "title": "身体提醒",
+    "text": "体检单没有骂你，但每个指标都像在阴阳怪气。你没有热血上头，只让理智先占了个座，这件事后来被你夹进五十七号草稿里。",
+    "recordText": "体检单没有骂你，但每个指标都像在阴阳怪气。人情像雾，散不掉，只能慢慢走，这一年被你记成五十七号抽屉。",
+    "effects": {
+      "mentalPressure": 5,
+      "desire": -1,
+      "risk": -2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_8",
+    "title": "岗位传闻",
+    "text": "你听说某系统今年可能扩招，于是收藏夹又多了几个入口，这件事后来被你夹进五十八号草稿里。",
+    "recordText": "你听说某系统今年可能扩招，于是收藏夹又多了几个入口。这回你学会先看门缝，再决定要不要伸手，这一年被你记成五十八号抽屉。",
+    "effects": {
+      "desire": 5,
+      "mentalPressure": 2,
+      "workAbility": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_9",
+    "title": "报班再战",
+    "text": "你报了一个冲刺班，老师讲得很燃，账单也很燃，这件事后来被你夹进五十九号草稿里。",
+    "recordText": "你报了一个冲刺班，老师讲得很燃，账单也很燃。话没有说满，心里却把退路画得很清楚，这一年被你记成五十九号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "familyPressure": 3,
+      "mentalPressure": 2
+    },
+    "weight": 9
+  },
+  {
+    "id": "legacy_auto_10",
+    "title": "公告成瘾",
+    "text": "你开始无意识刷新公告，像在等一个不会主动找你的朋友，这件事后来被你夹进六十号草稿里。",
+    "recordText": "你开始无意识刷新公告，像在等一个不会主动找你的朋友。你没赢，但至少没有把自己交出去，这一年被你记成六十号抽屉。",
+    "effects": {
+      "mentalPressure": 3,
+      "desire": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_11",
+    "title": "饭桌复盘",
+    "text": "家里又复盘了一次考试，比阅卷老师还关心你的失误。表面很稳，实际上只是把慌张折小了，这件事后来被你夹进六十一号草稿里。",
+    "recordText": "家里又复盘了一次考试，比阅卷老师还关心你的失误。这一步不漂亮，但比原地挨打强一点，这一年被你记成六十一号抽屉。",
+    "effects": {
+      "familyPressure": 6,
+      "mentalPressure": 4,
+      "desire": -1
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_12",
+    "title": "临时上班",
+    "text": "你找了份临时工作，白天学会看老板脸色，晚上学会看错题脸色，这件事后来被你夹进六十二号草稿里。",
+    "recordText": "你找了份临时工作，白天学会看老板脸色，晚上学会看错题脸色。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成六十二号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "desire": 1
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_13",
+    "title": "同学上岸",
+    "text": "朋友圈里有人晒录用公示，你点了赞，手指比心态稳定，这件事后来被你夹进六十三号草稿里。",
+    "recordText": "朋友圈里有人晒录用公示，你点了赞，手指比心态稳定。别人看你没动，其实你在心里换了好几次座位，这一年被你记成六十三号抽屉。",
+    "effects": {
+      "desire": 4,
+      "mentalPressure": 4,
+      "familyPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_14",
+    "title": "规律作息",
+    "text": "你终于睡了几个整觉，发现人生不是只有题库一种声音。这件事没给答案，只给了一个更难看的问号，这件事后来被你夹进六十四号草稿里。",
+    "recordText": "你终于睡了几个整觉，发现人生不是只有题库一种声音。你把尴尬咽下去，顺手给它贴了个标签，这一年被你记成六十四号抽屉。",
+    "effects": {
+      "mentalPressure": -5,
+      "desire": -1,
+      "workAbility": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_15",
+    "title": "家里松口",
+    "text": "家里从“必须考上”变成“身体要紧”，你一时不知道该感动还是害怕。后来回想，这一秒比很多大事都更像分岔口，这件事后来被你夹进六十五号草稿里。",
+    "recordText": "家里从“必须考上”变成“身体要紧”，你一时不知道该感动还是害怕。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成六十五号抽屉。",
+    "effects": {
+      "familyPressure": -5,
+      "mentalPressure": -2
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_16",
+    "title": "岗位复盘",
+    "text": "你认真研究岗位表，第一次承认选择比热血更像技术活，这件事后来被你夹进六十六号草稿里。",
+    "recordText": "你认真研究岗位表，第一次承认选择比热血更像技术活。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成六十六号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "desire": 1,
+      "risk": -1
+    },
+    "weight": 9
+  },
+  {
+    "id": "legacy_auto_17",
+    "title": "短暂出走",
+    "text": "你去外地散了几天心，回来发现题还在那里，但你没那么想骂它了。你开始懂得，有些沉默不是认输，是先省电，这件事后来被你夹进六十七号草稿里。",
+    "recordText": "你去外地散了几天心，回来发现题还在那里，但你没那么想骂它了。这次你没装聪明，命运反而少扣了一点分，这一年被你记成六十七号抽屉。",
+    "effects": {
+      "mentalPressure": -6,
+      "familyPressure": 1
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_18",
+    "title": "安静一年",
+    "text": "这一年没有大事发生。对备考的人来说，这已经算命运温柔。你把答案留短，免得未来拿它反复审你，这件事后来被你夹进六十八号草稿里。",
+    "recordText": "这一年没有大事发生。对备考的人来说，这已经算命运温柔。事情没变简单，只是你终于不再假装它简单，这一年被你记成六十八号抽屉。",
+    "effects": {
+      "mentalPressure": -2,
+      "workAbility": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_19",
+    "title": "招聘会绕场",
+    "text": "你在招聘会转了三圈，发现每个摊位都像在委婉问你有没有经验，这件事后来被你夹进六十九号草稿里。",
+    "recordText": "你在招聘会转了三圈，发现每个摊位都像在委婉问你有没有经验。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成六十九号抽屉。",
+    "effects": {
+      "mentalPressure": 4,
+      "desire": 2,
+      "workAbility": 1
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_20",
+    "title": "简历已读",
+    "text": "简历投出去后没有回音，你开始怀念考试至少会公布分数，这件事后来被你夹进七十号草稿里。",
+    "recordText": "简历投出去后没有回音，你开始怀念考试至少会公布分数。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成七十号抽屉。",
+    "effects": {
+      "mentalPressure": 5,
+      "desire": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_21",
+    "title": "图书馆抢座",
+    "text": "你抢到一个靠窗座位，仿佛先赢下了人生的一个小入口，这件事后来被你夹进七十一号草稿里。",
+    "recordText": "你抢到一个靠窗座位，仿佛先赢下了人生的一个小入口。你没有热血上头，只让理智先占了个座，这一年被你记成七十一号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": -1
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_22",
+    "title": "家里来电",
+    "text": "家里问你最近怎么样，你说还行，双方都知道这是外交辞令，这件事后来被你夹进七十二号草稿里。",
+    "recordText": "家里问你最近怎么样，你说还行，双方都知道这是外交辞令。人情像雾，散不掉，只能慢慢走，这一年被你记成七十二号抽屉。",
+    "effects": {
+      "familyPressure": 5,
+      "mentalPressure": 3
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_23",
+    "title": "公众号收藏",
+    "text": "你收藏了十几个公考公众号，感觉自己像加入了一个不会毕业的班级，这件事后来被你夹进七十三号草稿里。",
+    "recordText": "你收藏了十几个公考公众号，感觉自己像加入了一个不会毕业的班级。这回你学会先看门缝，再决定要不要伸手，这一年被你记成七十三号抽屉。",
+    "effects": {
+      "desire": 3,
+      "workAbility": 2,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_24",
+    "title": "模考翻车",
+    "text": "一次模考把你打回现实，现实还贴心地附带了解析，这件事后来被你夹进七十四号草稿里。",
+    "recordText": "一次模考把你打回现实，现实还贴心地附带了解析。话没有说满，心里却把退路画得很清楚，这一年被你记成七十四号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "desire": -1
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_25",
+    "title": "模考上岸幻觉",
+    "text": "模考分数突然很好，你短暂拥有了录用公示前的错觉，这件事后来被你夹进七十五号草稿里。",
+    "recordText": "模考分数突然很好，你短暂拥有了录用公示前的错觉。你没赢，但至少没有把自己交出去，这一年被你记成七十五号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "desire": 4,
+      "mentalPressure": -2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_26",
+    "title": "室友入职",
+    "text": "室友开始上班，你开始熟悉白天安静的出租屋，这件事后来被你夹进七十六号草稿里。",
+    "recordText": "室友开始上班，你开始熟悉白天安静的出租屋。表面很稳，实际上只是把慌张折小了，这一年被你记成七十六号抽屉。",
+    "effects": {
+      "mentalPressure": 4,
+      "familyPressure": 2,
+      "desire": 3
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_27",
+    "title": "饭桌比较",
+    "text": "亲戚提到别人家孩子，你发现比较是一种没有冷却时间的技能，这件事后来被你夹进七十七号草稿里。",
+    "recordText": "亲戚提到别人家孩子，你发现比较是一种没有冷却时间的技能。这一步不漂亮，但比原地挨打强一点，这一年被你记成七十七号抽屉。",
+    "effects": {
+      "familyPressure": 7,
+      "mentalPressure": 5
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_28",
+    "title": "兼职家教",
+    "text": "你去做家教，讲题时很清醒，回家后对自己也很想讲道理，这件事后来被你夹进七十八号草稿里。",
+    "recordText": "你去做家教，讲题时很清醒，回家后对自己也很想讲道理。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成七十八号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 2,
+      "familyPressure": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_29",
+    "title": "雨夜兼职",
+    "text": "你在雨里跑了一晚，突然觉得稳定收入这四个字很有文学性，这件事后来被你夹进七十九号草稿里。",
+    "recordText": "你在雨里跑了一晚，突然觉得稳定收入这四个字很有文学性。别人看你没动，其实你在心里换了好几次座位，这一年被你记成七十九号抽屉。",
+    "effects": {
+      "desire": 5,
+      "body": -1,
+      "mentalPressure": 3
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_30",
+    "title": "办公室临聘",
+    "text": "你坐进一间办公室，提前体验了没有编制的机关空气，这件事后来被你夹进八十号草稿里。",
+    "recordText": "你坐进一间办公室，提前体验了没有编制的机关空气。这件事没给答案，只给了一个更难看的问号，这一年被你记成八十号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "positionWeight": 1,
+      "desire": 3,
+      "mentalPressure": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_31",
+    "title": "备考群沉默",
+    "text": "群里每天打卡，真正说话的人越来越少，沉默的人越来越懂，这件事后来被你夹进八十一号草稿里。",
+    "recordText": "群里每天打卡，真正说话的人越来越少，沉默的人越来越懂。你把尴尬咽下去，顺手给它贴了个标签，这一年被你记成八十一号抽屉。",
+    "effects": {
+      "mentalPressure": 3,
+      "workAbility": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_32",
+    "title": "老师鼓励",
+    "text": "老师说你底子不错，你知道这句话通常还差一个“但是”，这件事后来被你夹进八十二号草稿里。",
+    "recordText": "老师说你底子不错，你知道这句话通常还差一个“但是”。后来回想，这一秒比很多大事都更像分岔口，这一年被你记成八十二号抽屉。",
+    "effects": {
+      "desire": 2,
+      "mentalPressure": -2,
+      "workAbility": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_33",
+    "title": "夜跑自救",
+    "text": "你开始夜跑，跑不过焦虑，但至少能让焦虑喘一会儿，这件事后来被你夹进八十三号草稿里。",
+    "recordText": "你开始夜跑，跑不过焦虑，但至少能让焦虑喘一会儿。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成八十三号抽屉。",
+    "effects": {
+      "mentalPressure": -4,
+      "body": 1,
+      "desire": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_34",
+    "title": "报复性熬夜",
+    "text": "白天很自律，晚上把手机刷成了精神补偿，这件事后来被你夹进八十四号草稿里。",
+    "recordText": "白天很自律，晚上把手机刷成了精神补偿。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成八十四号抽屉。",
+    "effects": {
+      "mentalPressure": 3,
+      "body": -1,
+      "workAbility": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_35",
+    "title": "政策变动",
+    "text": "招考政策有点变化，你把公告读了三遍，确认焦虑不是自己想象，这件事后来被你夹进八十五号草稿里。",
+    "recordText": "招考政策有点变化，你把公告读了三遍，确认焦虑不是自己想象。你开始懂得，有些沉默不是认输，是先省电，这一年被你记成八十五号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "risk": -1
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_36",
+    "title": "专业受限",
+    "text": "你又看到一个好岗位限专业，第一次觉得大学志愿表有售后问题，这件事后来被你夹进八十六号草稿里。",
+    "recordText": "你又看到一个好岗位限专业，第一次觉得大学志愿表有售后问题。这次你没装聪明，命运反而少扣了一点分，这一年被你记成八十六号抽屉。",
+    "effects": {
+      "mentalPressure": 4,
+      "desire": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_37",
+    "title": "三不限人海",
+    "text": "你决定冲三不限，像在广场上找一扇很窄的门，这件事后来被你夹进八十七号草稿里。",
+    "recordText": "你决定冲三不限，像在广场上找一扇很窄的门。你把答案留短，免得未来拿它反复审你，这一年被你记成八十七号抽屉。",
+    "effects": {
+      "desire": 3,
+      "mentalPressure": 4,
+      "workAbility": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_38",
+    "title": "本地新闻",
+    "text": "你开始关注本地新闻，发现每条动态都可能藏着一个未来岗位，这件事后来被你夹进八十八号草稿里。",
+    "recordText": "你开始关注本地新闻，发现每条动态都可能藏着一个未来岗位。事情没变简单，只是你终于不再假装它简单，这一年被你记成八十八号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "desire": 2
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_39",
+    "title": "亲戚介绍工作",
+    "text": "亲戚给你介绍工作，工作听起来稳定，工资听起来含蓄，这件事后来被你夹进八十九号草稿里。",
+    "recordText": "亲戚给你介绍工作，工作听起来稳定，工资听起来含蓄。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成八十九号抽屉。",
+    "effects": {
+      "familyPressure": -2,
+      "desire": -1,
+      "mentalPressure": 2
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_40",
+    "title": "转考银行",
+    "text": "你试了银行考试，发现稳定有很多门，只是每扇门都有自己的卷法，这件事后来被你夹进九十号草稿里。",
+    "recordText": "你试了银行考试，发现稳定有很多门，只是每扇门都有自己的卷法。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成九十号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "desire": -1,
+      "mentalPressure": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_41",
+    "title": "国企笔试",
+    "text": "你参加国企笔试，题不一样，焦虑很熟，这件事后来被你夹进九十一号草稿里。",
+    "recordText": "你参加国企笔试，题不一样，焦虑很熟。你没有热血上头，只让理智先占了个座，这一年被你记成九十一号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "desire": -1,
+      "mentalPressure": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_42",
+    "title": "朋友渐远",
+    "text": "朋友的生活开始有新节奏，你还在等下一次公告，这件事后来被你夹进九十二号草稿里。",
+    "recordText": "朋友的生活开始有新节奏，你还在等下一次公告。人情像雾，散不掉，只能慢慢走，这一年被你记成九十二号抽屉。",
+    "effects": {
+      "mentalPressure": 4,
+      "desire": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_43",
+    "title": "伴侣支持",
+    "text": "有人认真听你复盘，比正确答案还少见，这件事后来被你夹进九十三号草稿里。",
+    "recordText": "有人认真听你复盘，比正确答案还少见。这回你学会先看门缝，再决定要不要伸手，这一年被你记成九十三号抽屉。",
+    "effects": {
+      "mentalPressure": -4,
+      "familyPressure": -2,
+      "desire": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_44",
+    "title": "感情拉扯",
+    "text": "对方问你还要考多久，你想回答，但报名系统也不知道，这件事后来被你夹进九十四号草稿里。",
+    "recordText": "对方问你还要考多久，你想回答，但报名系统也不知道。话没有说满，心里却把退路画得很清楚，这一年被你记成九十四号抽屉。",
+    "effects": {
+      "mentalPressure": 5,
+      "familyPressure": 3
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_45",
+    "title": "城市散步",
+    "text": "你沿着河边走了很久，发现不上岸的人也需要呼吸，这件事后来被你夹进九十五号草稿里。",
+    "recordText": "你沿着河边走了很久，发现不上岸的人也需要呼吸。你没赢，但至少没有把自己交出去，这一年被你记成九十五号抽屉。",
+    "effects": {
+      "mentalPressure": -5,
+      "desire": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_46",
+    "title": "报名缴费",
+    "text": "缴费成功那一刻，你感觉自己又给命运续了一个季度，这件事后来被你夹进九十六号草稿里。",
+    "recordText": "缴费成功那一刻，你感觉自己又给命运续了一个季度。表面很稳，实际上只是把慌张折小了，这一年被你记成九十六号抽屉。",
+    "effects": {
+      "desire": 2,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_47",
+    "title": "家里沉默",
+    "text": "家里这次没催你，沉默反而更像一间考场，这件事后来被你夹进九十七号草稿里。",
+    "recordText": "家里这次没催你，沉默反而更像一间考场。这一步不漂亮，但比原地挨打强一点，这一年被你记成九十七号抽屉。",
+    "effects": {
+      "familyPressure": 4,
+      "mentalPressure": 3
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_48",
+    "title": "专项突破",
+    "text": "你终于承认短板不是性格，是资料分析，这件事后来被你夹进九十八号草稿里。",
+    "recordText": "你终于承认短板不是性格，是资料分析。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成九十八号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": 2
+    },
+    "weight": 8
+  },
+  {
+    "id": "legacy_auto_49",
+    "title": "面试旁听",
+    "text": "你旁听别人答题，发现成熟答案通常不像人话，但很像分数，这件事后来被你夹进九十九号草稿里。",
+    "recordText": "你旁听别人答题，发现成熟答案通常不像人话，但很像分数。别人看你没动，其实你在心里换了好几次座位，这一年被你记成九十九号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "eq": 1,
+      "mentalPressure": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_50",
+    "title": "顺手考证",
+    "text": "你顺手考了个证，证书很薄，心理安慰很厚，这件事后来被你夹进一百号草稿里。",
+    "recordText": "你顺手考了个证，证书很薄，心理安慰很厚。这件事没给答案，只给了一个更难看的问号，这一年被你记成一百号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "desire": 1,
+      "mentalPressure": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_51",
+    "title": "短暂和解",
+    "text": "某天你突然没那么恨失败了，它像一个不礼貌但诚实的老师，这件事后来被你夹进一百一号草稿里。",
+    "recordText": "某天你突然没那么恨失败了，它像一个不礼貌但诚实的老师。你把尴尬咽下去，顺手给它贴了个标签，这一年被你记成一百一号抽屉。",
+    "effects": {
+      "mentalPressure": -5,
+      "workAbility": 2
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_52",
+    "title": "邻居关心",
+    "text": "邻居问你工作定了吗，你微笑得像客服，这件事后来被你夹进一百二号草稿里。",
+    "recordText": "邻居问你工作定了吗，你微笑得像客服。后来回想，这一秒比很多大事都更像分岔口，这一年被你记成一百二号抽屉。",
+    "effects": {
+      "familyPressure": 4,
+      "mentalPressure": 4
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_53",
+    "title": "工资现实",
+    "text": "你算了一下临时收入和房租，稳定二字突然开始发光，这件事后来被你夹进一百三号草稿里。",
+    "recordText": "你算了一下临时收入和房租，稳定二字突然开始发光。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成一百三号抽屉。",
+    "effects": {
+      "desire": 5,
+      "mentalPressure": 3
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_54",
+    "title": "梦里考试",
+    "text": "你梦见自己迟到，醒来后发现真正迟到的是人生规划，这件事后来被你夹进一百四号草稿里。",
+    "recordText": "你梦见自己迟到，醒来后发现真正迟到的是人生规划。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成一百四号抽屉。",
+    "effects": {
+      "mentalPressure": 4,
+      "workAbility": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_55",
+    "title": "旧笔记回炉",
+    "text": "你翻出去年笔记，发现当时的自己也挺努力，就是字有点绝望，这件事后来被你夹进一百五号草稿里。",
+    "recordText": "你翻出去年笔记，发现当时的自己也挺努力，就是字有点绝望。你开始懂得，有些沉默不是认输，是先省电，这一年被你记成一百五号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_56",
+    "title": "错过公告",
+    "text": "你差点错过一个公告，从此对截止日期产生了不健康的尊重，这件事后来被你夹进一百六号草稿里。",
+    "recordText": "你差点错过一个公告，从此对截止日期产生了不健康的尊重。这次你没装聪明，命运反而少扣了一点分，这一年被你记成一百六号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "risk": -1
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_57",
+    "title": "家里算账",
+    "text": "家里开始算备考成本，每个数字都像在敲桌子，这件事后来被你夹进一百七号草稿里。",
+    "recordText": "家里开始算备考成本，每个数字都像在敲桌子。你把答案留短，免得未来拿它反复审你，这一年被你记成一百七号抽屉。",
+    "effects": {
+      "familyPressure": 6,
+      "mentalPressure": 5,
+      "desire": 2
+    },
+    "weight": 6
+  },
+  {
+    "id": "legacy_auto_58",
+    "title": "小胜一场",
+    "text": "你这周坚持复习了六天，虽然没上岸，但至少没被自己放弃，这件事后来被你夹进一百八号草稿里。",
+    "recordText": "你这周坚持复习了六天，虽然没上岸，但至少没被自己放弃。事情没变简单，只是你终于不再假装它简单，这一年被你记成一百八号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": -2,
+      "desire": 2
+    },
+    "weight": 7
+  },
+  {
+    "id": "legacy_auto_59",
+    "title": "换城备考",
+    "text": "你换了个城市备考，陌生的公交站也开始认识你的焦虑，这件事后来被你夹进一百九号草稿里。",
+    "recordText": "你换了个城市备考，陌生的公交站也开始认识你的焦虑。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成一百九号抽屉。",
+    "effects": {
+      "desire": 2,
+      "mentalPressure": 3,
+      "familyPressure": -2
+    },
+    "weight": 5
+  },
+  {
+    "id": "legacy_auto_60",
+    "title": "重新排计划",
+    "text": "你把计划重排了一遍，像在给人生重新贴便利贴，这件事后来被你夹进一百十号草稿里。",
+    "recordText": "你把计划重排了一遍，像在给人生重新贴便利贴。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成一百十号抽屉。",
+    "effects": {
+      "workAbility": 5,
+      "mentalPressure": -1
+    },
+    "weight": 8
+  },
+  {
+    "id": "auto_extra_001",
+    "title": "全职备考",
+    "text": "你在家里摆开书和水杯，像给自己开了一个没有编制的办公室，这件事后来被你夹进一百十一号草稿里。",
+    "recordText": "你在家里摆开书和水杯，像给自己开了一个没有编制的办公室。你没有热血上头，只让理智先占了个座，这一年被你记成一百十一号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": -2,
+      "familyPressure": 2,
+      "background": 1,
+      "desire": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "auto_extra_002",
+    "title": "图书馆驻扎",
+    "text": "图书馆空调很稳，题目不稳，你每天在两者之间寻找人生平衡，这件事后来被你夹进一百十二号草稿里。",
+    "recordText": "图书馆空调很稳，题目不稳，你每天在两者之间寻找人生平衡。人情像雾，散不掉，只能慢慢走，这一年被你记成一百十二号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": -1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 6
+  },
+  {
+    "id": "auto_extra_003",
+    "title": "自习室续命",
+    "text": "自习室老板记住了你的脸，但报名系统还没有，这件事后来被你夹进一百十三号草稿里。",
+    "recordText": "自习室老板记住了你的脸，但报名系统还没有。这回你学会先看门缝，再决定要不要伸手，这一年被你记成一百十三号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 7
+  },
+  {
+    "id": "auto_extra_004",
+    "title": "兼职家教",
+    "text": "你教孩子鸡兔同笼，心里想自己和岗位表也被关在同一个笼里，这件事后来被你夹进一百十四号草稿里。",
+    "recordText": "你教孩子鸡兔同笼，心里想自己和岗位表也被关在同一个笼里。话没有说满，心里却把退路画得很清楚，这一年被你记成一百十四号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 8
+  },
+  {
+    "id": "auto_extra_005",
+    "title": "便利店夜班",
+    "text": "便利店夜班让你知道，凌晨三点的城市比申论题更诚实，这件事后来被你夹进一百十五号草稿里。",
+    "recordText": "便利店夜班让你知道，凌晨三点的城市比申论题更诚实。你没赢，但至少没有把自己交出去，这一年被你记成一百十五号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": 3,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 9
+  },
+  {
+    "id": "auto_extra_006",
+    "title": "咖啡店打工",
+    "text": "你在咖啡店打奶泡，顺手把焦虑也打出了一层泡沫，这件事后来被你夹进一百十六号草稿里。",
+    "recordText": "你在咖啡店打奶泡，顺手把焦虑也打出了一层泡沫。表面很稳，实际上只是把慌张折小了，这一年被你记成一百十六号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4,
+      "familyPressure": 2,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 10
+  },
+  {
+    "id": "auto_extra_007",
+    "title": "社区临工",
+    "text": "社区临工让你提前看见基层日常：表格不大，事情很碎，这件事后来被你夹进一百十七号草稿里。",
+    "recordText": "社区临工让你提前看见基层日常：表格不大，事情很碎。这一步不漂亮，但比原地挨打强一点，这一年被你记成一百十七号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "familyPressure": -1,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 11
+  },
+  {
+    "id": "auto_extra_008",
+    "title": "档案录入",
+    "text": "你录了一天档案，发现别人的人生一页页过去，自己的还在草稿箱，这件事后来被你夹进一百十八号草稿里。",
+    "recordText": "你录了一天档案，发现别人的人生一页页过去，自己的还在草稿箱。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成一百十八号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": -2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 12
+  },
+  {
+    "id": "auto_extra_009",
+    "title": "前台文员",
+    "text": "前台电话响个不停，你练会了礼貌，也练会了把烦躁吞回去，这件事后来被你夹进一百十九号草稿里。",
+    "recordText": "前台电话响个不停，你练会了礼貌，也练会了把烦躁吞回去。别人看你没动，其实你在心里换了好几次座位，这一年被你记成一百十九号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": -1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "auto_extra_010",
+    "title": "仓库盘点",
+    "text": "仓库盘点时你突然理解资料分析：数量不会骗人，但会折磨人，这件事后来被你夹进一百二十号草稿里。",
+    "recordText": "仓库盘点时你突然理解资料分析：数量不会骗人，但会折磨人。这件事没给答案，只给了一个更难看的问号，这一年被你记成一百二十号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 1,
+      "familyPressure": 0,
+      "background": 1,
+      "desire": 0
+    },
+    "weight": 6
+  },
+  {
+    "id": "auto_extra_011",
+    "title": "外卖骑手",
+    "text": "你送了几天外卖，城市路线熟了，人生路线还是导航失败，这件事后来被你夹进一百二十一号草稿里。",
+    "recordText": "你送了几天外卖，城市路线熟了，人生路线还是导航失败。你把尴尬咽下去，顺手给它贴了个标签，这一年被你记成一百二十一号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 2,
+      "familyPressure": 2,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 7
+  },
+  {
+    "id": "auto_extra_012",
+    "title": "网课助教",
+    "text": "你当网课助教，学生问重点，你差点把“早点上岸”写到黑板上，这件事后来被你夹进一百二十二号草稿里。",
+    "recordText": "你当网课助教，学生问重点，你差点把“早点上岸”写到黑板上。后来回想，这一秒比很多大事都更像分岔口，这一年被你记成一百二十二号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 3,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 1
+    },
+    "weight": 8
+  },
+  {
+    "id": "auto_extra_013",
+    "title": "短期行政",
+    "text": "短期行政工作让你提前体验办公室：茶水间消息比文件流转快，这件事后来被你夹进一百二十三号草稿里。",
+    "recordText": "短期行政工作让你提前体验办公室：茶水间消息比文件流转快。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成一百二十三号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": 4,
+      "familyPressure": -1,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 9
+  },
+  {
+    "id": "auto_extra_014",
+    "title": "资料整理",
+    "text": "你给材料重新编号，忽然觉得自己的人生也缺一个清晰目录，这件事后来被你夹进一百二十四号草稿里。",
+    "recordText": "你给材料重新编号，忽然觉得自己的人生也缺一个清晰目录。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成一百二十四号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 5,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 10
+  },
+  {
+    "id": "auto_extra_015",
+    "title": "陪读自救",
+    "text": "你陪亲戚家孩子学习，孩子进步很快，你的进度条礼貌沉默，这件事后来被你夹进一百二十五号草稿里。",
+    "recordText": "你陪亲戚家孩子学习，孩子进步很快，你的进度条礼貌沉默。你开始懂得，有些沉默不是认输，是先省电，这一年被你记成一百二十五号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": -2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 11
+  },
+  {
+    "id": "auto_extra_016",
+    "title": "县城租房",
+    "text": "你在县城租了小房间，窗外很安静，心里每天开早会，这件事后来被你夹进一百二十六号草稿里。",
+    "recordText": "你在县城租了小房间，窗外很安静，心里每天开早会。这次你没装聪明，命运反而少扣了一点分，这一年被你记成一百二十六号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": -1,
+      "familyPressure": 2,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 12
+  },
+  {
+    "id": "auto_extra_017",
+    "title": "居家刷题",
+    "text": "你居家刷题，客厅经过的人自动降低音量，焦虑没有，这件事后来被你夹进一百二十七号草稿里。",
+    "recordText": "你居家刷题，客厅经过的人自动降低音量，焦虑没有。你把答案留短，免得未来拿它反复审你，这一年被你记成一百二十七号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": 1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "auto_extra_018",
+    "title": "模考复盘",
+    "text": "模考分数忽高忽低，像命运在练习阴阳怪气，这件事后来被你夹进一百二十八号草稿里。",
+    "recordText": "模考分数忽高忽低，像命运在练习阴阳怪气。事情没变简单，只是你终于不再假装它简单，这一年被你记成一百二十八号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 6
+  },
+  {
+    "id": "auto_extra_019",
+    "title": "申论死磕",
+    "text": "你开始死磕申论，终于理解为什么有人能把一句话写成三段，这件事后来被你夹进一百二十九号草稿里。",
+    "recordText": "你开始死磕申论，终于理解为什么有人能把一句话写成三段。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成一百二十九号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 3,
+      "familyPressure": -1,
+      "background": 1,
+      "desire": 0
+    },
+    "weight": 7
+  },
+  {
+    "id": "auto_extra_020",
+    "title": "常识补洞",
+    "text": "常识题提醒你：世界很大，考点更多，这件事后来被你夹进一百三十号草稿里。",
+    "recordText": "常识题提醒你：世界很大，考点更多。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成一百三十号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 4,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 8
+  },
+  {
+    "id": "auto_extra_021",
+    "title": "行测拉练",
+    "text": "你把行测当健身，练到最后发现最酸的是心态，这件事后来被你夹进一百三十一号草稿里。",
+    "recordText": "你把行测当健身，练到最后发现最酸的是心态。你没有热血上头，只让理智先占了个座，这一年被你记成一百三十一号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": 5,
+      "familyPressure": 2,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 9
+  },
+  {
+    "id": "auto_extra_022",
+    "title": "面试旁听",
+    "text": "你去旁听面试课，别人回答像干部，你回答像刚被叫醒，这件事后来被你夹进一百三十二号草稿里。",
+    "recordText": "你去旁听面试课，别人回答像干部，你回答像刚被叫醒。人情像雾，散不掉，只能慢慢走，这一年被你记成一百三十二号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": -2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 10
+  },
+  {
+    "id": "auto_extra_023",
+    "title": "简历投递",
+    "text": "你投了几份简历，没有回音，突然觉得报名系统至少会给倒计时，这件事后来被你夹进一百三十三号草稿里。",
+    "recordText": "你投了几份简历，没有回音，突然觉得报名系统至少会给倒计时。这回你学会先看门缝，再决定要不要伸手，这一年被你记成一百三十三号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": -1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 1
+    },
+    "weight": 11
+  },
+  {
+    "id": "auto_extra_024",
+    "title": "亲戚介绍",
+    "text": "亲戚给你介绍工作，语气像给旧家具找下家，这件事后来被你夹进一百三十四号草稿里。",
+    "recordText": "亲戚给你介绍工作，语气像给旧家具找下家。话没有说满，心里却把退路画得很清楚，这一年被你记成一百三十四号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 12
+  },
+  {
+    "id": "auto_extra_025",
+    "title": "相亲冷场",
+    "text": "相亲时对方问职业规划，你差点回答“等公告”，这件事后来被你夹进一百三十五号草稿里。",
+    "recordText": "相亲时对方问职业规划，你差点回答“等公告”。你没赢，但至少没有把自己交出去，这一年被你记成一百三十五号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": 2,
+      "familyPressure": -1,
+      "background": 0,
+      "desire": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "auto_extra_026",
+    "title": "省钱模式",
+    "text": "你开启省钱模式，奶茶退出生活，焦虑开始独占预算，这件事后来被你夹进一百三十六号草稿里。",
+    "recordText": "你开启省钱模式，奶茶退出生活，焦虑开始独占预算。表面很稳，实际上只是把慌张折小了，这一年被你记成一百三十六号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 3,
+      "familyPressure": 2,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 6
+  },
+  {
+    "id": "auto_extra_027",
+    "title": "病号备考",
+    "text": "你感冒还刷题，鼻塞让言语理解更像玄学，这件事后来被你夹进一百三十七号草稿里。",
+    "recordText": "你感冒还刷题，鼻塞让言语理解更像玄学。这一步不漂亮，但比原地挨打强一点，这一年被你记成一百三十七号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 4,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 7
+  },
+  {
+    "id": "auto_extra_028",
+    "title": "焦虑管理",
+    "text": "你学着管理焦虑，结果焦虑也学会了排队等号，这件事后来被你夹进一百三十八号草稿里。",
+    "recordText": "你学着管理焦虑，结果焦虑也学会了排队等号。你把情绪放进抽屉，抽屉没有上锁，这一年被你记成一百三十八号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 5,
+      "familyPressure": 0,
+      "background": 1,
+      "desire": 0
+    },
+    "weight": 8
+  },
+  {
+    "id": "auto_extra_029",
+    "title": "晨跑续命",
+    "text": "你开始晨跑，身体说谢谢，脑子说能不能边跑边背常识，这件事后来被你夹进一百三十九号草稿里。",
+    "recordText": "你开始晨跑，身体说谢谢，脑子说能不能边跑边背常识。别人看你没动，其实你在心里换了好几次座位，这一年被你记成一百三十九号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": -2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 9
+  },
+  {
+    "id": "auto_extra_030",
+    "title": "夜读硬撑",
+    "text": "夜读到十二点，你看见窗户里的自己像一张没打印完的准考证，这件事后来被你夹进一百四十号草稿里。",
+    "recordText": "夜读到十二点，你看见窗户里的自己像一张没打印完的准考证。这件事没给答案，只给了一个更难看的问号，这一年被你记成一百四十号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": -1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 10
+  },
+  {
+    "id": "auto_extra_031",
+    "title": "线上刷课",
+    "text": "你买了线上课，倍速开到一点五，焦虑开到两倍。你把尴尬咽下去，顺手给它贴了个标签，这件事后来被你夹进一百四十一号草稿里。",
+    "recordText": "你买了线上课，倍速开到一点五，焦虑开到两倍。后来回想，这一秒比很多大事都更像分岔口，这一年被你记成一百四十一号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 1,
+      "familyPressure": 2,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 11
+  },
+  {
+    "id": "auto_extra_032",
+    "title": "线下冲刺",
+    "text": "你参加线下冲刺班，教室里每个人都像一份等待审核的材料，这件事后来被你夹进一百四十二号草稿里。",
+    "recordText": "你参加线下冲刺班，教室里每个人都像一份等待审核的材料。你没有立刻破防，只是把破防预约到了晚上，这一年被你记成一百四十二号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 12
+  },
+  {
+    "id": "auto_extra_033",
+    "title": "岗位研究",
+    "text": "你研究岗位表，越研究越像在给命运做风险评估，这件事后来被你夹进一百四十三号草稿里。",
+    "recordText": "你研究岗位表，越研究越像在给命运做风险评估。风向没明说，但你已经闻到一点打印纸的味道，这一年被你记成一百四十三号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": 3,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": -1
+    },
+    "weight": 5
+  },
+  {
+    "id": "auto_extra_034",
+    "title": "公告蹲守",
+    "text": "公告还没出，你已经把可能和不可能都预演了一遍，这件事后来被你夹进一百四十四号草稿里。",
+    "recordText": "公告还没出，你已经把可能和不可能都预演了一遍。你开始懂得，有些沉默不是认输，是先省电，这一年被你记成一百四十四号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 4,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 1
+    },
+    "weight": 6
+  },
+  {
+    "id": "auto_extra_035",
+    "title": "错题搬砖",
+    "text": "错题本越写越厚，像一本私人灾害年鉴，这件事后来被你夹进一百四十五号草稿里。",
+    "recordText": "错题本越写越厚，像一本私人灾害年鉴。这次你没装聪明，命运反而少扣了一点分，这一年被你记成一百四十五号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 5,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 7
+  },
+  {
+    "id": "auto_extra_036",
+    "title": "材料翻译",
+    "text": "你把政策原文翻译成自己能懂的话，顺便把理想翻译得更现实，这件事后来被你夹进一百四十六号草稿里。",
+    "recordText": "你把政策原文翻译成自己能懂的话，顺便把理想翻译得更现实。你把答案留短，免得未来拿它反复审你，这一年被你记成一百四十六号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": -2,
+      "familyPressure": 2,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 8
+  },
+  {
+    "id": "auto_extra_037",
+    "title": "饭桌免疫",
+    "text": "饭桌上没人提考试时，你反而更紧张，像等一只靴子落地，这件事后来被你夹进一百四十七号草稿里。",
+    "recordText": "饭桌上没人提考试时，你反而更紧张，像等一只靴子落地。事情没变简单，只是你终于不再假装它简单，这一年被你记成一百四十七号抽屉。",
+    "effects": {
+      "workAbility": 1,
+      "mentalPressure": -1,
+      "familyPressure": -1,
+      "background": 1,
+      "desire": 0
+    },
+    "weight": 9
+  },
+  {
+    "id": "auto_extra_038",
+    "title": "朋友圈潜水",
+    "text": "朋友圈有人晒录用，你点赞很稳，心口不稳，这件事后来被你夹进一百四十八号草稿里。",
+    "recordText": "朋友圈有人晒录用，你点赞很稳，心口不稳。你给自己留了半步，半步有时比豪言壮语有用，这一年被你记成一百四十八号抽屉。",
+    "effects": {
+      "workAbility": 2,
+      "mentalPressure": 1,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 10
+  },
+  {
+    "id": "auto_extra_039",
+    "title": "短租自习",
+    "text": "你租了短期自习座位，椅子很硬，决心也被迫变硬，这件事后来被你夹进一百四十九号草稿里。",
+    "recordText": "你租了短期自习座位，椅子很硬，决心也被迫变硬。这条路还是窄，但你至少知道哪里容易磕脚，这一年被你记成一百四十九号抽屉。",
+    "effects": {
+      "workAbility": 3,
+      "mentalPressure": 2,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 11
+  },
+  {
+    "id": "auto_extra_040",
+    "title": "旧书循环",
+    "text": "你买二手教材，前任考生的笔记比鸡汤更有用，这件事后来被你夹进一百五十号草稿里。",
+    "recordText": "你买二手教材，前任考生的笔记比鸡汤更有用。你没有热血上头，只让理智先占了个座，这一年被你记成一百五十号抽屉。",
+    "effects": {
+      "workAbility": 4,
+      "mentalPressure": 3,
+      "familyPressure": 0,
+      "background": 0,
+      "desire": 0
+    },
+    "weight": 12
+  }
+]

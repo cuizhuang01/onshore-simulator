@@ -1,0 +1,6883 @@
+[
+  {
+    "id": "settle_choice_001",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。话没有说满，心里却把退路画得很清楚。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_002",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。你没赢，但至少没有把自己交出去。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_003",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。表面很稳，实际上只是把慌张折小了。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_004",
+    "title": "旧友照面四",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把热闹让开（旧友照面四）",
+        "hint": "旧友照面四：你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下（旧友照面四）",
+        "hint": "旧友照面四：不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界（旧友照面四）",
+        "hint": "旧友照面四：你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_005",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_006",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_007",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_008",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_009",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_010",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。事情没变简单，只是你终于不再假装它简单。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_011",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。你没有热血上头，只让理智先占了个座。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_012",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。你没赢，但至少没有把自己交出去。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_013",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 1,
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_014",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_015",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_016",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。话没有说满，心里却把退路画得很清楚。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_017",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_018",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_019",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_020",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_021",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_022",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_023",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。你把答案留短，免得未来拿它反复审你。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_024",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。人情像雾，散不掉，只能慢慢走。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_025",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。表面很稳，实际上只是把慌张折小了。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_026",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 这次你比上次更熟练，也更知道熟练不等于轻松。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_027",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 这次你比上次更熟练，也更知道熟练不等于轻松。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_028",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 这次你比上次更熟练，也更知道熟练不等于轻松。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_029",
+    "title": "生活插题",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 这次你比上次更熟练，也更知道熟练不等于轻松。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把热闹让开",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_030",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 这次你比上次更熟练，也更知道熟练不等于轻松。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_031",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 这次你比上次更熟练，也更知道熟练不等于轻松。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_032",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 这次你比上次更熟练，也更知道熟练不等于轻松。你把答案留短，免得未来拿它反复审你。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_033",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。 这次你比上次更熟练，也更知道熟练不等于轻松。人情像雾，散不掉，只能慢慢走。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_034",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 这次你比上次更熟练，也更知道熟练不等于轻松。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_035",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。 这次你比上次更熟练，也更知道熟练不等于轻松。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_036",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 这次你比上次更熟练，也更知道熟练不等于轻松。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_037",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 这次你比上次更熟练，也更知道熟练不等于轻松。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_038",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 这次你比上次更熟练，也更知道熟练不等于轻松。你没赢，但至少没有把自己交出去。",
+    "weight": 1,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_039",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 这次你比上次更熟练，也更知道熟练不等于轻松。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_040",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 这次你比上次更熟练，也更知道熟练不等于轻松。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_041",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 这次你比上次更熟练，也更知道熟练不等于轻松。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_042",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 这次你比上次更熟练，也更知道熟练不等于轻松。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_043",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 这次你比上次更熟练，也更知道熟练不等于轻松。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_044",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 这次你比上次更熟练，也更知道熟练不等于轻松。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_045",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。 这次你比上次更熟练，也更知道熟练不等于轻松。事情没变简单，只是你终于不再假装它简单。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_046",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 这次你比上次更熟练，也更知道熟练不等于轻松。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_047",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 这次你比上次更熟练，也更知道熟练不等于轻松。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_048",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 这次你比上次更熟练，也更知道熟练不等于轻松。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_049",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 这次你比上次更熟练，也更知道熟练不等于轻松。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_050",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 这次你比上次更熟练，也更知道熟练不等于轻松。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 这次你比上次更熟练，也更知道熟练不等于轻松。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 2
+    },
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_051",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你没赢，但至少没有把自己交出去。",
+    "weight": 10,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_052",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_053",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 12,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_054",
+    "title": "生活插题",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。事情没变简单，只是你终于不再假装它简单。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把热闹让开",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_055",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。人情像雾，散不掉，只能慢慢走。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_056",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 10,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_057",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_058",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 12,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_059",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你没有热血上头，只让理智先占了个座。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_060",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你没赢，但至少没有把自己交出去。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_061",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 10,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_062",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_063",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 1,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_064",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_065",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_066",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 10,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_067",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_068",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 12,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_069",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_070",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_071",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你把答案留短，免得未来拿它反复审你。",
+    "weight": 10,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_072",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你没有热血上头，只让理智先占了个座。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_073",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你没赢，但至少没有把自己交出去。",
+    "weight": 12,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_074",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_075",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 你发现同样的事第二次发生，尴尬会少一点，刺痛不会。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "conditions": {
+      "minAge": 28
+    },
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_076",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 这件事不大，却很会在夜里返场。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 这件事不大，却很会在夜里返场。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_077",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 这件事不大，却很会在夜里返场。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 这件事不大，却很会在夜里返场。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_078",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 这件事不大，却很会在夜里返场。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 这件事不大，却很会在夜里返场。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_079",
+    "title": "生活插题",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 这件事不大，却很会在夜里返场。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 这件事不大，却很会在夜里返场。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把热闹让开",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_080",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 这件事不大，却很会在夜里返场。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 这件事不大，却很会在夜里返场。你把答案留短，免得未来拿它反复审你。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_081",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 这件事不大，却很会在夜里返场。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 这件事不大，却很会在夜里返场。人情像雾，散不掉，只能慢慢走。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_082",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 这件事不大，却很会在夜里返场。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 这件事不大，却很会在夜里返场。表面很稳，实际上只是把慌张折小了。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_083",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。 这件事不大，却很会在夜里返场。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。 这件事不大，却很会在夜里返场。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_084",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 这件事不大，却很会在夜里返场。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 这件事不大，却很会在夜里返场。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_085",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。 这件事不大，却很会在夜里返场。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。 这件事不大，却很会在夜里返场。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_086",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 这件事不大，却很会在夜里返场。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 这件事不大，却很会在夜里返场。你没赢，但至少没有把自己交出去。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_087",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 这件事不大，却很会在夜里返场。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 这件事不大，却很会在夜里返场。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_088",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 这件事不大，却很会在夜里返场。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 这件事不大，却很会在夜里返场。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 1,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_089",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 这件事不大，却很会在夜里返场。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 这件事不大，却很会在夜里返场。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_090",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 这件事不大，却很会在夜里返场。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 这件事不大，却很会在夜里返场。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_091",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 这件事不大，却很会在夜里返场。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 这件事不大，却很会在夜里返场。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_092",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 这件事不大，却很会在夜里返场。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 这件事不大，却很会在夜里返场。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_093",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 这件事不大，却很会在夜里返场。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 这件事不大，却很会在夜里返场。你把答案留短，免得未来拿它反复审你。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_094",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 这件事不大，却很会在夜里返场。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 这件事不大，却很会在夜里返场。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_095",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。 这件事不大，却很会在夜里返场。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。 这件事不大，却很会在夜里返场。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_096",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 这件事不大，却很会在夜里返场。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 这件事不大，却很会在夜里返场。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 10,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_097",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 这件事不大，却很会在夜里返场。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 这件事不大，却很会在夜里返场。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_098",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 这件事不大，却很会在夜里返场。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 这件事不大，却很会在夜里返场。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 12,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_099",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 这件事不大，却很会在夜里返场。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 这件事不大，却很会在夜里返场。你没赢，但至少没有把自己交出去。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_100",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 这件事不大，却很会在夜里返场。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 这件事不大，却很会在夜里返场。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "conditions": {
+      "minAttempts": 5
+    },
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_101",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 你已经能提前预判对话走向，但预判不等于免疫。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_102",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 你已经能提前预判对话走向，但预判不等于免疫。你把答案留短，免得未来拿它反复审你。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_103",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 你已经能提前预判对话走向，但预判不等于免疫。你没有热血上头，只让理智先占了个座。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_104",
+    "title": "生活插题",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 你已经能提前预判对话走向，但预判不等于免疫。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把热闹让开",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_105",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 你已经能提前预判对话走向，但预判不等于免疫。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_106",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 你已经能提前预判对话走向，但预判不等于免疫。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_107",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 你已经能提前预判对话走向，但预判不等于免疫。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_108",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。 你已经能提前预判对话走向，但预判不等于免疫。话没有说满，心里却把退路画得很清楚。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_109",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 你已经能提前预判对话走向，但预判不等于免疫。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_110",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。 你已经能提前预判对话走向，但预判不等于免疫。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_111",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 你已经能提前预判对话走向，但预判不等于免疫。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_112",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 你已经能提前预判对话走向，但预判不等于免疫。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_113",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 你已经能提前预判对话走向，但预判不等于免疫。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 1,
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_114",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 你已经能提前预判对话走向，但预判不等于免疫。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_115",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 你已经能提前预判对话走向，但预判不等于免疫。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_116",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 你已经能提前预判对话走向，但预判不等于免疫。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_117",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 你已经能提前预判对话走向，但预判不等于免疫。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_118",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 你已经能提前预判对话走向，但预判不等于免疫。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_119",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 你已经能提前预判对话走向，但预判不等于免疫。你把答案留短，免得未来拿它反复审你。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_120",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。 你已经能提前预判对话走向，但预判不等于免疫。你没有热血上头，只让理智先占了个座。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_121",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 你已经能提前预判对话走向，但预判不等于免疫。你没赢，但至少没有把自己交出去。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_122",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 你已经能提前预判对话走向，但预判不等于免疫。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_123",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 你已经能提前预判对话走向，但预判不等于免疫。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_124",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 你已经能提前预判对话走向，但预判不等于免疫。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_125",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 你已经能提前预判对话走向，但预判不等于免疫。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 你已经能提前预判对话走向，但预判不等于免疫。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_126",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 你以为自己麻木了，结果只是反应延迟。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_127",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 你以为自己麻木了，结果只是反应延迟。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_128",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 你以为自己麻木了，结果只是反应延迟。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_129",
+    "title": "生活插题",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 你以为自己麻木了，结果只是反应延迟。人情像雾，散不掉，只能慢慢走。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把热闹让开",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_130",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 你以为自己麻木了，结果只是反应延迟。表面很稳，实际上只是把慌张折小了。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_131",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 你以为自己麻木了，结果只是反应延迟。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_132",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 你以为自己麻木了，结果只是反应延迟。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_133",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。 你以为自己麻木了，结果只是反应延迟。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_134",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 你以为自己麻木了，结果只是反应延迟。你没赢，但至少没有把自己交出去。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_135",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。 你以为自己麻木了，结果只是反应延迟。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_136",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 你以为自己麻木了，结果只是反应延迟。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_137",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 你以为自己麻木了，结果只是反应延迟。事情没变简单，只是你终于不再假装它简单。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_138",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 你以为自己麻木了，结果只是反应延迟。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 1,
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_139",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 你以为自己麻木了，结果只是反应延迟。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_140",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 你以为自己麻木了，结果只是反应延迟。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_141",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 你以为自己麻木了，结果只是反应延迟。你把答案留短，免得未来拿它反复审你。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_142",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 你以为自己麻木了，结果只是反应延迟。人情像雾，散不掉，只能慢慢走。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_143",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 你以为自己麻木了，结果只是反应延迟。表面很稳，实际上只是把慌张折小了。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_144",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 你以为自己麻木了，结果只是反应延迟。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_145",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。 你以为自己麻木了，结果只是反应延迟。你开始懂得，有些沉默不是认输，是先省电。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_146",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 你以为自己麻木了，结果只是反应延迟。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_147",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 你以为自己麻木了，结果只是反应延迟。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_148",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 你以为自己麻木了，结果只是反应延迟。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_149",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 你以为自己麻木了，结果只是反应延迟。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_150",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 你以为自己麻木了，结果只是反应延迟。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 你以为自己麻木了，结果只是反应延迟。你把答案留短，免得未来拿它反复审你。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_151",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 这一次你没有立刻破防，只是把破防预约到了晚上。你没有热血上头，只让理智先占了个座。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_152",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 这一次你没有立刻破防，只是把破防预约到了晚上。表面很稳，实际上只是把慌张折小了。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_153",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 这一次你没有立刻破防，只是把破防预约到了晚上。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_154",
+    "title": "生活插题",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 这一次你没有立刻破防，只是把破防预约到了晚上。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把热闹让开",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_155",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 这一次你没有立刻破防，只是把破防预约到了晚上。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_156",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 这一次你没有立刻破防，只是把破防预约到了晚上。话没有说满，心里却把退路画得很清楚。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_157",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 这一次你没有立刻破防，只是把破防预约到了晚上。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_158",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。 这一次你没有立刻破防，只是把破防预约到了晚上。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_159",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 这一次你没有立刻破防，只是把破防预约到了晚上。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_160",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。 这一次你没有立刻破防，只是把破防预约到了晚上。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_161",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 这一次你没有立刻破防，只是把破防预约到了晚上。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_162",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 这一次你没有立刻破防，只是把破防预约到了晚上。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_163",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 这一次你没有立刻破防，只是把破防预约到了晚上。事情没变简单，只是你终于不再假装它简单。",
+    "weight": 1,
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_164",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 这一次你没有立刻破防，只是把破防预约到了晚上。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_165",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 这一次你没有立刻破防，只是把破防预约到了晚上。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_166",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 这一次你没有立刻破防，只是把破防预约到了晚上。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_167",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 这一次你没有立刻破防，只是把破防预约到了晚上。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_168",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 这一次你没有立刻破防，只是把破防预约到了晚上。这条路还是窄，但你至少知道哪里容易磕脚。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_169",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 这一次你没有立刻破防，只是把破防预约到了晚上。你没赢，但至少没有把自己交出去。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_170",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。 这一次你没有立刻破防，只是把破防预约到了晚上。别人看你没动，其实你在心里换了好几次座位。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_171",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 这一次你没有立刻破防，只是把破防预约到了晚上。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_172",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 这一次你没有立刻破防，只是把破防预约到了晚上。事情没变简单，只是你终于不再假装它简单。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_173",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 这一次你没有立刻破防，只是把破防预约到了晚上。人情像雾，散不掉，只能慢慢走。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_174",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 这一次你没有立刻破防，只是把破防预约到了晚上。这一步不漂亮，但比原地挨打强一点。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_175",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 这一次你没有立刻破防，只是把破防预约到了晚上。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 这一次你没有立刻破防，只是把破防预约到了晚上。你把尴尬咽下去，顺手给它贴了个标签。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_176",
+    "title": "饭桌回声",
+    "text": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "饭桌上亲戚问你“今年总该稳了吧”，语气像已经替你交了报名费。 同样的问题换了个壳，又坐到你对面。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "先把场面放平",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -1,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_177",
+    "title": "零工岔路",
+    "text": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "便利店店长问你能不能长期干，你看着夜班排班表，觉得长期两个字有点刺眼。 同样的问题换了个壳，又坐到你对面。你没有热血上头，只让理智先占了个座。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把焦虑拆小",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2,
+          "familyPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2,
+          "familyPressure": 2
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_178",
+    "title": "题海回潮",
+    "text": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "模考排名忽然靠前，你盯着成绩单，像盯着命运递来的试用装好运。 同样的问题换了个壳，又坐到你对面。你没赢，但至少没有把自己交出去。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先护住节奏",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "familyPressure": -1,
+          "desire": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_179",
+    "title": "生活插题",
+    "text": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "同学晒录用公示，评论区一片恭喜，你的手指很稳，心态不一定。 同样的问题换了个壳，又坐到你对面。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把热闹让开",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": 2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1,
+          "background": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_180",
+    "title": "深夜自检",
+    "text": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "晚上十一点，你突然觉得这条路不是难，是太会消耗人的自尊。 同样的问题换了个壳，又坐到你对面。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把计划改窄",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_181",
+    "title": "饭桌回声",
+    "text": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "父母开始不催你，只是把水果切好放到书桌边，沉默比催促还重。 同样的问题换了个壳，又坐到你对面。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "给明天留氧",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "familyPressure": -3,
+          "mentalPressure": -2
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_182",
+    "title": "零工岔路",
+    "text": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "家教学生问你为什么大人还要考试，你一时不知道该讲梦想还是讲编制。 同样的问题换了个壳，又坐到你对面。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让现实先落地",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "mentalPressure": 1,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_183",
+    "title": "题海回潮",
+    "text": "数量关系又错一片，你开始怀疑自己和数字八字不合。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "数量关系又错一片，你开始怀疑自己和数字八字不合。 同样的问题换了个壳，又坐到你对面。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "把冲动按回去",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 4
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -1,
+          "workAbility": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_184",
+    "title": "生活插题",
+    "text": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "相亲对象问你“现在算什么状态”，你差点回答“待审核”。 同样的问题换了个壳，又坐到你对面。你没有立刻破防，只是把破防预约到了晚上。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把自尊扶正一点",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "eq": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "eq": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_185",
+    "title": "深夜自检",
+    "text": "你路过考场附近，明明没考试，却有一种被监考的错觉。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "你路过考场附近，明明没考试，却有一种被监考的错觉。 同样的问题换了个壳，又坐到你对面。事情没变简单，只是你终于不再假装它简单。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "给自己留半步",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "desire": 1
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把答案说轻",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_186",
+    "title": "饭桌回声",
+    "text": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "家里有人说“要不先找个稳定工作”，你知道这句话后面还有半句没说。 同样的问题换了个壳，又坐到你对面。这回你学会先看门缝，再决定要不要伸手。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把沉默用稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让情绪晚点到",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_187",
+    "title": "零工岔路",
+    "text": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "兼职老板说你做事细，问你要不要转正。你第一次觉得“转正”两个字也有平替。 同样的问题换了个壳，又坐到你对面。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把退路藏好",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "desire": -2,
+          "mentalPressure": -2,
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "用玩笑垫一下",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "risk": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_188",
+    "title": "题海回潮",
+    "text": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "岗位表出来了，一个岗位看起来很香，最后一栏写着你没有的条件。 同样的问题换了个壳，又坐到你对面。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 1,
+    "choices": [
+      {
+        "text": "先认清边界",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "desire": 2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "别急着证明",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "desire": -1
+        }
+      }
+    ],
+    "terminal": "skip_signup_year",
+    "special": "no_qualified_post",
+    "lastInYear": true
+  },
+  {
+    "id": "settle_choice_189",
+    "title": "生活插题",
+    "text": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "老同学说企业机会也不少，你听出关心，也听出一点“别考了”。 同样的问题换了个壳，又坐到你对面。你把答案留短，免得未来拿它反复审你。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把今天熬顺",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "workAbility": 2,
+          "desire": -1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "先不把话说死",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_190",
+    "title": "深夜自检",
+    "text": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "你把准考证旧文件夹翻出来，发现里面每个 PDF 都像旧伤疤。 同样的问题换了个壳，又坐到你对面。人情像雾，散不掉，只能慢慢走。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把尴尬收拢",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": 1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -2
+        }
+      },
+      {
+        "text": "把锋芒放低",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "desire": 2,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_191",
+    "title": "饭桌回声",
+    "text": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "亲戚介绍一个“内部懂行”的人，说能帮你看看方向，费用不高，人情很贵。 同样的问题换了个壳，又坐到你对面。表面很稳，实际上只是把慌张折小了。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "把体面先放稳",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "integrity": 2,
+          "risk": -2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 1,
+          "background": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "先承认有点难",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "familyPressure": 3,
+          "mentalPressure": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_192",
+    "title": "零工岔路",
+    "text": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "你在培训机构前台听了一天“包过班”咨询，越听越觉得命运也想卖课。 同样的问题换了个壳，又坐到你对面。这件事没给答案，只给了一个更难看的问号。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "留一句话到明天",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": 1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "先把场面放平",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_193",
+    "title": "题海回潮",
+    "text": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "申论老师批注“表达尚可，立意略浅”，你觉得这八个字能概括人生。 同样的问题换了个壳，又坐到你对面。风向没明说，但你已经闻到一点打印纸的味道。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "绕开最硬的那句话",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "给自己留半步",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 2
+        }
+      },
+      {
+        "text": "把焦虑拆小",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -2,
+          "workAbility": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_194",
+    "title": "生活插题",
+    "text": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "朋友拉你出去吃饭，说别把自己关坏了。你看着题库，像看一位难缠前任。 同样的问题换了个壳，又坐到你对面。你给自己留了半步，半步有时比豪言壮语有用。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把答案说轻",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "mentalPressure": -3,
+          "eq": 1
+        }
+      },
+      {
+        "text": "把沉默用稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "先护住节奏",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_195",
+    "title": "深夜自检",
+    "text": "你突然想，如果今年还不行，自己到底要不要换路。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "你突然想，如果今年还不行，自己到底要不要换路。 同样的问题换了个壳，又坐到你对面。话没有说满，心里却把退路画得很清楚。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "让情绪晚点到",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 2,
+          "risk": -1
+        }
+      },
+      {
+        "text": "把退路藏好",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1,
+          "desire": -1
+        }
+      },
+      {
+        "text": "把热闹让开",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "background": 1,
+          "mentalPressure": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_196",
+    "title": "饭桌回声",
+    "text": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "家里把你的失败说得很轻：“没事，下次。”你反而更难受。 同样的问题换了个壳，又坐到你对面。你把情绪放进抽屉，抽屉没有上锁。",
+    "weight": 10,
+    "choices": [
+      {
+        "text": "用玩笑垫一下",
+        "hint": "这一步不负责逆袭，只负责别当场塌方。",
+        "hidden": {
+          "mentalPressure": -3,
+          "familyPressure": -2
+        }
+      },
+      {
+        "text": "先认清边界",
+        "hint": "你没赢下场面，但也没把自己交出去。",
+        "hidden": {
+          "workAbility": 2,
+          "mentalPressure": 2
+        }
+      },
+      {
+        "text": "把计划改窄",
+        "hint": "成年人常见的勇敢，就是先别翻车。",
+        "hidden": {
+          "mentalPressure": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_197",
+    "title": "零工岔路",
+    "text": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "简历投出去三天没人回，你突然怀念考试，至少考试会公布分数。 同样的问题换了个壳，又坐到你对面。后来回想，这一秒比很多大事都更像分岔口。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "别急着证明",
+        "hint": "这不漂亮，但确实像真实人生。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 3
+        }
+      },
+      {
+        "text": "把今天熬顺",
+        "hint": "表面像退让，里面是在留活动空间。",
+        "hidden": {
+          "desire": 2,
+          "familyPressure": 1
+        }
+      },
+      {
+        "text": "给明天留氧",
+        "hint": "你没有喊口号，只是给自己留了条窄路。",
+        "hidden": {
+          "workAbility": 2,
+          "eq": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_198",
+    "title": "题海回潮",
+    "text": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "你发现自己刷题像上班，打卡、复盘、崩溃、继续打卡。 同样的问题换了个壳，又坐到你对面。这次你没装聪明，命运反而少扣了一点分。",
+    "weight": 12,
+    "choices": [
+      {
+        "text": "先不把话说死",
+        "hint": "这回你没有逞强，命运少看了一眼热闹。",
+        "hidden": {
+          "workAbility": 3,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把尴尬收拢",
+        "hint": "嘴上留白，心里记账。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "让现实先落地",
+        "hint": "这一步很小，小到只有回头看才会响。",
+        "hidden": {
+          "mentalPressure": -3,
+          "desire": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_199",
+    "title": "生活插题",
+    "text": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "亲戚介绍对象时特意强调“对方不介意你备考”，你觉得这句话比介意还微妙。 同样的问题换了个壳，又坐到你对面。你没有热血上头，只让理智先占了个座。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "把锋芒放低",
+        "hint": "你把体面留给现场，把委屈留给晚上。",
+        "hidden": {
+          "eq": 1,
+          "familyPressure": -1,
+          "mentalPressure": 1
+        }
+      },
+      {
+        "text": "把体面先放稳",
+        "hint": "不一定高明，但足够把这一天过完。",
+        "hidden": {
+          "familyPressure": 2,
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把冲动按回去",
+        "hint": "你不站队，只是先站稳。",
+        "hidden": {
+          "mentalPressure": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "settle_choice_200",
+    "title": "深夜自检",
+    "text": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 同样的问题换了个壳，又坐到你对面。",
+    "recordText": "凌晨刷到“上岸经验”，标题写得像神迹，正文像广告。 同样的问题换了个壳，又坐到你对面。表面很稳，实际上只是把慌张折小了。",
+    "weight": 8,
+    "choices": [
+      {
+        "text": "先承认有点难",
+        "hint": "你没有装作无敌，只是暂时没倒。",
+        "hidden": {
+          "workAbility": 1,
+          "risk": -1
+        }
+      },
+      {
+        "text": "留一句话到明天",
+        "hint": "这一下不算赢，但能少丢一点自己。",
+        "hidden": {
+          "mentalPressure": -1
+        }
+      },
+      {
+        "text": "把自尊扶正一点",
+        "hint": "把难堪折起来，先别让它占满桌面。",
+        "hidden": {
+          "workAbility": 1,
+          "mentalPressure": 2,
+          "risk": 1
+        }
+      }
+    ]
+  }
+]

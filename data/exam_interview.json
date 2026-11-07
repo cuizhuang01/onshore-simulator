@@ -1,0 +1,3758 @@
+[
+  {
+    "id": "i001",
+    "scenario": "组织协调",
+    "difficulty": 2,
+    "question": "单位要做一场面向老年人的医保政策宣讲，场地临时换了，社区还没通知到位。你怎么推进？",
+    "A": "先确认新场地容量、路线和设备，再把通知拆给社区、网格和现场引导同步补上",
+    "B": "先联系社区干部和楼栋长，把老年人最关心的时间地点讲清楚，避免人到了找不到门",
+    "C": "先把能来的群众组织起来，现场边讲边登记问题，活动不空场最重要",
+    "D": "先向负责人说明变更风险，等场地和通知流程确认后再对外发布最终安排",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“单位要做一场面向老年人的医保政策宣讲，场地临时换了，社区还没通知到位。你…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i002",
+    "scenario": "组织协调",
+    "difficulty": 3,
+    "question": "市里临时要求明天报送基层养老服务摸排表，乡镇反馈口径不一、数据缺项。你怎么办？",
+    "A": "先统一字段口径，标出必填项和可补项，再分批催收、交叉核验异常数据",
+    "B": "先和反馈最慢的乡镇逐个沟通，问清楚卡在哪里，能帮他们拆表就拆表",
+    "C": "先拉出已有数据做初稿，缺项用备注说明，保证明天能先交出版本",
+    "D": "先请示是否可以延期或分阶段报送，避免用不可靠数据形成正式结论",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“市里临时要求明天报送基层养老服务摸排表，乡镇反馈口径不一、数据缺项。你怎…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i003",
+    "scenario": "组织协调",
+    "difficulty": 3,
+    "question": "你负责一次部门联合检查，三个单位都说自己时间紧，没人愿意牵头。你怎么协调？",
+    "A": "先明确检查依据、分工和时间表，把每家必须承担的环节写进方案",
+    "B": "先分别沟通各单位顾虑，找出大家都能接受的最低协作方案",
+    "C": "先把本单位能做的部分顶上去，检查先跑起来，再推动其他单位补位",
+    "D": "先请牵头领导明确主责单位和职责边界，避免后续责任说不清",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你负责一次部门联合检查，三个单位都说自己时间紧，没人愿意牵头。你怎么协调…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i004",
+    "scenario": "组织协调",
+    "difficulty": 2,
+    "question": "领导让你组织青年干部座谈会，但大家担心发言太真实影响印象。你怎么设计？",
+    "A": "先设置匿名征集和分主题讨论，再把共性问题整理成可落地建议",
+    "B": "先说明座谈不是挑错会，鼓励大家讲具体困惑而不是互相表演正确",
+    "C": "先找几个表达能力强的同事带头发言，把场子热起来再逐步放开",
+    "D": "先明确发言范围和会议纪律，敏感问题会后单独反馈，保证会议稳妥",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "background": 2,
+        "positionWeight": 2,
+        "desire": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“领导让你组织青年干部座谈会，但大家担心发言太真实影响印象。你怎么设计？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i005",
+    "scenario": "组织协调",
+    "difficulty": 4,
+    "question": "你接手一个跨部门试点，材料已经报上去了，但基层说执行成本很高。你怎么处理？",
+    "A": "先把基层成本拆成时间、人手、系统三个清单，再提出可调整的执行版本",
+    "B": "先去一线听一次真实流程，别让试点只在汇报里显得顺滑",
+    "C": "先抓一个条件较好的点做样板，跑通后再向其他地方复制",
+    "D": "先评估试点与上级要求是否冲突，必要时按程序申请调整范围",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你接手一个跨部门试点，材料已经报上去了，但基层说执行成本很高。你怎么处理…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i006",
+    "scenario": "组织协调",
+    "difficulty": 3,
+    "question": "单位公众号要连发三篇专题稿，业务科室都说忙，素材迟迟不给。你怎么办？",
+    "A": "先列出每篇稿件需要的事实、图片和数据，给科室一张最小素材清单",
+    "B": "先上门沟通，帮业务科室把零散工作亮点翻译成能用的稿件素材",
+    "C": "先用已有公开信息搭框架，缺什么再追什么，别让版面空着等人良心发现",
+    "D": "先请分管领导明确供稿责任和审核节点，避免最后变成宣传口单独背锅",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“单位公众号要连发三篇专题稿，业务科室都说忙，素材迟迟不给。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i007",
+    "scenario": "应急处置",
+    "difficulty": 2,
+    "question": "办事大厅系统突然卡死，窗口前排队群众越来越多，有人开始拍视频。你怎么处理？",
+    "A": "先分流取号、说明故障和预计等待时间，同时联系技术人员恢复系统",
+    "B": "先安抚情绪最激动的群众，告诉他能先登记诉求，不让矛盾在队伍里发酵",
+    "C": "先启用纸质登记和离线受理，把能办的事项先往前推，系统好了再补录",
+    "D": "先暂停高风险业务，明确哪些事项不能离线办，避免后续数据和责任出问题",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“办事大厅系统突然卡死，窗口前排队群众越来越多，有人开始拍视频。你怎么处理…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i008",
+    "scenario": "应急处置",
+    "difficulty": 3,
+    "question": "暴雨后一个小区地下车库积水，物业和社区互相说不归自己管。你在现场怎么办？",
+    "A": "先确认人员安全、积水深度和电力风险，再协调排水、警戒和信息上报",
+    "B": "先把业主最急的车、人、老人孩子安置好，现场情绪稳住才有后续",
+    "C": "先调动能用的抽水设备和志愿力量，别等责任边界讨论完水也涨完了",
+    "D": "先明确现场指挥和责任单位，涉及电力和安全的环节必须按专业意见执行",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“暴雨后一个小区地下车库积水，物业和社区互相说不归自己管。你在现场怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i009",
+    "scenario": "应急处置",
+    "difficulty": 4,
+    "question": "网上出现一段剪辑视频，说你单位“故意拖延审批”，评论区已经吵起来。你怎么应对？",
+    "A": "先核实完整业务链条和原始材料，整理事实时间线，再决定回应口径",
+    "B": "先关注当事人的真实诉求，主动联系解释进度，别只盯着舆情热度",
+    "C": "先快速发布简短说明，表明正在核查，避免沉默被解读成默认",
+    "D": "先提醒所有人员不要私下回应，统一信息出口，防止越解释越乱",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“网上出现一段剪辑视频，说你单位“故意拖延审批”，评论区已经吵起来。你怎么…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i010",
+    "scenario": "应急处置",
+    "difficulty": 3,
+    "question": "检查现场发现企业有安全隐患，负责人说今天停工会造成很大损失。你怎么处理？",
+    "A": "先按隐患等级分类，能立改的现场整改，重大风险依法采取措施",
+    "B": "先把风险后果讲清楚，让企业明白不是找麻烦，是别让麻烦找上门",
+    "C": "先盯住最危险环节立即停下来，其他问题边整改边完善手续",
+    "D": "先严格依照执法程序固定证据、出具文书，避免后续争议",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“检查现场发现企业有安全隐患，负责人说今天停工会造成很大损失。你怎么处理？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i011",
+    "scenario": "应急处置",
+    "difficulty": 4,
+    "question": "大型活动入场口突然拥堵，有群众抱怨组织混乱，领导让你马上处理。你怎么做？",
+    "A": "先判断拥堵点和人流方向，增设分流通道、广播提示和应急人员",
+    "B": "先向排队群众解释原因和预计时间，对老人儿童开辟临时照顾通道",
+    "C": "先暂停部分入场节奏，集中力量把最堵的口子疏开，现场先活下来",
+    "D": "先启动预案并保留现场记录，所有临时调整都要有人负责、有人确认",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“大型活动入场口突然拥堵，有群众抱怨组织混乱，领导让你马上处理。你怎么做？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i012",
+    "scenario": "应急处置",
+    "difficulty": 2,
+    "question": "你刚到岗位，领导临时让你接待一批提前到访的调研人员，材料还没打印好。你怎么办？",
+    "A": "先确认调研人员身份、人数和议程，把接待、会议室、材料同步安排",
+    "B": "先把人引导到会议室，茶水和基本介绍先跟上，别让对方站着等流程",
+    "C": "先打印核心材料，完整材料稍后补齐，保证调研不因为纸张停摆",
+    "D": "先向领导说明材料未齐情况，确认哪些内容可以先对外提供",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你刚到岗位，领导临时让你接待一批提前到访的调研人员，材料还没打印好。你怎…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i013",
+    "scenario": "群众工作",
+    "difficulty": 2,
+    "question": "窗口群众说自己跑了三趟还没办成，情绪很冲，后面队伍也在看。你怎么处理？",
+    "A": "先核对前几次办理记录和缺件原因，给出一次性补正清单和办理路径",
+    "B": "先把群众请到旁边坐下说清楚，别让他的委屈变成大厅里的扩音器",
+    "C": "先协调后台看看能否容缺受理，能往前走一步就别让人原地打转",
+    "D": "先坚持事项规定，哪些材料不能少要讲明依据，避免开了口子后续更乱",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“窗口群众说自己跑了三趟还没办成，情绪很冲，后面队伍也在看。你怎么处理？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i014",
+    "scenario": "群众工作",
+    "difficulty": 3,
+    "question": "村民反映道路修了半年还没完工，怀疑项目资金有问题。你怎么回应？",
+    "A": "先核实工程进度、资金拨付和延期原因，再用群众能听懂的话说明",
+    "B": "先承认大家出行不便是真问题，约定公开反馈时间，别用套话把人顶回去",
+    "C": "先推动施工方拿出倒排工期，给群众一个看得见的节点",
+    "D": "先说明资金和工程信息公开的范围，涉及审计和合同的内容按程序查询",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“村民反映道路修了半年还没完工，怀疑项目资金有问题。你怎么回应？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i015",
+    "scenario": "群众工作",
+    "difficulty": 3,
+    "question": "有人投诉低保评定“不公平”，还说要去网上曝光。你怎么做？",
+    "A": "先调取评定材料、入户记录和公示情况，判断问题在程序还是解释",
+    "B": "先听完他的具体不满，很多时候群众要的第一件事是别被当成麻烦",
+    "C": "先安排复核和回访，能纠正的尽快纠正，能解释的也别拖成舆情",
+    "D": "先强调低保评定必须按条件和程序来，不能因曝光压力改变标准",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“有人投诉低保评定“不公平”，还说要去网上曝光。你怎么做？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i016",
+    "scenario": "群众工作",
+    "difficulty": 4,
+    "question": "老旧小区加装电梯，一楼反对、高楼层支持，双方在社区会议上吵起来。你怎么主持？",
+    "A": "先把争议拆成采光、费用、补偿和程序四类，逐项讨论可谈空间",
+    "B": "先让双方都把最担心的事说出来，别急着用“少数服从多数”压过去",
+    "C": "先推动形成一个试算方案，让大家围绕具体数字谈，别只围绕情绪吵",
+    "D": "先明确表决、施工和补偿都必须符合法定程序，会议不能替代手续",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“老旧小区加装电梯，一楼反对、高楼层支持，双方在社区会议上吵起来。你怎么主…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i017",
+    "scenario": "群众工作",
+    "difficulty": 2,
+    "question": "群众来电反映噪音扰民，但执法部门说需要现场取证。你怎么跟进？",
+    "A": "先记录时间、地点、频次和证据线索，协调执法人员在高发时段核查",
+    "B": "先告诉群众投诉不是白打，会给他一个回访节点，减少“没人管”的感觉",
+    "C": "先联系物业或经营方提醒整改，能先降噪就不要等处罚才动",
+    "D": "先说明取证要求和职责边界，避免承诺超出本岗位权限的处理结果",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“群众来电反映噪音扰民，但执法部门说需要现场取证。你怎么跟进？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i018",
+    "scenario": "群众工作",
+    "difficulty": 4,
+    "question": "征迁政策宣讲会上，有群众拿出旧承诺质疑新口径。你在现场怎么回答？",
+    "A": "先核对旧承诺来源、时间和适用范围，再把新旧政策差异讲清楚",
+    "B": "先承认政策变化会带来不安，别让群众觉得自己记得清楚反而成了错",
+    "C": "先把争议个案登记下来，会后组织专门核查，现场不轻易一句话定死",
+    "D": "先说明正式补偿依据以现行文件和合法程序为准，防止现场形成新承诺",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“征迁政策宣讲会上，有群众拿出旧承诺质疑新口径。你在现场怎么回答？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i019",
+    "scenario": "人际沟通",
+    "difficulty": 2,
+    "question": "老同事把一项临近截止的材料交给你，说“年轻人多锻炼”。你怎么办？",
+    "A": "先确认材料要求、截止时间和已有素材，把能接的部分接清楚",
+    "B": "先理解对方确实忙，但也说明自己手头任务，争取合理分工",
+    "C": "先接下来做出效果，让领导看见你能顶事，机会有时披着麻烦来",
+    "D": "先请示直接负责人确认任务归属，避免帮忙帮成默认职责",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“老同事把一项临近截止的材料交给你，说“年轻人多锻炼”。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i020",
+    "scenario": "人际沟通",
+    "difficulty": 3,
+    "question": "你发现同事在汇报中用了你整理的数据，却没有提到你参与。你怎么处理？",
+    "A": "先保存工作痕迹，后续在协作中明确数据来源和分工记录",
+    "B": "先私下沟通，表达不是抢功，而是希望以后协作边界清楚",
+    "C": "下次汇报主动补充关键分析，让贡献自然被看见，不把场面弄僵",
+    "D": "涉及重要成果时按流程抄送负责人，避免口头协作变成无名劳动",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "background": 2,
+        "positionWeight": 2,
+        "desire": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你发现同事在汇报中用了你整理的数据，却没有提到你参与。你怎么处理？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i021",
+    "scenario": "人际沟通",
+    "difficulty": 3,
+    "question": "领导当众批评你的材料“没抓住重点”，但很多要求之前并不明确。你怎么回应？",
+    "A": "先接受修改意见，会后把重点、口径和结构逐项确认清楚",
+    "B": "先不急着解释，等领导情绪过去后再说明前期信息不足的问题",
+    "C": "当场简短复述新的修改方向，让大家看到你反应快、能接住压力",
+    "D": "涉及事实依据的部分要保留原始需求记录，避免问题都落到个人身上",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“领导当众批评你的材料“没抓住重点”，但很多要求之前并不明确。你怎么回应？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i022",
+    "scenario": "人际沟通",
+    "difficulty": 4,
+    "question": "两个科室因为一份联合文件互相退稿，你夹在中间负责汇总。你怎么办？",
+    "A": "先把分歧按政策、数据、表述分类，列出需要拍板的问题清单",
+    "B": "先分别沟通两边真正介意的点，有些退稿不是文字问题，是面子问题",
+    "C": "先拿出一个折中版本给双方看，别让文件在邮箱里来回旅游",
+    "D": "先请牵头领导明确最终口径，联合文件不能靠汇总人单独背书",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“两个科室因为一份联合文件互相退稿，你夹在中间负责汇总。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i023",
+    "scenario": "人际沟通",
+    "difficulty": 2,
+    "question": "新人问你一个很基础的问题，旁边有人笑他“这都不会”。你怎么做？",
+    "A": "先把操作步骤讲清楚，再提醒他以后把常见问题整理成笔记",
+    "B": "先帮他把尴尬接过去，谁都有第一次，不必把学习变成公开处刑",
+    "C": "顺手做一份简短指引发到小群，既帮新人，也减少以后重复问",
+    "D": "提醒他涉及权限和审批的问题必须按流程问，不能凭经验乱操作",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“新人问你一个很基础的问题，旁边有人笑他“这都不会”。你怎么做？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i024",
+    "scenario": "人际沟通",
+    "difficulty": 4,
+    "question": "分管领导和主要领导对同一件事要求不一致，你被要求今天拿方案。你怎么办？",
+    "A": "先把两种要求拆成目标、风险和成本，形成可对比方案供领导选择",
+    "B": "先分别理解两位领导关注点，别急着判断谁对谁错",
+    "C": "先做一个能兼容主要目标的版本，争取在汇报里把冲突变成选择题",
+    "D": "先请示明确最终口径，不能用个人理解替组织做决定",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "background": 2,
+        "positionWeight": 2,
+        "desire": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“分管领导和主要领导对同一件事要求不一致，你被要求今天拿方案。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i025",
+    "scenario": "综合分析",
+    "difficulty": 2,
+    "question": "有人说“基层工作就是开会、填表、留痕”，你怎么看？",
+    "A": "承认形式负担存在，但关键是让会议、表格和留痕服务真实治理",
+    "B": "先理解基层干部的疲惫，很多抱怨背后是资源少、任务密、责任重",
+    "C": "可以借数字化和流程再造减负，把重复劳动从人身上挪到系统里",
+    "D": "也要看到必要记录是责任链条的一部分，不能把规范等同于形式主义",
+    "choiceEffects": {
+      "A": {
+        "integrity": 1,
+        "eq": 1,
+        "workAbility": 2,
+        "risk": -1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“有人说“基层工作就是开会、填表、留痕”，你怎么看？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i026",
+    "scenario": "综合分析",
+    "difficulty": 3,
+    "question": "有人说“群众满意不满意，比材料漂亮不漂亮更重要”，你怎么看？",
+    "A": "群众感受是结果导向，材料应当记录真实工作，而不是替代真实工作",
+    "B": "这句话提醒我们别把群众当成附件，服务对象不是报表里的数字",
+    "C": "可以把满意度反馈纳入闭环，用数据倒逼工作方式调整",
+    "D": "也要防止只追求表面满意，依法依规和公平尺度不能丢",
+    "choiceEffects": {
+      "A": {
+        "integrity": 1,
+        "eq": 1,
+        "workAbility": 2,
+        "risk": -1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“有人说“群众满意不满意，比材料漂亮不漂亮更重要”，你怎么看？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i027",
+    "scenario": "综合分析",
+    "difficulty": 4,
+    "question": "你怎么看“既要依法办事，也要有温度”？",
+    "A": "法是底线，温度是方法，真正难的是在边界内把话说明白、事办到位",
+    "B": "温度首先是愿意听人说完，不让群众觉得制度只会关门",
+    "C": "可以通过容缺受理、帮办代办等方式，把制度允许的空间用足",
+    "D": "温度不能变成随意突破规则，否则对其他人就是新的不公平",
+    "choiceEffects": {
+      "A": {
+        "integrity": 1,
+        "eq": 1,
+        "workAbility": 2,
+        "risk": -1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你怎么看“既要依法办事，也要有温度”？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i028",
+    "scenario": "综合分析",
+    "difficulty": 3,
+    "question": "有人认为年轻干部就应该多吃苦、多加班，你怎么看？",
+    "A": "年轻干部需要锻炼，但锻炼应当对应成长，而不是把消耗包装成培养",
+    "B": "要理解组织任务压力，也要关注年轻人的身心和长期发展",
+    "C": "可以通过轮岗、导师和项目制让年轻人多承担关键任务，而不是只熬夜",
+    "D": "吃苦不能替代制度化培养，任务安排也要符合职责和劳动边界",
+    "choiceEffects": {
+      "A": {
+        "integrity": 1,
+        "eq": 1,
+        "workAbility": 2,
+        "risk": -1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“有人认为年轻干部就应该多吃苦、多加班，你怎么看？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i029",
+    "scenario": "综合分析",
+    "difficulty": 5,
+    "question": "面对“数据好看但实际感受一般”的治理现象，你怎么看？",
+    "A": "数据是观察工具，不是现实本身，要把指标结果和现场体验相互校准",
+    "B": "群众感受一般，说明评价体系可能漏掉了真正影响生活的细节",
+    "C": "应建立回访、暗访和问题复盘机制，让数据从展示品变成纠偏工具",
+    "D": "同时要防止为迎合感受随意否定数据，评价仍需证据和规则支撑",
+    "choiceEffects": {
+      "A": {
+        "integrity": 1,
+        "eq": 1,
+        "workAbility": 2,
+        "risk": -1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“面对“数据好看但实际感受一般”的治理现象，你怎么看？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i030",
+    "scenario": "综合分析",
+    "difficulty": 4,
+    "question": "有人说“干部要会干事，也要会说事”，你怎么看？",
+    "A": "会干事是基础，会说事是把工作讲清楚、争取理解和资源的能力",
+    "B": "很多误解不是事情没做，而是对象没有被认真解释和回应",
+    "C": "表达能力可以帮助经验复制、问题上升和政策传播，不能只埋头苦干",
+    "D": "但说事不能脱离事实，不能把包装能力变成遮掩问题的能力",
+    "choiceEffects": {
+      "A": {
+        "integrity": 1,
+        "eq": 1,
+        "workAbility": 2,
+        "risk": -1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“有人说“干部要会干事，也要会说事”，你怎么看？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i031",
+    "scenario": "材料汇报",
+    "difficulty": 2,
+    "question": "领导让你把一项普通工作写成“亮点经验”，但实际创新并不多。你怎么写？",
+    "A": "先从流程优化、群众反馈和问题闭环里找真实变化，不硬造概念",
+    "B": "先问业务同事哪些细节最不容易，普通工作也有普通人的辛苦",
+    "C": "把小做法提炼成可复制步骤，语言可以亮一点，但事实要站得住",
+    "D": "明确不能虚构成效和数据，材料好看不能让事实替它买单",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“领导让你把一项普通工作写成“亮点经验”，但实际创新并不多。你怎么写？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i032",
+    "scenario": "材料汇报",
+    "difficulty": 3,
+    "question": "上级调研前，领导要求你准备一份“问题不多、亮点突出”的汇报。你怎么把握？",
+    "A": "亮点讲实、问题讲准、措施讲清，避免把汇报写成无风险童话",
+    "B": "先了解领导最担心哪些问题，汇报里给出回应，而不是只堆好词",
+    "C": "用案例和数字支撑亮点，让调研组听到的不只是形容词",
+    "D": "涉及短板不能隐瞒，表述可以讲策略，但事实边界不能突破",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "background": 2,
+        "positionWeight": 2,
+        "desire": 1,
+        "risk": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“上级调研前，领导要求你准备一份“问题不多、亮点突出”的汇报。你怎么把握？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i033",
+    "scenario": "材料汇报",
+    "difficulty": 4,
+    "question": "你发现上报材料里的一个关键数字可能有误，但报送截止只剩半小时。你怎么办？",
+    "A": "立即核对数据来源，能确认就修正，不能确认就标明口径并报告风险",
+    "B": "先联系提供数据的同事，别让一个数字错误变成整个科室的心病",
+    "C": "先提交主体材料，同时同步说明该数字正在复核，争取不耽误整体进度",
+    "D": "宁可迟一点也不能带错数正式上报，关键数据必须经得起追问",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你发现上报材料里的一个关键数字可能有误，但报送截止只剩半小时。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i034",
+    "scenario": "材料汇报",
+    "difficulty": 3,
+    "question": "一份材料被领导改了五版，每版方向都不太一样，你怎么办？",
+    "A": "整理历次修改意见，提炼真正稳定的主线，再请领导确认最终结构",
+    "B": "理解领导是在找表达角度，会后用一页提纲帮双方减少来回折腾",
+    "C": "先快速出两个风格版本供选择，用选择题替代无限开放题",
+    "D": "保留修改痕迹和确认记录，避免最后所有变化都变成你的理解偏差",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“一份材料被领导改了五版，每版方向都不太一样，你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i035",
+    "scenario": "材料汇报",
+    "difficulty": 4,
+    "question": "你要向上级汇报一个推进不顺的项目，原因涉及多个部门配合不足。你怎么说？",
+    "A": "先讲目标、进度和卡点，再把部门协同问题转化为需要协调的事项",
+    "B": "不把锅直接甩出去，但也不把真实困难全部吞进自己单位肚子里",
+    "C": "提出两个可执行的协调方案，让上级看到问题不是抱怨而是请求支持",
+    "D": "涉及责任归属要谨慎，未经确认的不在正式汇报中下结论",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你要向上级汇报一个推进不顺的项目，原因涉及多个部门配合不足。你怎么说？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i036",
+    "scenario": "材料汇报",
+    "difficulty": 2,
+    "question": "你刚写完材料，业务科室说“意思差不多，但不专业”。你怎么办？",
+    "A": "请业务科室标出关键术语和逻辑错误，先把专业底座补牢",
+    "B": "先承认自己不是业务专家，争取对方一起把话翻译得既准确又能读",
+    "C": "做一版“业务原话+机关表达”对照稿，提高后续协作效率",
+    "D": "对涉及政策依据的表述必须让业务科室确认，不能凭文字感觉改",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你刚写完材料，业务科室说“意思差不多，但不专业”。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i037",
+    "scenario": "基层治理",
+    "difficulty": 2,
+    "question": "网格员反映任务越来越多，群众却觉得社区什么都慢。你怎么分析并改进？",
+    "A": "先梳理任务来源和办理链条，找出重复填报、重复上门的环节",
+    "B": "先听网格员和群众两边的真实感受，慢不慢往往不只看速度",
+    "C": "推动任务清单化和线上流转，能合并的合并，能共享的共享",
+    "D": "明确社区职责边界，不能所有问题都往网格里塞",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“网格员反映任务越来越多，群众却觉得社区什么都慢。你怎么分析并改进？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i038",
+    "scenario": "基层治理",
+    "difficulty": 3,
+    "question": "乡镇要推进人居环境整治，有村民认为只是“刷墙拍照”。你怎么做？",
+    "A": "先区分表面美化和实际问题，围绕垃圾、污水、道路等痛点定任务",
+    "B": "先问村民真正希望先改哪里，别把治理做成给镜头看的装修",
+    "C": "选一个问题集中突破，做出可见变化后再带动其他村民参与",
+    "D": "整治过程要公开资金、标准和验收，避免好事变成新的质疑点",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“乡镇要推进人居环境整治，有村民认为只是“刷墙拍照”。你怎么做？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i039",
+    "scenario": "基层治理",
+    "difficulty": 4,
+    "question": "街道推进商户门前三包，商户说生意已经难做，不愿配合。你怎么推进？",
+    "A": "先明确责任范围和常见问题，分批提醒、整改、复查，形成闭环",
+    "B": "先理解商户压力，告诉他们整洁环境也是客流的一部分",
+    "C": "联合市场监管和城管做一次示范街区，用效果带动配合",
+    "D": "执法和服务要分清，提醒、整改、处罚都要有依据和记录",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“街道推进商户门前三包，商户说生意已经难做，不愿配合。你怎么推进？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i040",
+    "scenario": "基层治理",
+    "difficulty": 3,
+    "question": "村里推行积分制治理，部分村民觉得“分数管人”很别扭。你怎么解释？",
+    "A": "先说明积分不是给人贴标签，而是把公共事务参与变得可记录、可兑换",
+    "B": "先听大家担心什么，尤其是怕不公平、怕被比较的情绪",
+    "C": "先从环境卫生、志愿服务等低争议事项试运行，逐步扩大范围",
+    "D": "积分规则、审核和公示必须透明，否则好工具也会变成新矛盾",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“村里推行积分制治理，部分村民觉得“分数管人”很别扭。你怎么解释？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i041",
+    "scenario": "基层治理",
+    "difficulty": 4,
+    "question": "社区群里有人连续转发未经证实的“政策内幕”，引发居民焦虑。你怎么处理？",
+    "A": "先核实政策原文，整理简明问答在群里澄清，并引导居民看官方渠道",
+    "B": "先私聊转发者，提醒他焦虑可以理解，但别让焦虑带着谣言跑",
+    "C": "尽快做一次线上答疑，把大家最关心的问题集中回应",
+    "D": "对明显不实信息要按规则处置，群管理也要有边界和记录",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“社区群里有人连续转发未经证实的“政策内幕”，引发居民焦虑。你怎么处理？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i042",
+    "scenario": "基层治理",
+    "difficulty": 3,
+    "question": "你发现一个惠民项目群众参与度不高，但上级要求尽快出成效。你怎么办？",
+    "A": "先分析参与门槛、宣传渠道和实际需求是否错位，再调整推进方式",
+    "B": "先去问不参加的人为什么不参加，沉默的数据最会说实话",
+    "C": "找一批真实受益案例做带动，让群众看到不是又一个“拍照项目”",
+    "D": "不能为出成效虚报参与人数，项目热闹不等于项目有效",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你发现一个惠民项目群众参与度不高，但上级要求尽快出成效。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i043",
+    "scenario": "风险边界",
+    "difficulty": 3,
+    "question": "熟人找到你，希望你帮忙“打听一下”某个岗位的报名情况。你怎么回应？",
+    "A": "告诉他公开信息可以帮忙查，非公开信息不能打听，也不该打听",
+    "B": "理解他着急，但把能公开获取的渠道整理给他，别让关系越过边界",
+    "C": "建议他关注岗位条件和备考计划，把精力用在能改变的部分",
+    "D": "涉及考试录用信息必须严格回避，哪怕只是随口一问也要守住底线",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“熟人找到你，希望你帮忙“打听一下”某个岗位的报名情况。你怎么回应？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i044",
+    "scenario": "风险边界",
+    "difficulty": 4,
+    "question": "企业负责人在检查后请你吃饭，说只是感谢辛苦。你怎么处理？",
+    "A": "感谢理解但婉拒，说明检查后续还有整改和复核，保持工作关系清爽",
+    "B": "把话说得柔和一点，别让对方觉得被羞辱，但边界不能松",
+    "C": "建议通过正式渠道反馈服务意见，把私人饭局变成公开沟通",
+    "D": "涉及监管对象宴请必须拒绝并按要求报告，别拿“人情”试探纪律",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“企业负责人在检查后请你吃饭，说只是感谢辛苦。你怎么处理？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i045",
+    "scenario": "风险边界",
+    "difficulty": 5,
+    "question": "领导暗示你把一个风险点在材料里写轻一点，说“不要影响整体成绩”。你怎么办？",
+    "A": "把风险写成客观问题和整改措施，既不夸大，也不消失",
+    "B": "理解领导关注整体评价，但提醒风险如果被后续发现会更被动",
+    "C": "尝试用“已发现、已整改、正跟踪”的方式呈现，让问题有出口",
+    "D": "重大风险不能淡化隐瞒，必要时保留意见并按程序反映",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "background": 2,
+        "positionWeight": 2,
+        "desire": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“领导暗示你把一个风险点在材料里写轻一点，说“不要影响整体成绩”。你怎么办…”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i046",
+    "scenario": "风险边界",
+    "difficulty": 4,
+    "question": "同学在外地做项目，想让你介绍本地相关部门负责人认识。你怎么处理？",
+    "A": "可以介绍公开办事渠道和政策咨询电话，不做利益撮合",
+    "B": "说明不是不帮忙，而是身份变了，有些热心会变成风险",
+    "C": "建议他准备正式材料走招商或审批渠道，让项目自己说话",
+    "D": "涉及可能利益关系必须回避，私人关系不能进入公权力流程",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“同学在外地做项目，想让你介绍本地相关部门负责人认识。你怎么处理？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i047",
+    "scenario": "风险边界",
+    "difficulty": 3,
+    "question": "你负责采购前期调研，供应商频繁给你发“参考方案”和小礼物。你怎么办？",
+    "A": "资料可以按规定收集比较，礼物退回并记录，调研过程留痕",
+    "B": "礼貌说明单位有纪律要求，别让对方把试探包装成客气",
+    "C": "把需求参数公开透明化，减少供应商围着个人转的空间",
+    "D": "采购相关接触必须守住回避和廉洁边界，不能收任何可能影响判断的东西",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你负责采购前期调研，供应商频繁给你发“参考方案”和小礼物。你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i048",
+    "scenario": "风险边界",
+    "difficulty": 4,
+    "question": "你发现同科室同事长期把内部资料发到私人群里图方便。你怎么处理？",
+    "A": "先提醒资料分类和传输规定，推动使用合规渠道替代私人群",
+    "B": "私下沟通，避免一上来扣帽子，但要让他意识到方便背后有风险",
+    "C": "建议科室建立共享盘和权限管理，让合规方式比违规方式更好用",
+    "D": "涉及敏感资料外传必须及时报告和纠正，不能因为熟人关系装没看见",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“你发现同科室同事长期把内部资料发到私人群里图方便。你怎么处理？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i049",
+    "scenario": "岗位匹配",
+    "difficulty": 2,
+    "question": "面试官问你为什么报考这个单位，而你的专业并不完全对口。你怎么答？",
+    "A": "先说明岗位职责理解，再把自己的学习能力和可迁移经验对应上",
+    "B": "诚实承认不完全对口，但表达愿意从基础工作学起，不把话说满",
+    "C": "突出自己跨专业视角能补充新方法，让“不完全对口”变成适应力",
+    "D": "不夸大专业能力，也不承诺超出实际的经验，避免入职后被现实打脸",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“面试官问你为什么报考这个单位，而你的专业并不完全对口。你怎么答？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i050",
+    "scenario": "岗位匹配",
+    "difficulty": 3,
+    "question": "考官追问：如果入职后发现工作和想象差距很大，你怎么办？",
+    "A": "先快速熟悉岗位规则和业务流程，再调整预期，把落差变成学习清单",
+    "B": "承认落差正常，关键是不要把情绪带给同事和群众",
+    "C": "主动找前辈请教，争取承担具体任务，用行动缩短适应期",
+    "D": "如果涉及职责和能力边界，会及时请示，不凭热情硬扛风险",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“考官追问：如果入职后发现工作和想象差距很大，你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i051",
+    "scenario": "岗位匹配",
+    "difficulty": 4,
+    "question": "考官问：你如何看待基层岗位“既琐碎又重要”？",
+    "A": "琐碎是工作形态，重要是治理价值，要在小事里守住规则和服务质量",
+    "B": "基层面对的是具体的人，很多大政策最后都落在一件小事上",
+    "C": "可以通过清单化、流程化提高效率，让琐碎工作少消耗、多沉淀",
+    "D": "不能因为琐碎就随意，也不能因为重要就无限加码，职责边界同样重要",
+    "choiceEffects": {
+      "A": {
+        "integrity": 1,
+        "eq": 1,
+        "workAbility": 2,
+        "risk": -1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“考官问：你如何看待基层岗位“既琐碎又重要”？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i052",
+    "scenario": "岗位匹配",
+    "difficulty": 3,
+    "question": "如果你笔试第一，但面试现场前一位考生表现很好，你会怎么稳住自己？",
+    "A": "把注意力拉回题目结构，先审题、列点、再表达，不被他人节奏带走",
+    "B": "承认紧张正常，提醒自己考场比的是自己的完整度，不是旁人的掌声",
+    "C": "用开头几句话建立节奏，先把气息和逻辑稳住，再展开内容",
+    "D": "不临时模仿别人的风格，保持真实表达，避免越学越不像自己",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“如果你笔试第一，但面试现场前一位考生表现很好，你会怎么稳住自己？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i053",
+    "scenario": "岗位匹配",
+    "difficulty": 4,
+    "question": "考官问你有什么缺点，你怎么回答才不显得像背模板？",
+    "A": "选一个真实但可改进的缺点，说明具体场景、改进方法和目前变化",
+    "B": "避免把缺点包装成优点，真诚比“我太追求完美”更可信",
+    "C": "把缺点和岗位学习计划连接起来，体现自我校准能力",
+    "D": "不暴露会影响岗位底线的问题，比如纪律性差、责任心不足",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“考官问你有什么缺点，你怎么回答才不显得像背模板？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i054",
+    "scenario": "岗位匹配",
+    "difficulty": 5,
+    "question": "考官问：如果群众诉求合理但政策暂时不支持，你怎么办？",
+    "A": "先把政策边界说明白，再帮群众寻找替代路径或向上反馈共性问题",
+    "B": "先接住群众情绪，合理诉求没被满足时，解释方式尤其重要",
+    "C": "整理成案例和建议上报，推动政策在后续修订中看见真实需求",
+    "D": "不能为了当场满意突破政策，个案好心可能造成整体不公",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“考官问：如果群众诉求合理但政策暂时不支持，你怎么办？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i055",
+    "scenario": "现场模拟",
+    "difficulty": 2,
+    "question": "请现场模拟：你要劝一位坚持插队办理业务的群众回到正常秩序。你怎么说？",
+    "A": "先说明排队规则和办理流程，再给他指明预计等待时间和咨询方式",
+    "B": "先理解他着急，但告诉他大家都着急，公平排队才能让每个人安心",
+    "C": "请工作人员帮他确认材料是否齐全，让等待时间不完全浪费",
+    "D": "明确不能插队办理，特殊情况要按绿色通道条件审核，不靠嗓门决定",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“请现场模拟：你要劝一位坚持插队办理业务的群众回到正常秩序。你怎么说？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i056",
+    "scenario": "现场模拟",
+    "difficulty": 3,
+    "question": "请现场模拟：同事连续加班情绪低落，你作为同组成员怎么劝？",
+    "A": "先帮他梳理任务优先级，看哪些能分担、哪些需要向上反馈",
+    "B": "先承认他确实辛苦，别用“大家都一样”把人劝得更孤独",
+    "C": "主动接一块具体工作，让安慰不只停在嘴上",
+    "D": "提醒他注意身体和请假休整，不能把长期透支当成常态",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“请现场模拟：同事连续加班情绪低落，你作为同组成员怎么劝？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i057",
+    "scenario": "现场模拟",
+    "difficulty": 3,
+    "question": "请现场模拟：企业负责人抱怨审批慢，认为政府不支持企业。你怎么回应？",
+    "A": "先解释审批环节和当前进度，再明确下一步材料和预计时限",
+    "B": "先理解企业时间成本，表达支持不是口号，要体现在可预期服务里",
+    "C": "主动提供帮办清单和政策咨询，把企业从“到处问”带回流程里",
+    "D": "说明审批必须依法依规，支持企业不等于降低审查标准",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“请现场模拟：企业负责人抱怨审批慢，认为政府不支持企业。你怎么回应？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i058",
+    "scenario": "现场模拟",
+    "difficulty": 4,
+    "question": "请现场模拟：居民质疑你们只会拍照打卡，不解决实际问题。你怎么回应？",
+    "A": "先说明这次工作的目标、问题清单和后续整改节点，接受监督",
+    "B": "承认居民反感形式主义有原因，邀请他指出最需要解决的具体问题",
+    "C": "当场记录一个能立刻推进的小问题，用行动比解释更快止损",
+    "D": "说明拍照留痕不是目的，资料会服务整改，但不会替代整改",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“请现场模拟：居民质疑你们只会拍照打卡，不解决实际问题。你怎么回应？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i059",
+    "scenario": "现场模拟",
+    "difficulty": 4,
+    "question": "请现场模拟：领导让你临时上台发言，你准备不足。你怎么开口？",
+    "A": "先围绕主题、现状、下一步三点展开，结构稳住就不容易散",
+    "B": "坦诚准备时间有限，但会结合手头工作讲具体体会，不空喊口号",
+    "C": "先用一个现场观察切入，再过渡到工作建议，让发言有记忆点",
+    "D": "不随意承诺未经确认的事项，临场表达也要守住事实边界",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“请现场模拟：领导让你临时上台发言，你准备不足。你怎么开口？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i060",
+    "scenario": "现场模拟",
+    "difficulty": 5,
+    "question": "请现场模拟：媒体追问一起正在调查的敏感事件，你作为现场工作人员怎么回应？",
+    "A": "先说明事件正在核查，已采取哪些公开可说的措施，后续以权威发布为准",
+    "B": "理解公众关切，表达会依法依规及时回应，不回避但也不抢跑",
+    "C": "建议留下联系方式，统一由新闻发布或主管部门后续答复",
+    "D": "不透露未经核实的信息，不评价责任归属，避免一句话变成新舆情",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "mentalPressure": 1,
+        "background": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 2,
+        "mentalPressure": 2
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你处理了一道面试题：“请现场模拟：媒体追问一起正在调查的敏感事件，你作为现场工作人员怎么回应？”。考官没表态，命运在旁边记了一笔。"
+  },
+  {
+    "id": "i061",
+    "scenario": "组织协调",
+    "difficulty": 2,
+    "question": "你负责一场政策咨询进社区活动，出发前发现宣传册印错了办理时间。你怎么处理？",
+    "A": "立即更正电子版，现场用醒目标识说明正确时间，并安排人员逐一提醒",
+    "B": "先联系社区干部，请他们在居民群里解释，减少现场误会",
+    "C": "活动照常推进，现场重点回答群众问题，印错部分后续再补充说明",
+    "D": "暂停发放错误材料，向领导说明风险后重新确认宣传口径",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "宣传册时间印错，你没有假装纸张会自己纠错。"
+  },
+  {
+    "id": "i062",
+    "scenario": "组织协调",
+    "difficulty": 3,
+    "question": "市里要调研夜间经济，你发现商户、居民和执法队诉求完全不同。你如何准备材料？",
+    "A": "按主体分别梳理诉求、冲突点和可协调空间，形成分层建议",
+    "B": "先找最熟悉街区的人了解情况，把真实矛盾问出来",
+    "C": "先写一版亮点材料，避免调研时场面过于沉重",
+    "D": "提醒领导这类问题容易引发争议，建议先明确调研边界",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "夜间经济题里，你把烧烤摊背后的治理平衡摆上了桌。"
+  },
+  {
+    "id": "i063",
+    "scenario": "组织协调",
+    "difficulty": 2,
+    "question": "单位准备开放日，群众报名人数远超预期，场地容量不够。你怎么办？",
+    "A": "分批预约、明确动线和安全容量，保留线上直播或回看渠道",
+    "B": "先安抚已报名群众，解释容量限制并争取理解",
+    "C": "尽量扩大现场接待，让活动显得更热闹",
+    "D": "建议延期举办，等场地和安保条件都满足再开放",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "开放日差点变拥挤日，你记得热闹不是安全。"
+  },
+  {
+    "id": "i064",
+    "scenario": "组织协调",
+    "difficulty": 2,
+    "question": "你要组织一次跨区学习交流，对方单位安排很满，本单位又希望看更多点位。你怎么协调？",
+    "A": "先明确学习目标，压缩“打卡点”，保证每个点位能看出问题",
+    "B": "先私下了解对方方便的时间和不方便展示的环节",
+    "C": "尽量多排点位，让领导觉得行程充实",
+    "D": "建议只看材料不看现场，减少双方负担",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "学习交流题里，你知道点位不是旅游景点。"
+  },
+  {
+    "id": "i065",
+    "scenario": "应急处置",
+    "difficulty": 3,
+    "question": "办事大厅有人突然晕倒，排队群众开始围观拍摄。你在现场怎么做？",
+    "A": "先组织急救、疏散围观、保护隐私，同时通知医疗和负责人",
+    "B": "请群众让出空间，用温和方式控制现场情绪",
+    "C": "安排同事维持窗口秩序，尽量不让大厅停摆",
+    "D": "先报告领导并调取监控，避免后续责任不清",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "大厅突发状况里，你把人命放在流程前面，也没把流程丢掉。"
+  },
+  {
+    "id": "i066",
+    "scenario": "应急处置",
+    "difficulty": 2,
+    "question": "暴雨导致一处涵洞积水，导航仍把车辆引过去。你接到情况后怎么办？",
+    "A": "立即联系交警和属地封控提示，同步推动平台更新绕行信息",
+    "B": "先在社区群和本地账号提醒附近居民绕行",
+    "C": "安排人员现场值守，先把车辆劝离危险点",
+    "D": "先核实积水深度和权属，避免越权处置",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "涵洞积水题里，你没有等水退了再讨论谁负责。"
+  },
+  {
+    "id": "i067",
+    "scenario": "应急处置",
+    "difficulty": 3,
+    "question": "一批预约群众到场后发现系统升级无法办理，现场情绪很大。你怎么处理？",
+    "A": "说明故障原因和预计恢复时间，登记预约顺序，提供补办或绿色通道",
+    "B": "先逐个安抚情绪最激动的人，避免现场扩散",
+    "C": "请技术人员现场抢修，同时让窗口先收取可核验材料",
+    "D": "建议暂停大厅叫号，等系统恢复后再统一办理",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "系统升级把大厅升级成考场，你回答得还算稳。"
+  },
+  {
+    "id": "i068",
+    "scenario": "应急处置",
+    "difficulty": 2,
+    "question": "活动现场临时停电，领导和群众都在场，主持人看向你。你怎么办？",
+    "A": "启动备用方案，确认安全和设备，先用简短说明稳住现场",
+    "B": "先安抚群众，解释不是活动取消，避免人员乱动",
+    "C": "用手机和扩音设备先维持关键流程，不让活动完全断掉",
+    "D": "建议暂缓继续，排查线路安全后再恢复",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "停电题里，你没有把“稍等一下”当唯一预案。"
+  },
+  {
+    "id": "i069",
+    "scenario": "群众工作",
+    "difficulty": 2,
+    "question": "一位老人坚持说补贴少发了，但系统显示没有问题。你怎么沟通？",
+    "A": "先核对政策口径、发放记录和老人理解差异，再用明白话解释",
+    "B": "先让老人把经历说完，别急着用系统截图压人",
+    "C": "请社区熟人一起沟通，减少老人对窗口的不信任",
+    "D": "若系统确实无误，明确说明边界并留下复核渠道",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "补贴争议题里，系统截图没有单独上桌当裁判。"
+  },
+  {
+    "id": "i070",
+    "scenario": "群众工作",
+    "difficulty": 3,
+    "question": "居民反映小区改造“只修门面不修漏水”，媒体也在关注。你怎么回应？",
+    "A": "核实项目清单和漏水点责任，公开说明能改什么、何时改",
+    "B": "先到现场听居民说完，把最急的问题列出来",
+    "C": "先回应媒体关切，说明改造总体推进情况和后续安排",
+    "D": "若漏水不在本次范围，建议如实解释并协调其他渠道",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "小区改造题里，你没有用新墙皮遮住旧漏水。"
+  },
+  {
+    "id": "i071",
+    "scenario": "群众工作",
+    "difficulty": 2,
+    "question": "商户不满门前三包检查，认为影响生意。你如何推进？",
+    "A": "说明标准和法律依据，区分轻重问题，给出整改期限和示范做法",
+    "B": "先听商户讲经营压力，找到他们最难配合的环节",
+    "C": "先做几家示范店，带动其他商户跟进",
+    "D": "对明显违规的部分坚持处理，避免规则被讨价还价",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "门前三包题里，你没有把管理说成单方面命令。"
+  },
+  {
+    "id": "i072",
+    "scenario": "群众工作",
+    "difficulty": 3,
+    "question": "村民质疑集体资产出租价格低，现场要求查看合同。你怎么办？",
+    "A": "说明公开程序，依法依规提供可公开信息，并启动核查",
+    "B": "先请村民代表坐下来，把质疑点逐条列清楚",
+    "C": "先稳住现场，承诺会后整理材料统一答复",
+    "D": "若涉及敏感条款，说明边界并请纪检或主管部门介入",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "集体资产题里，你把公开和边界同时摆上桌。"
+  },
+  {
+    "id": "i073",
+    "scenario": "人际沟通",
+    "difficulty": 2,
+    "question": "同事把你写的初稿改得面目全非，还说“年轻人要多学”。你怎么办？",
+    "A": "先看修改理由，保留有价值部分，再沟通关键逻辑差异",
+    "B": "私下请教对方思路，避免把材料争论变成人际争论",
+    "C": "按对方版本先交，后续再通过结果检验谁更合适",
+    "D": "如果改动影响事实准确，及时提出并保留依据",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "材料被改题里，你没有把自尊心写进正文。"
+  },
+  {
+    "id": "i074",
+    "scenario": "人际沟通",
+    "difficulty": 3,
+    "question": "领导临时安排你替同事汇报，但你并不了解全部情况。你怎么做？",
+    "A": "快速找同事核实核心数据和风险点，汇报时说明掌握范围",
+    "B": "先把能确认的部分讲清楚，不确定处不硬编",
+    "C": "用材料框架撑住场面，会后再补充细节",
+    "D": "向领导说明准备不足，请求同事共同到场补位",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "临时替汇报题里，你没有选择现场编小说。"
+  },
+  {
+    "id": "i075",
+    "scenario": "人际沟通",
+    "difficulty": 2,
+    "question": "新人总来问你基础问题，影响你自己的进度。你怎么处理？",
+    "A": "整理常见问题清单，约定集中答疑时间，减少碎片打断",
+    "B": "耐心了解他卡在哪里，避免新人越问越不敢问",
+    "C": "先把最急的问题帮他过掉，其他让他自己查资料",
+    "D": "提醒他先看制度和旧材料，不能所有问题都靠别人",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "新人提问题，你没有把“自己悟”当成培训体系。"
+  },
+  {
+    "id": "i076",
+    "scenario": "人际沟通",
+    "difficulty": 3,
+    "question": "两个领导对同一材料方向意见相反，截止时间又很近。你怎么办？",
+    "A": "梳理两种意见差异，带着可选方案请示最终口径",
+    "B": "分别沟通两位领导关注点，尽量找共同表达",
+    "C": "先按主要领导意见推进，避免时间失控",
+    "D": "说明冲突和风险，争取明确谁来定稿",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "双领导口径题里，你没有把自己夹成订书钉。"
+  },
+  {
+    "id": "i077",
+    "scenario": "综合分析",
+    "difficulty": 2,
+    "question": "有人说基层治理“越精细越累”，你怎么看？",
+    "A": "精细治理不是无限加码，而是把力气用到真正影响群众的地方",
+    "B": "基层累说明治理方向不应该精细化",
+    "C": "精细化主要靠更多考核表实现",
+    "D": "群众需求越多越不应细分服务",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "你分析了精细治理和加码的区别，没有把累当成唯一结论。"
+  },
+  {
+    "id": "i078",
+    "scenario": "综合分析",
+    "difficulty": 3,
+    "question": "怎么看“数据好看，但群众感受一般”的现象？",
+    "A": "可能是指标没有覆盖真实体验，也可能是执行只追求可统计部分",
+    "B": "说明群众对政府工作要求过高",
+    "C": "只要数据真实，感受可以慢慢跟上",
+    "D": "应减少群众评价，避免影响考核",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "数据和感受打架，你没有立刻宣布数据获胜。"
+  },
+  {
+    "id": "i079",
+    "scenario": "综合分析",
+    "difficulty": 2,
+    "question": "有人认为年轻干部应多到吃劲岗位锻炼，你怎么看？",
+    "A": "吃劲岗位能锻炼人，但也要有指导、保护和合理评价",
+    "B": "年轻人就应该无限承担压力",
+    "C": "轻松岗位完全没有成长价值",
+    "D": "锻炼效果只看加班时长",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "吃劲岗位题里，你没有把锻炼翻译成硬扛。"
+  },
+  {
+    "id": "i080",
+    "scenario": "综合分析",
+    "difficulty": 3,
+    "question": "如何理解“依法办事也要有温度”？",
+    "A": "温度不是突破规则，而是在规则内把解释、协助和救济做充分",
+    "B": "有温度就可以灵活突破程序",
+    "C": "依法办事会天然缺少人情味",
+    "D": "只要态度好，结果不重要",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "依法和温度题里，你没有让人情把规则搬走。"
+  },
+  {
+    "id": "i081",
+    "scenario": "材料汇报",
+    "difficulty": 2,
+    "question": "领导让你把一项普通工作写成经验材料，你发现亮点并不突出。你怎么处理？",
+    "A": "从问题、做法和可复制细节中提炼真实亮点，不夸大成效",
+    "B": "多用排比和标题包装，让材料看起来更像经验",
+    "C": "找几个好看的案例撑版面，数据以后再补",
+    "D": "直接说明没有亮点，建议不写",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "经验材料题里，你没有把普通工作硬吹成史诗。"
+  },
+  {
+    "id": "i082",
+    "scenario": "材料汇报",
+    "difficulty": 3,
+    "question": "上级要一份“短而有力”的汇报，但各科室给你的素材又散又长。你怎么整合？",
+    "A": "先定主线和层级，把素材按问题、措施、成效压缩重组",
+    "B": "尽量保留各科室原话，避免得罪人",
+    "C": "把素材全部放附件，正文只写总体表态",
+    "D": "先拼成完整版本，再看字数删到哪里算哪里",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "短汇报题里，你知道短不是把话砍断。"
+  },
+  {
+    "id": "i083",
+    "scenario": "材料汇报",
+    "difficulty": 2,
+    "question": "你发现拟上报材料中有个数字可能不准，但来源科室说“差不多”。你怎么办？",
+    "A": "要求核准来源和口径，必要时用区间或备注说明",
+    "B": "先按来源科室数据报，责任不在你",
+    "C": "把数字删掉，只保留文字描述",
+    "D": "找一个看起来更稳的数字替换",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "数字不准题里，你没有相信“差不多”能过审计。"
+  },
+  {
+    "id": "i084",
+    "scenario": "材料汇报",
+    "difficulty": 3,
+    "question": "一份问题整改报告需要写“原因分析”，业务科室只给了“已整改”。你怎么补？",
+    "A": "追问问题成因、整改措施和防止反弹机制，避免只写结果",
+    "B": "把“已整改”扩写成几句漂亮表态",
+    "C": "直接引用业务科室原话，减少争议",
+    "D": "把原因分析放到下一轮报告再说",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "整改报告题里，你没有让“已整改”独自撑完全场。"
+  },
+  {
+    "id": "i085",
+    "scenario": "基层治理",
+    "difficulty": 2,
+    "question": "社区准备推行楼道堆物整治，居民担心“一阵风”。你怎么做？",
+    "A": "先摸清重点楼栋和安全隐患，制定清理、认领、长效巡查办法",
+    "B": "先开大会强调消防风险，让大家认识到严重性",
+    "C": "先清几栋楼做样板，用效果带动其他居民",
+    "D": "明确哪些物品必须清理，避免整治变成口水仗",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "楼道堆物题里，你没有只靠一张消防海报。"
+  },
+  {
+    "id": "i086",
+    "scenario": "基层治理",
+    "difficulty": 3,
+    "question": "乡镇推进人居环境整治，村民说“拍照时干净，平时没人管”。你怎么改进？",
+    "A": "把集中整治转成日常维护机制，公开责任区和反馈渠道",
+    "B": "先承认问题，再找村干部了解平时管护难点",
+    "C": "先抓几个反弹点位，形成看得见的变化",
+    "D": "减少摆拍式检查，把考核转向群众实际感受",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "人居环境题里，你听见了“拍照时干净”的讽刺。"
+  },
+  {
+    "id": "i087",
+    "scenario": "基层治理",
+    "difficulty": 2,
+    "question": "街道想建社区共享书房，有人担心最后变成锁着的样板间。你怎么办？",
+    "A": "明确开放时间、管理主体和使用规则，让空间真的运转起来",
+    "B": "先征集居民需求，看大家想要什么样的公共空间",
+    "C": "先小范围试运行，根据使用情况调整服务",
+    "D": "如果后续运营没保障，建议暂缓建设避免浪费",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "共享书房题里，你没有把钥匙交给宣传照。"
+  },
+  {
+    "id": "i088",
+    "scenario": "基层治理",
+    "difficulty": 3,
+    "question": "村里准备修一条生产路，几户人家因占地补偿争议反对。你怎么推进？",
+    "A": "核清权属、补偿依据和受影响程度，组织协商但不突破政策",
+    "B": "先分别听取反对户意见，弄清真正卡点",
+    "C": "先推进无争议路段，争议部分继续协调",
+    "D": "请主管部门参与解释政策，避免村里单独承压",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "生产路争议题里，你没有把“为了大家好”当万能钥匙。"
+  },
+  {
+    "id": "i089",
+    "scenario": "风险边界",
+    "difficulty": 2,
+    "question": "熟人请你帮忙查询一个报名岗位的内部情况，说只是参考。你怎么回应？",
+    "A": "说明不能提供非公开信息，可建议其查看公开公告和咨询渠道",
+    "B": "先问清他到底想知道什么，能公开的部分再提醒",
+    "C": "如果只是普通信息，可以帮他整理公开资料",
+    "D": "明确拒绝涉及内部信息，避免留下人情口子",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "熟人打听岗位题里，你没有把公开信息和内部消息搅成一锅。"
+  },
+  {
+    "id": "i090",
+    "scenario": "风险边界",
+    "difficulty": 3,
+    "question": "项目推进中有人暗示“先签了再补程序”，理由是时间紧。你怎么办？",
+    "A": "坚持关键程序不能倒置，说明风险并提出压缩合规流程的办法",
+    "B": "先了解为什么时间紧，判断是否有合法补救空间",
+    "C": "在不涉及核心风险时先推进可逆环节",
+    "D": "向领导书面说明风险，请求明确处理意见",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "先签后补题里，你没有把时间紧当成免死牌。"
+  },
+  {
+    "id": "i091",
+    "scenario": "风险边界",
+    "difficulty": 2,
+    "question": "企业负责人检查后送来土特产，说“没几个钱”。你怎么处理？",
+    "A": "婉拒并说明纪律要求，必要时按规定登记上交",
+    "B": "感谢对方理解工作，但明确不能收任何东西",
+    "C": "如果已经送到单位，立即报告并留痕处理",
+    "D": "提醒同事以后检查后减少私人接触",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "土特产题里，你没有让“没几个钱”买走边界。"
+  },
+  {
+    "id": "i092",
+    "scenario": "风险边界",
+    "difficulty": 3,
+    "question": "领导让你在材料里弱化一个风险点，说“别影响总体成绩”。你怎么办？",
+    "A": "如实保留风险并提出处置措施，避免问题被材料掩盖",
+    "B": "先理解领导担心，再建议用客观措辞表达风险",
+    "C": "把风险放到附件或备注里，正文不夸大也不隐瞒",
+    "D": "若要求明显不当，保留依据并按程序反映",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "弱化风险题里，你没有把问题塞进附件深处就当没发生。"
+  },
+  {
+    "id": "i093",
+    "scenario": "岗位匹配",
+    "difficulty": 2,
+    "question": "考官问你为什么报考乡镇岗位，而你的专业和基层治理并不直接相关。你怎么答？",
+    "A": "结合专业能力说明能解决哪些具体问题，再表达愿意补基层课",
+    "B": "先承认不完全对口，再讲自己愿意学习和吃苦",
+    "C": "强调基层岗位空间大、锻炼多，自己想快速成长",
+    "D": "说明专业不是唯一标准，岗位更需要综合能力",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "专业不对口题里，你没有用“我热爱”四个字硬撑全场。"
+  },
+  {
+    "id": "i094",
+    "scenario": "岗位匹配",
+    "difficulty": 3,
+    "question": "考官问你如果长期做重复琐碎工作，会不会失落。你怎么回答？",
+    "A": "承认会有落差，但说明公共服务价值常在重复细节中体现",
+    "B": "说自己完全不会失落，越重复越喜欢",
+    "C": "强调只要有晋升机会就能坚持",
+    "D": "表示会把琐碎工作尽快交给更适合的人",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "重复琐碎题里，你没有把自己包装成永动机。"
+  },
+  {
+    "id": "i095",
+    "scenario": "岗位匹配",
+    "difficulty": 2,
+    "question": "考官追问你怎么看待“稳定”。你怎么答？",
+    "A": "稳定不是不变化，而是在规则岗位中持续承担责任",
+    "B": "稳定就是风险低、压力小、生活可预测",
+    "C": "稳定意味着不用再学习太多新东西",
+    "D": "稳定主要来自家人觉得体面",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "稳定题里，你没有把稳定说成躺平的别名。"
+  },
+  {
+    "id": "i096",
+    "scenario": "岗位匹配",
+    "difficulty": 3,
+    "question": "考官问如果入职后发现理想和现实差距很大，你怎么办？",
+    "A": "先把岗位职责做扎实，再通过学习和沟通校准预期",
+    "B": "如果差距太大就尽快考虑调整方向",
+    "C": "说明自己不会产生落差，因为早有准备",
+    "D": "把落差转化为争取更好岗位的动力",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "理想落差题里，你没有保证自己永远不破防。"
+  },
+  {
+    "id": "i097",
+    "scenario": "现场模拟",
+    "difficulty": 2,
+    "question": "请现场模拟：群众说“你们公告写得我看不懂”，你怎么回应？",
+    "A": "您说得对，公告如果让人看不懂，就没有真正告知到位。我先帮您对照您的情况说清楚，再把这条意见带回去改进。",
+    "B": "公告是统一格式，大家都是这样看的，您可以慢慢研究。",
+    "C": "您先别着急，具体能不能办要看系统显示。",
+    "D": "这个公告不是我写的，不过我可以帮您问问。",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "公告看不懂题里，你终于承认告知不是贴纸。"
+  },
+  {
+    "id": "i098",
+    "scenario": "现场模拟",
+    "difficulty": 2,
+    "question": "请现场模拟：企业负责人抱怨审批慢，认为政府不支持企业。你怎么回应？，请重点说明你的第一步。",
+    "A": "我理解您赶进度。我们先把卡在哪个环节说清楚，能并联的并联，必须核验的也会把依据和时限讲明白。",
+    "B": "审批慢主要是材料不规范，企业也要理解我们的难处。",
+    "C": "支持企业不等于什么都能快，您回去等通知就行。",
+    "D": "您这个问题很多企业都有，今天先登记。",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "审批慢模拟追问题里，你没有把企业焦虑直接退件。"
+  },
+  {
+    "id": "i099",
+    "scenario": "现场模拟",
+    "difficulty": 3,
+    "question": "请现场模拟：居民质疑“你们整治就是为了拍照”，你怎么回应？",
+    "A": "您这个质疑提醒我们不能只看现场照片。今天我们把反复出现的问题、责任人和回访时间一起公开，您可以继续监督。",
+    "B": "拍照是工作需要，不拍照上级也不知道我们做了。",
+    "C": "整治总要有过程，您先看后面效果。",
+    "D": "您这样说不太客观，我们确实做了很多工作。",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "拍照整治题里，你没有拿相册当治理成果。"
+  },
+  {
+    "id": "i100",
+    "scenario": "现场模拟",
+    "difficulty": 2,
+    "question": "请现场模拟：同事连续加班情绪低落，你怎么劝？",
+    "A": "最近确实压得太紧了。我们先把最急的拆出来，我能分担的先接一块，也一起跟负责人反馈节奏问题。",
+    "B": "大家都这么过来的，坚持一下就好了。",
+    "C": "你想开点，工作不可能都舒服。",
+    "D": "要不你先请假，剩下的我也没办法。",
+    "choiceEffects": {
+      "A": {
+        "workAbility": 3,
+        "eq": 1,
+        "risk": -1,
+        "mentalPressure": 1
+      },
+      "B": {
+        "eq": 3,
+        "workAbility": 1,
+        "background": 1,
+        "mentalPressure": 1
+      },
+      "C": {
+        "workAbility": 2,
+        "desire": 2,
+        "positionWeight": 1,
+        "risk": 1
+      },
+      "D": {
+        "integrity": 3,
+        "risk": -2,
+        "mentalPressure": 1,
+        "positionWeight": -1
+      }
+    },
+    "recordText": "劝同事题里，你没有只递鸡汤不递手。"
+  }
+]
